@@ -57,6 +57,15 @@ angular.module("app", ['ngResource', 'ngLodash'])
             downloadLinks = _.uniq(downloadLinks);
         };
 
+        vm.selectLevel = function (level) {
+            _.each(level.items, function (item) {
+                console.log(level.download);
+                item.download = level.download;
+
+                vm.changeDownloadLink(item);
+            });
+        };
+
         resource("sdk.json").get(function (sdk) {
             vm.sdk = sdk;
         });

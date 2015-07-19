@@ -6,7 +6,8 @@
   "license": "ISC",
   "description": "",
   "scripts": {
-    "start": "node downloadSDKInfo.js"
+    "generate": "node downloadSDKInfo.js",
+    "serve": "http-server ./web/"
   },
   "dependencies": {
     "async": "^1.3.0",
