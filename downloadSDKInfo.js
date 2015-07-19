@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 /**
  * Created by hesicong on 2015/7/18.
  */
@@ -78,11 +78,15 @@ function getVersion(rev) {
 
 function getApis(sdk) {
     var apiLevels = {};
-    apiLevels = _.merge(apiLevels, getApi(sdk, "add-on", "Add-on"));
-    apiLevels = _.merge(apiLevels, getApi(sdk, "platform", "SDK Platform"));
-    apiLevels = _.merge(apiLevels, getApi(sdk, "sample", "Samples"));
-    apiLevels = _.merge(apiLevels, getApi(sdk, "system-image", "System Image"));
-    apiLevels = _.merge(apiLevels, getApi(sdk, "source", "Source code"));
+    addApi(sdk, "add-on", "Addon", apiLevels);
+    addApi(sdk, "platform", "SDK Platform", apiLevels);
+    addApi(sdk, "sample", "Samples for SDK", apiLevels);
+    addApi(sdk, "system-image", "System Image", apiLevels);
+    addApi(sdk, "source", "Sources for Android SDK", apiLevels);
+
+    apiLevels = _.map(apiLevels, function (v) {
+       return v;
+    });
     return apiLevels;
 }
 
@@ -90,27 +94,40 @@ function isObsolete(item) {
     return !_.isUndefined(item["obsolete"]);
 }
 
-function getApi(sdk, items, defaultDescription) {
-    var apiLevels = {};
+function addApi(sdk, items, desc, apiLevels) {
     _.each(sdk[items], function (item) {
-        var level = item["api-level"][0];
+        var codename = '';
+        if(!_.isUndefined(item["codename"])){
+            codename = item["codename"][0];
+        }
+
+        var level = item["api-level"][0] + codename;
         var existLevel = apiLevels[level];
-        existLevel = existLevel || [];
+        existLevel = existLevel || {
+                apiLevel: level,
+                items: []
+            };
         var value = {
             description: function () {
                 if (_.isUndefined(item['description'])) {
-                    return defaultDescription;
+                    return desc;
                 }
 
-                return item['description'][0];
+                var description = desc + " " + item['description'][0];
+
+                if(!_.isUndefined(item['abi'])){
+                    description = item['abi'][0] + " " + description;
+                }
+
+                return description;
             }(),
             version: item['revision'][0],
             archives: item['archives'],
             obsolete: isObsolete(item)
         };
-        existLevel.push(value);
+        existLevel.items.push(value);
 
-        apiLevels[item["api-level"]] = existLevel;
+        apiLevels[level] = existLevel;
     });
 
     return apiLevels;
@@ -133,7 +150,15 @@ function getExtras(sdk) {
     });
 }
 
-function getTools(sdk, s, desc) {
+function getTools(sdk) {
+    var tools = [];
+    tools = tools.concat(getTool(sdk, 'build-tool', 'Android SDK Build-tools'));
+    tools = tools.concat(getTool(sdk, 'platform-tool', 'Android SDK Platform-tools'));
+    tools = tools.concat(getTool(sdk, 'tool', 'Android SDK Tools'));
+    return tools;
+}
+
+function getTool(sdk, s, desc) {
     return _.map(sdk[s], function (tag) {
         return {
             description: desc,
@@ -147,16 +172,12 @@ function getTools(sdk, s, desc) {
 function postProcess(sdk, callback) {
     console.log("Post processing");
     var info = {
-        tools: {
-            "buildTools": getTools(sdk, 'build-tool', 'Android SDK Build-tools'),
-            "platformTools": getTools(sdk, 'platform-tool', 'Android SDK Platform-tools'),
-            "sdkTools": getTools(sdk, 'tool', 'Android SDK Tools')
-        },
+        tools: getTools(sdk),
         apis: getApis(sdk),
         extras: getExtras(sdk)
     };
 
-    var outputFileName = "out/sdk.json";
+    var outputFileName = "web/sdk.json";
     console.log("Writing to", outputFileName);
     fs.writeFileSync(outputFileName, JSON.stringify(info, null, 2));
     callback(null, sdk);
@@ -164,7 +185,7 @@ function postProcess(sdk, callback) {
 
 async.waterfall([
     fetchDetailInfomation,
-    //writeToFile,
+    writeToFile,
     postProcess
 ], function (err, results) {
     console.log("Done");
