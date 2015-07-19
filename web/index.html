@@ -11,37 +11,35 @@
 </head>
 <body ng-controller="controller" class="ui container">
 <div class="ui segment">
-    <div class="ui message">
-        <h2>Options</h2>
+    <h2>Options</h2>
 
+    <div class="ui checkbox">
+        <input type="checkbox" ng-model="showObsolete">
+        <label>Show Obsolete Packages (red color)</label>
+    </div>
+
+    <div>
         <div class="ui checkbox">
-            <input type="checkbox" ng-model="showObsolete">
-            <label>Show Obsolete Packages (red color)</label>
+            <input type="checkbox" ng-model="os.windows">
+            <label>Windows</label>
         </div>
 
-        <div>
-            <div class="ui checkbox">
-                <input type="checkbox" ng-model="os.windows">
-                <label>Windows</label>
-            </div>
+        <div class="ui checkbox">
+            <input type="checkbox" ng-model="os.macosx">
+            <label>Mac</label>
+        </div>
 
-            <div class="ui checkbox">
-                <input type="checkbox" ng-model="os.macosx">
-                <label>Mac</label>
-            </div>
-
-            <div class="ui checkbox">
-                <input type="checkbox" ng-model="os.linux">
-                <label>Linux</label>
-            </div>
+        <div class="ui checkbox">
+            <input type="checkbox" ng-model="os.linux">
+            <label>Linux</label>
         </div>
     </div>
 </div>
 
-<div class="ui form">
+<div class="ui form segment">
     <div class="field">
         <label>Download links</label>
-        <textarea ng-bind="generateDownloadLinks()"></textarea>
+        <textarea ng-bind="getDownloadLinks()"></textarea>
     </div>
 </div>
 
@@ -55,7 +53,7 @@
             ng-class="{negative: item.obsolete}">
             <td class="six wide">
                 <div class="ui checkbox">
-                    <input type="checkbox" ng-model="item.download">
+                    <input type="checkbox" ng-change="changeDownloadLink(item)" ng-model="item.download">
                     <label>
                         {{::item.description}}
                     </label>
@@ -93,7 +91,7 @@
             <tr ng-repeat="item in level.items | filter: showObsoleteFn" ng-class="{negative: item.obsolete}">
                 <td class="six wide">
                     <div class="ui checkbox">
-                        <input type="checkbox">
+                        <input type="checkbox" ng-change="changeDownloadLink(item)" ng-model="item.download">
                         <label>
                             {{::item.description}}
                         </label>
@@ -127,7 +125,7 @@
             ng-class="{negative: item.obsolete}">
             <td class="six wide">
                 <div class="ui checkbox">
-                    <input type="checkbox" ng-model="item.download">
+                    <input type="checkbox" ng-change="changeDownloadLink(item)" ng-model="item.download">
                     <label>
                         {{::item.description[0]}}
                     </label>

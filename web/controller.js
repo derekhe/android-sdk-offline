@@ -25,8 +25,36 @@ angular.module("app", ['ngResource', 'ngLodash'])
             any: true
         };
 
-        vm.generateDownloadLinks = function () {
+        vm.getDownloadLinks = function () {
+            var links = '';
 
+            _.each(downloadLinks, function (link) {
+                links = links + link + "\r\n";
+            });
+
+            return links
+        };
+
+        var downloadLinks = [];
+
+        vm.changeDownloadLink = function (item) {
+            if (item.download) {
+                _.each(item.archives[0].archive, function (d) {
+                    if (vm.os[vm.getOS(d)]) {
+                        downloadLinks.push(d.url);
+                    }
+                });
+            }
+            else {
+                _.each(item.archives[0].archive, function (d) {
+                    console.log(d.url, downloadLinks);
+                    _.remove(downloadLinks, function (n) {
+                        return n === d.url;
+                    });
+                });
+            }
+
+            downloadLinks = _.uniq(downloadLinks);
         };
 
         resource("sdk.json").get(function (sdk) {
