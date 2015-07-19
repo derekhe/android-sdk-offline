@@ -73,7 +73,10 @@ function fetchDetailInfomation(callback) {
 }
 
 function getVersion(rev) {
-    return rev["major"] + "." + rev["minor"] + "." + rev["micro"];
+    var major = rev["major"] || '';
+    var minor = rev["minor"] || '';
+    var micro = rev["micro"] || '';
+    return major + "." + minor + "." + micro;
 }
 
 function getApis(sdk) {

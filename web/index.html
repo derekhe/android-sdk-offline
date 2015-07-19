@@ -13,6 +13,7 @@
 <div class="ui segment">
     <div class="ui message">
         <h2>Options</h2>
+
         <div class="ui checkbox">
             <input type="checkbox" ng-model="showObsolete">
             <label>Show Obsolete Packages (red color)</label>
@@ -36,6 +37,14 @@
         </div>
     </div>
 </div>
+
+<div class="ui form">
+    <div class="field">
+        <label>Download links</label>
+        <textarea ng-bind="generateDownloadLinks()"></textarea>
+    </div>
+</div>
+
 <div class="ui segment">
     <h2>
         Tools
@@ -45,17 +54,22 @@
         <tr ng-repeat="item in ::sdk.tools | filter: showObsoleteFn | orderBy:version:true"
             ng-class="{negative: item.obsolete}">
             <td class="six wide">
-                {{::item.description}}
+                <div class="ui checkbox">
+                    <input type="checkbox" ng-model="item.download">
+                    <label>
+                        {{::item.description}}
+                    </label>
+                </div>
             </td>
             <td class="two wide">
                 {{::item.version}}
             </td>
             <td class="two wide">
                 <div ng-repeat="archive in item.archives[0].archive" ng-show='os["{{getOS(archive)}}"]'>
-                    <a href = "{{archive.url}}">
-                    <i class="download icon"></i>
-                    <span>{{getOS(archive)}}</span>
-                    <span>{{archive.size | bytes}}</span>
+                    <a href="{{archive.url}}">
+                        <i class="download icon"></i>
+                        <span>{{getOS(archive)}}</span>
+                        <span>{{archive.size | bytes}}</span>
                     </a>
                 </div>
             </td>
@@ -70,19 +84,27 @@
     </h2>
 
     <div ng-repeat="level in sdk.apis | orderBy:apiLevel:true" class="ui segment">
-        <h4>API level {{level.apiLevel}}</h4>
+        <div class="ui checkbox">
+            <input type="checkbox">
+            <label><h4>API level {{level.apiLevel}}</h4></label>
+        </div>
         <table class="ui small celled blue table">
             <tbody>
             <tr ng-repeat="item in level.items | filter: showObsoleteFn" ng-class="{negative: item.obsolete}">
                 <td class="six wide">
-                    {{item.description}}
+                    <div class="ui checkbox">
+                        <input type="checkbox">
+                        <label>
+                            {{::item.description}}
+                        </label>
+                    </div>
                 </td>
                 <td class="two wide">
                     {{item.version}}
                 </td>
                 <td class="two wide">
                     <div ng-repeat="archive in item.archives[0].archive">
-                        <a href = "{{archive.url}}">
+                        <a href="{{archive.url}}">
                             <i class="download icon"></i>
                             <span>{{getOS(archive)}}</span>
                             <span>{{archive.size | bytes}}</span>
@@ -93,6 +115,39 @@
             </tbody>
         </table>
     </div>
+</div>
+
+<div class="ui segment">
+    <h2>
+        Extras
+    </h2>
+    <table class="ui small celled blue table">
+        <tbody>
+        <tr ng-repeat="item in ::sdk.extras | filter: showObsoleteFn | orderBy:version:true"
+            ng-class="{negative: item.obsolete}">
+            <td class="six wide">
+                <div class="ui checkbox">
+                    <input type="checkbox" ng-model="item.download">
+                    <label>
+                        {{::item.description[0]}}
+                    </label>
+                </div>
+            </td>
+            <td class="two wide">
+                {{::item.version}}
+            </td>
+            <td class="two wide">
+                <div ng-repeat="archive in item.archives[0].archive" ng-show='os["{{getOS(archive)}}"]'>
+                    <a href="{{archive.url}}">
+                        <i class="download icon"></i>
+                        <span>{{getOS(archive)}}</span>
+                        <span>{{archive.size | bytes}}</span>
+                    </a>
+                </div>
+            </td>
+        </tr>
+        </tbody>
+    </table>
 </div>
 
 </body>

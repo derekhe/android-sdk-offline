@@ -14,15 +14,19 @@ angular.module("app", ['ngResource', 'ngLodash'])
         };
 
         vm.getOS = function (archive) {
-            console.log(archive);
-            if (_.isUndefined(archive['host-os'])) return "";
+            if (_.isUndefined(archive['host-os'])) return "any";
             return archive['host-os'][0];
         };
 
         vm.os = {
             windows: true,
             macosx: true,
-            linux: true
+            linux: true,
+            any: true
+        };
+
+        vm.generateDownloadLinks = function () {
+
         };
 
         resource("sdk.json").get(function (sdk) {
