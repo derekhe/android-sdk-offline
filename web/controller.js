@@ -59,7 +59,6 @@ angular.module("app", ['ngResource', 'ngLodash'])
 
         vm.selectLevel = function (level) {
             _.each(level.items, function (item) {
-                console.log(level.download);
                 item.download = level.download;
 
                 vm.changeDownloadLink(item);
