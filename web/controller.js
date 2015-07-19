@@ -19,7 +19,11 @@ angular.module("app", ['ngResource', 'ngLodash'])
             return archive['host-os'][0];
         };
 
-
+        vm.os = {
+            windows: true,
+            macosx: true,
+            linux: true
+        };
 
         resource("sdk.json").get(function (sdk) {
             vm.sdk = sdk;

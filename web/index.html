@@ -12,9 +12,27 @@
 <body ng-controller="controller" class="ui container">
 <div class="ui segment">
     <div class="ui message">
+        <h2>Options</h2>
         <div class="ui checkbox">
             <input type="checkbox" ng-model="showObsolete">
             <label>Show Obsolete Packages (red color)</label>
+        </div>
+
+        <div>
+            <div class="ui checkbox">
+                <input type="checkbox" ng-model="os.windows">
+                <label>Windows</label>
+            </div>
+
+            <div class="ui checkbox">
+                <input type="checkbox" ng-model="os.macosx">
+                <label>Mac</label>
+            </div>
+
+            <div class="ui checkbox">
+                <input type="checkbox" ng-model="os.linux">
+                <label>Linux</label>
+            </div>
         </div>
     </div>
 </div>
@@ -33,7 +51,7 @@
                 {{::item.version}}
             </td>
             <td class="two wide">
-                <div ng-repeat="archive in item.archives[0].archive">
+                <div ng-repeat="archive in item.archives[0].archive" ng-show='os["{{getOS(archive)}}"]'>
                     <a href = "{{archive.url}}">
                     <i class="download icon"></i>
                     <span>{{getOS(archive)}}</span>
