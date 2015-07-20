@@ -6,6 +6,8 @@ You can use your favorite download tool to download them. Then put these downloa
 
 If your can't get the Android SDK Manager items or if they are not update, or the download speed is slow, please try to use the [proxy listed here](http://www.androiddevtools.cn/)
 
+If it helps, please star and spread this project :)
+
 # Online site
 http://www.april1985.com/android-sdk-offline/
 
