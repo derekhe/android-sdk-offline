@@ -172,12 +172,18 @@ function getTool(sdk, s, desc) {
     })
 }
 
+function getDate() {
+    var d = new Date();
+    return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
+}
+
 function postProcess(sdk, callback) {
     console.log("Post processing");
     var info = {
         tools: getTools(sdk),
         apis: getApis(sdk),
-        extras: getExtras(sdk)
+        extras: getExtras(sdk),
+        updated: getDate()
     };
 
     var outputFileName = "web/sdk.json";
