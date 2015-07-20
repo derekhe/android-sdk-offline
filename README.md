@@ -4,6 +4,10 @@ This tool help to you generate offline down links for Android SDK. This is helpf
 
 You can use your favorite download tool to download them. Then put these downloaded files into sdk/temp folder and open Android SDK Manager. Click the items in Android SDK Manager, it will read from your downloaded cache.
 
+# Online site
+http://www.april1985.com/android-sdk-offline/
+
+
 # Clone and run locally
 
 ```
