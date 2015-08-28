@@ -1179,175 +1179,51 @@
           "archive": [
             {
               "size": [
-                "36765221"
+                "38570715"
               ],
               "checksum": [
                 {
-                  "_": "a77963f9820ae8cd6c0b3992f48a9a393b74a3e0",
+                  "_": "3874948f35f2f8946597679cc6e9151449f23b5d",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23_rc2-windows.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r23-windows.zip",
               "host-os": [
                 "windows"
               ]
             },
             {
               "size": [
-                "37245283"
+                "39080519"
               ],
               "checksum": [
                 {
-                  "_": "4a0266b4de09de123a759ce35cfb60b48fcdd56f",
+                  "_": "c1d6209212b01469f80fa804e0c1d39a06bc9060",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23_rc2-linux.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r23-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "36748526"
+                "38070540"
               ],
               "checksum": [
                 {
-                  "_": "fd94500c4aeb98c1502dd3193d4e00d5300daa59",
+                  "_": "90ba6e716f7703a236cd44b2e71c5ff430855a03",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23_rc2-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "23.0.0",
-      "obsolete": false,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "38114703"
-              ],
-              "checksum": [
-                {
-                  "_": "e8f93d2f6838bcd7b044ee50e9e531c3e91340ce",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23_rc3-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            },
-            {
-              "size": [
-                "38623800"
-              ],
-              "checksum": [
-                {
-                  "_": "e491a8f9a8cc75c0970ff893cce49691841c4c31",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23_rc3-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "37613261"
-              ],
-              "checksum": [
-                {
-                  "_": "9e593c33e4f69eb82c9ee461e97028966703cdae",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23_rc3-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Platform-tools",
-      "version": "22.0.0",
-      "obsolete": false,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "1848028"
-              ],
-              "checksum": [
-                {
-                  "_": "720214bd29d08eb82673cd81a8159b083eef19d7",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r22-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            },
-            {
-              "size": [
-                "1751911"
-              ],
-              "checksum": [
-                {
-                  "_": "b78be9cc31cf9f9fe0609e29a6a133beacf03b52",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r22-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "1743025"
-              ],
-              "checksum": [
-                {
-                  "_": "ddc96385bccf8a15d4f8a11eb1cb9d2a08a531c8",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r22-macosx.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r23-macosx.zip",
               "host-os": [
                 "macosx"
               ]
@@ -1365,51 +1241,51 @@
           "archive": [
             {
               "size": [
-                "2357137"
+                "2382095"
               ],
               "checksum": [
                 {
-                  "_": "623f066a601efac7f30d57276371c11bc702bb2d",
+                  "_": "52b4816990d2d18a34645bbf20a31b38a7859d4c",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r23_rc4-windows.zip",
+              "url": "http://dl.google.com/android/repository/platform-tools_r23-windows.zip",
               "host-os": [
                 "windows"
               ]
             },
             {
               "size": [
-                "2474101"
+                "2499052"
               ],
               "checksum": [
                 {
-                  "_": "df1fd4c3571767210c15f36f7ce5d412a1896b9f",
+                  "_": "31078104e5927d823c28550c01275c437a87def7",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r23_rc4-linux.zip",
+              "url": "http://dl.google.com/android/repository/platform-tools_r23-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "2443892"
+                "2468889"
               ],
               "checksum": [
                 {
-                  "_": "1372537eb8be8d365c169282d99298a3f776e078",
+                  "_": "1403fa0d1bb57ec31170d7905e8505e3b0ed05ee",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r23_rc4-macosx.zip",
+              "url": "http://dl.google.com/android/repository/platform-tools_r23-macosx.zip",
               "host-os": [
                 "macosx"
               ]
@@ -1420,58 +1296,58 @@
     },
     {
       "description": "Android SDK Tools",
-      "version": "24.3.3",
+      "version": "24.3.4",
       "obsolete": false,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "187206494"
+                "187222700"
               ],
               "checksum": [
                 {
-                  "_": "9aec685e03aaa8ebf9991502b5fda7db208693f1",
+                  "_": "0629a80d00d0a2b661173ef1173c1ca59fa54d88",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r24.3.3-windows.zip",
+              "url": "http://dl.google.com/android/repository/tools_r24.3.4-windows.zip",
               "host-os": [
                 "windows"
               ]
             },
             {
               "size": [
-                "309556636"
+                "309575250"
               ],
               "checksum": [
                 {
-                  "_": "c2c6f6236cbee34c80ec6b5f9f6b7bf0bc5919cb",
+                  "_": "d3f66f0b3d18166c0f560e9024d0559b8ab29dff",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r24.3.3-linux.zip",
+              "url": "http://dl.google.com/android/repository/tools_r24.3.4-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "98260362"
+                "98270438"
               ],
               "checksum": [
                 {
-                  "_": "97b48b818ee596593da7f753e58307069a37f6b8",
+                  "_": "200d22d0e8e6b03f30e7f9acb42e2a4bedbcef69",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r24.3.3-macosx.zip",
+              "url": "http://dl.google.com/android/repository/tools_r24.3.4-macosx.zip",
               "host-os": [
                 "macosx"
               ]
@@ -2250,31 +2126,6 @@
                   "url": [
                     "https://dl-ssl.google.com/android/repository/samples-2.3.3_r01-linux.zip"
                   ]
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "x86 System Image Android SDK Platform 2.3.7",
-          "version": "3",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "66997702"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "6b8539eaca9685d2d3289bf8e6d21d366d791326",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-10_r03.zip"
                 }
               ]
             }
@@ -3403,7 +3254,7 @@
                     "_",
                     "r",
                     "1",
-                    "4",
+                    "5",
                     ".",
                     "z",
                     "i",
@@ -3420,23 +3271,23 @@
         },
         {
           "description": "Addon Android + Google APIs",
-          "version": "14",
+          "version": "15",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "178178587"
+                    "180264093"
                   ],
                   "checksum": [
                     {
-                      "_": "cb053798e862c0f674ef909aa58218f07d277d18",
+                      "_": "bb3f76956860ca8c2bd6204a3ea0e9dba48c1fb3",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/google_apis-19_r14.zip"
+                  "url": "http://dl.google.com/android/repository/google_apis-19_r15.zip"
                 }
               ]
             }
@@ -3707,23 +3558,23 @@
         },
         {
           "description": "x86 System Image System Image x86 with Google APIs.",
-          "version": "6",
+          "version": "7",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "273552215"
+                    "276477748"
                   ],
                   "checksum": [
                     {
-                      "_": "1e8dbdd5de5ef579eb7e3dd6d3caf9081694092f",
+                      "_": "ee86224cfee5dbc16beac04ad754108a91aca748",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-21_r06.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-21_r07.zip"
                 }
               ]
             }
@@ -3732,23 +3583,23 @@
         },
         {
           "description": "x86_64 System Image System Image x86_64 with Google APIs.",
-          "version": "6",
+          "version": "7",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "387469675"
+                    "391441508"
                   ],
                   "checksum": [
                     {
-                      "_": "88e7930474123ba221b0374e83210439c7795c4f",
+                      "_": "ed322dad47f9db31ee96e13d9ef5a0eb154aa160",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-21_r06.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-21_r07.zip"
                 }
               ]
             }
@@ -3757,48 +3608,23 @@
         },
         {
           "description": "armeabi-v7a System Image System Image armeabi-v7a with Google APIs.",
-          "version": "6",
+          "version": "7",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "255064874"
+                    "257887938"
                   ],
                   "checksum": [
                     {
-                      "_": "d75df79c6239ded8b0aef46625f333e6f99db3f7",
+                      "_": "36951d871f6a14de35ebdbb4daf698987bc244e7",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-21_r06.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "armeabi-v7a System Image Android SDK Platform 5.0.2",
-          "version": "3",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "186521381"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "0b2e21421d29f48211b5289ca4addfa7f4c7ae5a",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_arm-21_r03.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-21_r07.zip"
                 }
               ]
             }
@@ -3986,6 +3812,31 @@
           "obsolete": false
         },
         {
+          "description": "armeabi-v7a System Image System Image armeabi-v7a with Google APIs.",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "265234495"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "70273783312d4519f8b503cdd8be980180fb1197",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-22_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "x86_64 System Image System Image x86_64 with Google APIs.",
           "version": "1",
           "archives": [
@@ -4004,31 +3855,6 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-22_r01.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "armeabi-v7a System Image Android SDK Platform 5.1",
-          "version": "1",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "193687339"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "2aa6a887ee75dcf3ac34627853d561997792fcb8",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_arm-22_r01.zip"
                 }
               ]
             }
@@ -4113,27 +3939,52 @@
       ]
     },
     {
-      "apiLevel": "22MNC",
+      "apiLevel": "23",
       "items": [
         {
-          "description": "SDK Platform Android SDK Platform M",
-          "version": "2",
+          "description": "Addon Android + Google APIs",
+          "version": "1",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "70574344"
+                    "179900"
                   ],
                   "checksum": [
                     {
-                      "_": "876c6c43838ee0a37dde1b126203c7a515b8a3e9",
+                      "_": "04c5cc1a7c88967250ebba9561d81e24104167db",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-MNC_r02.zip"
+                  "url": "http://dl.google.com/android/repository/google_apis-23_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "SDK Platform Android SDK Platform 6.0",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "70408061"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "cbccca8d3127e894845556ce999b28281de541bd",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-23_r01.zip"
                 }
               ]
             }
@@ -4148,17 +3999,67 @@
               "archive": [
                 {
                   "size": [
-                    "127155107"
+                    "127582326"
                   ],
                   "checksum": [
                     {
-                      "_": "ed293bf4ed9c88471ef858813cc8602dff98f634",
+                      "_": "94d2857476987cfb7b18c8be61755c21b0a6e599",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/samples-MNC_r02.zip"
+                  "url": "http://dl.google.com/android/repository/samples-23_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86 System Image System Image x86 with Google APIs.",
+          "version": "7",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "346990869"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "0452e1490eabcb1d7bf88625ec91b3278d88dee8",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-23_r07.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image System Image x86_64 with Google APIs.",
+          "version": "7",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "471330037"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "d1f7034a2a9e5ed05ae00bff6318cfac01275821",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-23_r07.zip"
                 }
               ]
             }
@@ -4167,23 +4068,23 @@
         },
         {
           "description": "armeabi-v7a System Image System Image armeabi-v7a with Google APIs.",
-          "version": "1",
+          "version": "7",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "265234495"
+                    "329355876"
                   ],
                   "checksum": [
                     {
-                      "_": "70273783312d4519f8b503cdd8be980180fb1197",
+                      "_": "8fdeb07bcdaff4211b7fd979135541b06b2adaaf",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-22_r01.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-23_r07.zip"
                 }
               ]
             }
@@ -4191,24 +4092,24 @@
           "obsolete": false
         },
         {
-          "description": "armeabi-v7a System Image Android SDK Platform M",
-          "version": "2",
+          "description": "x86 System Image Android SDK Platform 6.0",
+          "version": "3",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "314697792"
+                    "240896796"
                   ],
                   "checksum": [
                     {
-                      "_": "de0b7449c026abe463211b58ca00ad19e584097a",
+                      "_": "3cb2e8efb575c35a558b091eac7e1bc5843f5f12",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_arm-MNC_r02.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-23_r03.zip"
                 }
               ]
             }
@@ -4216,24 +4117,24 @@
           "obsolete": false
         },
         {
-          "description": "arm64-v8a System Image Android SDK Platform M",
-          "version": "2",
+          "description": "x86_64 System Image Android SDK Platform 6.0",
+          "version": "3",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "441858149"
+                    "337897181"
                   ],
                   "checksum": [
                     {
-                      "_": "f33245eeb6b634f186e32e7ba7f25e0b99211c26",
+                      "_": "226510856431bc4a73690540a8d7cbad974bedd3",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_arm64-MNC_r02.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-23_r03.zip"
                 }
               ]
             }
@@ -4241,74 +4142,24 @@
           "obsolete": false
         },
         {
-          "description": "x86 System Image Android SDK Platform M",
-          "version": "2",
+          "description": "armeabi-v7a System Image Android SDK Platform 6.0",
+          "version": "3",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "331113804"
+                    "226879660"
                   ],
                   "checksum": [
                     {
-                      "_": "2f2ab2676f9d06a847b9312d16e2afef595cac7a",
+                      "_": "7bb8768ec4333500192fd9627d4234f505fa98dc",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-MNC_r02.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "x86_64 System Image Android SDK Platform M",
-          "version": "2",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "458292875"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "d4452559950317b2c09891cf367fd1f1ef445ef2",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-MNC_r02.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "mips System Image Android SDK Platform M",
-          "version": "2",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "331586274"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "787874a613f36e85b355e564841550902749e0dc",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_mips-MNC_r02.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_arm-23_r03.zip"
                 }
               ]
             }
@@ -4317,23 +4168,23 @@
         },
         {
           "description": "Sources for Android SDK",
-          "version": "2",
+          "version": "1",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "31356903"
+                    "31771965"
                   ],
                   "checksum": [
                     {
-                      "_": "bb7c7827e2b4fbb850111e8191dde106e73a78ed",
+                      "_": "b0f15da2762b42f543c5e364c2b15b198cc99cc2",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sources-MNC_r02.zip"
+                  "url": "http://dl.google.com/android/repository/sources-23_r01.zip"
                 }
               ]
             }
@@ -4348,7 +4199,7 @@
       "description": [
         "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "5.3.0",
+      "version": "5.4.0",
       "archives": [
         {
           "archive": [
@@ -4358,17 +4209,17 @@
                 "os": "any"
               },
               "size": [
-                "1778609"
+                "1767045"
               ],
               "checksum": [
                 {
-                  "_": "81e64f8147348d0e4e8301a6f9d03c5959d373e5",
+                  "_": "23b66faca8b0e08c50711cfb49ed7bfcd7cf677b",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r05.3.zip",
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r05.4.zip",
               "host-os": [
                 "windows"
               ]
@@ -4378,17 +4229,17 @@
                 "macosx"
               ],
               "size": [
-                "482334"
+                "223512"
               ],
               "checksum": [
                 {
-                  "_": "d5ff91056deb38925c6773ea9609fd64c8653fc5",
+                  "_": "9a2c7727e7b4ec753379beaa824a3d0edaea9962",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r05.3.zip"
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r05.4.zip"
             }
           ]
         }
@@ -4399,23 +4250,23 @@
       "description": [
         "Android Support Repository"
       ],
-      "version": "16..",
+      "version": "17..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "101165050"
+                "107094313"
               ],
               "checksum": [
                 {
-                  "_": "c9bca7dbdd7b654ed471069ecb364a2b5683b07c",
+                  "_": "2be1ea1d2dd7aca689d4291dd565deee9b21791e",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/android_m2repository_r16.zip"
+              "url": "http://dl.google.com/android/repository/android_m2repository_r17.zip"
             }
           ]
         }
@@ -4426,23 +4277,23 @@
       "description": [
         "Google Repository"
       ],
-      "version": "19..",
+      "version": "21..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "48670246"
+                "54130608"
               ],
               "checksum": [
                 {
-                  "_": "09f4445d0e2572e514de60615bc0cc3a7d391558",
+                  "_": "056436bdbdb973e6f125bd16ba9e3bdcd1d33e6f",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_m2repository_r19.zip"
+              "url": "http://dl.google.com/android/repository/google_m2repository_r21.zip"
             }
           ]
         }
@@ -4534,23 +4385,23 @@
       "description": [
         "Google Play services"
       ],
-      "version": "25..",
+      "version": "26..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "18965412"
+                "19906685"
               ],
               "checksum": [
                 {
-                  "_": "e55f211a575a90f4d4eba10509fc7c8fb13b6e57",
+                  "_": "7b9447ea13ebabdd1f9943a2ed9b205d03594c81",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_play_services_7571000_r25.zip"
+              "url": "http://dl.google.com/android/repository/google_play_services_7895000_r26.zip"
             }
           ]
         }
@@ -4752,7 +4603,71 @@
         }
       ],
       "obsolete": false
+    },
+    {
+      "description": [
+        "Android Auto Desktop Head Unit emulator"
+      ],
+      "version": "1.0.",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "1346136"
+              ],
+              "checksum": [
+                {
+                  "_": "e054563f9efdc2f6089693566bce5b8fba2cd1c6",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/extras/auto/desktop-head-unit-linux_r01.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "2691813"
+              ],
+              "checksum": [
+                {
+                  "_": "499bb4520f95e708585947c9fc72efeeb610685f",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/extras/auto/desktop-head-unit-windows_r01.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "2389261"
+              ],
+              "checksum": [
+                {
+                  "_": "64510b97c3c2c6dccab7932a816a20b84d9a5dc3",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/extras/auto/desktop-head-unit-macosx_r01.zip",
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ],
+      "obsolete": false
     }
   ],
-  "updated": "2015-7-20"
+  "updated": "2015-8-28"
 }
