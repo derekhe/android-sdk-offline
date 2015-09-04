@@ -1173,7 +1173,7 @@
     {
       "description": "Android SDK Build-tools",
       "version": "23.0.0",
-      "obsolete": false,
+      "obsolete": true,
       "archives": [
         {
           "archive": [
@@ -1224,6 +1224,68 @@
                 }
               ],
               "url": "http://dl.google.com/android/repository/build-tools_r23-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "23.0.1",
+      "obsolete": false,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "38558889"
+              ],
+              "checksum": [
+                {
+                  "_": "cc1d37231d228f7a6f130e1f8d8c940052f0f8ab",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r23.0.1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "39069295"
+              ],
+              "checksum": [
+                {
+                  "_": "b6ba7c399d5fa487d95289d8832e4ad943aed556",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r23.0.1-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "38059328"
+              ],
+              "checksum": [
+                {
+                  "_": "d96ec1522721e9a179ae2c591c99f75d31d39718",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r23.0.1-macosx.zip",
               "host-os": [
                 "macosx"
               ]
@@ -4250,23 +4312,23 @@
       "description": [
         "Android Support Repository"
       ],
-      "version": "17..",
+      "version": "19..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "107094313"
+                "113056364"
               ],
               "checksum": [
                 {
-                  "_": "2be1ea1d2dd7aca689d4291dd565deee9b21791e",
+                  "_": "c033560828571d751e069f4cb0e447289dc795cc",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/android_m2repository_r17.zip"
+              "url": "http://dl.google.com/android/repository/android_m2repository_r19.zip"
             }
           ]
         }
@@ -4669,5 +4731,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2015-9-3"
+  "updated": "2015-9-4"
 }
