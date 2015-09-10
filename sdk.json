@@ -1296,58 +1296,58 @@
     },
     {
       "description": "Android SDK Platform-tools",
-      "version": "23.0.0",
+      "version": "23.0.1",
       "obsolete": false,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "2382095"
+                "2402978"
               ],
               "checksum": [
                 {
-                  "_": "52b4816990d2d18a34645bbf20a31b38a7859d4c",
+                  "_": "8f32d5f724618ad58e71909cc963ae006d0867b0",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r23-windows.zip",
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.0.1-windows.zip",
               "host-os": [
                 "windows"
               ]
             },
             {
               "size": [
-                "2499052"
+                "2520021"
               ],
               "checksum": [
                 {
-                  "_": "31078104e5927d823c28550c01275c437a87def7",
+                  "_": "94dcc5072b3d0d74cc69e4101958b6c2e227e738",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r23-linux.zip",
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.0.1-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "2468889"
+                "2489850"
               ],
               "checksum": [
                 {
-                  "_": "1403fa0d1bb57ec31170d7905e8505e3b0ed05ee",
+                  "_": "c461d66f3ca9fbae8ea0fa1a49c203b3b6fd653f",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r23-macosx.zip",
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.0.1-macosx.zip",
               "host-os": [
                 "macosx"
               ]
@@ -4731,5 +4731,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2015-9-9"
+  "updated": "2015-9-10"
 }
