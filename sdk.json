@@ -4312,23 +4312,23 @@
       "description": [
         "Android Support Repository"
       ],
-      "version": "19..",
+      "version": "20..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "113056364"
+                "136883212"
               ],
               "checksum": [
                 {
-                  "_": "c033560828571d751e069f4cb0e447289dc795cc",
+                  "_": "bc377621f487fe37a4a6f7b12cf6da0ed216702e",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/android_m2repository_r19.zip"
+              "url": "http://dl.google.com/android/repository/android_m2repository_r20.zip"
             }
           ]
         }
@@ -4731,5 +4731,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2015-9-15"
+  "updated": "2015-9-16"
 }
