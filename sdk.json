@@ -1357,6 +1357,68 @@
       ]
     },
     {
+      "description": "Android SDK Platform-tools",
+      "version": "23.1.0",
+      "obsolete": false,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "2594786"
+              ],
+              "checksum": [
+                {
+                  "_": "0467934bfbbb8bd72959f7365e1a3ce2683b68f6",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.1_rc1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "2873688"
+              ],
+              "checksum": [
+                {
+                  "_": "b04d1dbdfd734b0263fb04182e76ff565447f498",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.1_rc1-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "2752137"
+              ],
+              "checksum": [
+                {
+                  "_": "c92d9fdfdf79e04a69412492d6480d4f937d1bcc",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.1_rc1-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "description": "Android SDK Tools",
       "version": "24.3.4",
       "obsolete": false,
@@ -4731,5 +4793,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2015-9-17"
+  "updated": "2015-9-18"
 }
