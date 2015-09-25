@@ -3378,7 +3378,7 @@
                     "_",
                     "r",
                     "1",
-                    "5",
+                    "6",
                     ".",
                     "z",
                     "i",
@@ -3395,23 +3395,23 @@
         },
         {
           "description": "Addon Android + Google APIs",
-          "version": "15",
+          "version": "16",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "180264093"
+                    "182452246"
                   ],
                   "checksum": [
                     {
-                      "_": "bb3f76956860ca8c2bd6204a3ea0e9dba48c1fb3",
+                      "_": "d92f2a2fe219e578633c6445397e1f675edc6a28",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/google_apis-19_r15.zip"
+                  "url": "http://dl.google.com/android/repository/google_apis-19_r16.zip"
                 }
               ]
             }
@@ -3682,23 +3682,23 @@
         },
         {
           "description": "x86 System Image System Image x86 with Google APIs.",
-          "version": "7",
+          "version": "8",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "276477748"
+                    "278715959"
                   ],
                   "checksum": [
                     {
-                      "_": "ee86224cfee5dbc16beac04ad754108a91aca748",
+                      "_": "af7cd38286a46bac2d7ab1561c46a2e18737405b",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-21_r07.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-21_r08.zip"
                 }
               ]
             }
@@ -3707,23 +3707,23 @@
         },
         {
           "description": "x86_64 System Image System Image x86_64 with Google APIs.",
-          "version": "7",
+          "version": "8",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "391441508"
+                    "394719752"
                   ],
                   "checksum": [
                     {
-                      "_": "ed322dad47f9db31ee96e13d9ef5a0eb154aa160",
+                      "_": "8904d6074ad2724536c831d1002ec60e678c2766",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-21_r07.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-21_r08.zip"
                 }
               ]
             }
@@ -3732,23 +3732,23 @@
         },
         {
           "description": "armeabi-v7a System Image System Image armeabi-v7a with Google APIs.",
-          "version": "7",
+          "version": "8",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "257887938"
+                    "260379197"
                   ],
                   "checksum": [
                     {
-                      "_": "36951d871f6a14de35ebdbb4daf698987bc244e7",
+                      "_": "92a3b28b8ea113a9a7936ecaef89b84a87a4539e",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-21_r07.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-21_r08.zip"
                 }
               ]
             }
@@ -4401,23 +4401,23 @@
       "description": [
         "Google Repository"
       ],
-      "version": "21..",
+      "version": "22..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "54130608"
+                "59491846"
               ],
               "checksum": [
                 {
-                  "_": "056436bdbdb973e6f125bd16ba9e3bdcd1d33e6f",
+                  "_": "4c114ac217f4b2f066d731ce906eeb635ee2a5b4",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_m2repository_r21.zip"
+              "url": "http://dl.google.com/android/repository/google_m2repository_r22.zip"
             }
           ]
         }
@@ -4509,23 +4509,23 @@
       "description": [
         "Google Play services"
       ],
-      "version": "26..",
+      "version": "27..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "19906685"
+                "21163425"
               ],
               "checksum": [
                 {
-                  "_": "7b9447ea13ebabdd1f9943a2ed9b205d03594c81",
+                  "_": "cdb13f826ca82d3c3730cf1df9f3bf58565fd4bb",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_play_services_7895000_r26.zip"
+              "url": "http://dl.google.com/android/repository/google_play_services_8115000_r27.zip"
             }
           ]
         }
@@ -4793,5 +4793,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2015-9-24"
+  "updated": "2015-9-25"
 }
