@@ -1420,58 +1420,58 @@
     },
     {
       "description": "Android SDK Tools",
-      "version": "24.3.4",
+      "version": "24.4.0",
       "obsolete": false,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "187222700"
+                "197016004"
               ],
               "checksum": [
                 {
-                  "_": "0629a80d00d0a2b661173ef1173c1ca59fa54d88",
+                  "_": "c3b5d466a8f75d86db79d3c9b8724a4b1d287f5a",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r24.3.4-windows.zip",
+              "url": "http://dl.google.com/android/repository/tools_r24.4-windows.zip",
               "host-os": [
                 "windows"
               ]
             },
             {
               "size": [
-                "309575250"
+                "320385195"
               ],
               "checksum": [
                 {
-                  "_": "d3f66f0b3d18166c0f560e9024d0559b8ab29dff",
+                  "_": "f120858b1f7eedb573608d4ebf16a046d8833024",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r24.3.4-linux.zip",
+              "url": "http://dl.google.com/android/repository/tools_r24.4-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "98270438"
+                "101816531"
               ],
               "checksum": [
                 {
-                  "_": "200d22d0e8e6b03f30e7f9acb42e2a4bedbcef69",
+                  "_": "b83ba3875b4e701b978a11d6506e8997907efca1",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r24.3.4-macosx.zip",
+              "url": "http://dl.google.com/android/repository/tools_r24.4-macosx.zip",
               "host-os": [
                 "macosx"
               ]
@@ -4793,5 +4793,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2015-9-29"
+  "updated": "2015-9-30"
 }
