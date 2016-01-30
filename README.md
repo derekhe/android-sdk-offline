@@ -26,3 +26,7 @@ npm run serve
 ```
 
 open your browser and navigate to localhost:8080
+
+Hope this tool can help you
+======================
+<a href='https://pledgie.com/campaigns/30995'><img alt='Click here to lend your support to: Donate my github projects and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/30995.png?skin_name=chrome' border='0' ></a>
