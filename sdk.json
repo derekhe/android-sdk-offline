@@ -1295,6 +1295,68 @@
       ]
     },
     {
+      "description": "Android SDK Build-tools",
+      "version": "23.0.2",
+      "obsolete": false,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "38217626"
+              ],
+              "checksum": [
+                {
+                  "_": "fc3a92c744d3ba0a16ccb5d2b41eea5974ce0a96",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r23.0.2-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "39071201"
+              ],
+              "checksum": [
+                {
+                  "_": "8a9f2b37f6fcf7a9fa784dc21aeaeb41bbb9f2c3",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r23.0.2-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "38060914"
+              ],
+              "checksum": [
+                {
+                  "_": "482c4cbceef8ff58aefd92d8155a38610158fdaf",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r23.0.2-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "description": "Android SDK Platform-tools",
       "version": "23.0.1",
       "obsolete": false,
@@ -1420,58 +1482,120 @@
     },
     {
       "description": "Android SDK Tools",
-      "version": "24.4.0",
+      "version": "24.4.1",
       "obsolete": false,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "197016004"
+                "199426345"
               ],
               "checksum": [
                 {
-                  "_": "c3b5d466a8f75d86db79d3c9b8724a4b1d287f5a",
+                  "_": "4b16f8f109e49a11a36949fe781dc804d38a1a68",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r24.4-windows.zip",
+              "url": "http://dl.google.com/android/repository/tools_r24.4.1-windows.zip",
               "host-os": [
                 "windows"
               ]
             },
             {
               "size": [
-                "320385195"
+                "326745882"
               ],
               "checksum": [
                 {
-                  "_": "f120858b1f7eedb573608d4ebf16a046d8833024",
+                  "_": "7e00ea3715f2cf666296ce22058764ec7ecb3b7e",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r24.4-linux.zip",
+              "url": "http://dl.google.com/android/repository/tools_r24.4.1-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "101816531"
+                "102711295"
               ],
               "checksum": [
                 {
-                  "_": "b83ba3875b4e701b978a11d6506e8997907efca1",
+                  "_": "90db74e1827846b0e946a26d22a4314f8cfa3701",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r24.4-macosx.zip",
+              "url": "http://dl.google.com/android/repository/tools_r24.4.1-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Tools",
+      "version": "25.0.4",
+      "obsolete": false,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "228656255"
+              ],
+              "checksum": [
+                {
+                  "_": "11a74e38d3c07700fd760dac757235ff882820a8",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/tools_r25.0.4-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "326451504"
+              ],
+              "checksum": [
+                {
+                  "_": "ca873b74d1ed89f084ec8b2651fae42cd5bf0955",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/tools_r25.0.4-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "159523595"
+              ],
+              "checksum": [
+                {
+                  "_": "00846a699c63b6b4669ebfba1911571a44262486",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/tools_r25.0.4-macosx.zip",
               "host-os": [
                 "macosx"
               ]
@@ -3378,7 +3502,7 @@
                     "_",
                     "r",
                     "1",
-                    "6",
+                    "8",
                     ".",
                     "z",
                     "i",
@@ -3395,23 +3519,23 @@
         },
         {
           "description": "Addon Android + Google APIs",
-          "version": "16",
+          "version": "18",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "182452246"
+                    "178839341"
                   ],
                   "checksum": [
                     {
-                      "_": "d92f2a2fe219e578633c6445397e1f675edc6a28",
+                      "_": "701595b0d9985cca00be29b3c606e64731c3e1f7",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/google_apis-19_r16.zip"
+                  "url": "http://dl.google.com/android/repository/google_apis-19_r18.zip"
                 }
               ]
             }
@@ -3682,23 +3806,23 @@
         },
         {
           "description": "x86 System Image System Image x86 with Google APIs.",
-          "version": "8",
+          "version": "10",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "278715959"
+                    "277540594"
                   ],
                   "checksum": [
                     {
-                      "_": "af7cd38286a46bac2d7ab1561c46a2e18737405b",
+                      "_": "c218fba49110dcc811d24bc170af8863c6253f8f",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-21_r08.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-21_r10.zip"
                 }
               ]
             }
@@ -3707,23 +3831,23 @@
         },
         {
           "description": "x86_64 System Image System Image x86_64 with Google APIs.",
-          "version": "8",
+          "version": "10",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "394719752"
+                    "397100986"
                   ],
                   "checksum": [
                     {
-                      "_": "8904d6074ad2724536c831d1002ec60e678c2766",
+                      "_": "e9d75e0d6fc6733b3b0578ddda85f1ac702f8ea0",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-21_r08.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-21_r10.zip"
                 }
               ]
             }
@@ -3732,23 +3856,23 @@
         },
         {
           "description": "armeabi-v7a System Image System Image armeabi-v7a with Google APIs.",
-          "version": "8",
+          "version": "10",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "260379197"
+                    "258611465"
                   ],
                   "checksum": [
                     {
-                      "_": "92a3b28b8ea113a9a7936ecaef89b84a87a4539e",
+                      "_": "10a7ae993dbd9ac45be9e5946d87c25e51c4bcf3",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-21_r08.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_arm-21_r10.zip"
                 }
               ]
             }
@@ -3912,23 +4036,23 @@
         },
         {
           "description": "x86 System Image System Image x86 with Google APIs.",
-          "version": "1",
+          "version": "4",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "280623858"
+                    "342466200"
                   ],
                   "checksum": [
                     {
-                      "_": "4d18a23357af30a7df9a8f5f31b7dc3f4d1f74b2",
+                      "_": "86754a8918d0dbfe74bbe10ac57f5ad385db9025",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-22_r01.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-22_r04.zip"
                 }
               ]
             }
@@ -3962,23 +4086,23 @@
         },
         {
           "description": "x86_64 System Image System Image x86_64 with Google APIs.",
-          "version": "1",
+          "version": "4",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "392523227"
+                    "469640937"
                   ],
                   "checksum": [
                     {
-                      "_": "078ecd0dd702db28cb9e15c1b0d1832f944548ca",
+                      "_": "86fbc1b3c1c8485e0d9c18c3a1f3b5f4cbdc3538",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-22_r01.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-22_r04.zip"
                 }
               ]
             }
@@ -3986,24 +4110,24 @@
           "obsolete": false
         },
         {
-          "description": "x86 System Image Android SDK Platform 5.1",
-          "version": "1",
+          "description": "x86 System Image Android SDK Platform 5.1.1",
+          "version": "4",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "207436768"
+                    "211399321"
                   ],
                   "checksum": [
                     {
-                      "_": "6c7bb51e41a16099bb1f2a3cc81fdb5aa053fc15",
+                      "_": "b9381a43f102f5401ff7cb1c41ad2f10cde0ea82",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-22_r01.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-22_r04.zip"
                 }
               ]
             }
@@ -4011,24 +4135,24 @@
           "obsolete": false
         },
         {
-          "description": "x86_64 System Image Android SDK Platform 5.1",
-          "version": "1",
+          "description": "x86_64 System Image Android SDK Platform 5.1.1",
+          "version": "4",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "292511941"
+                    "296993791"
                   ],
                   "checksum": [
                     {
-                      "_": "05752813603f9fa03a58dcf7f8f5e779be722aae",
+                      "_": "258af99a63a6cd7f97b90cb5847c702bedc17216",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-22_r01.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-22_r04.zip"
                 }
               ]
             }
@@ -4142,23 +4266,23 @@
         },
         {
           "description": "x86 System Image System Image x86 with Google APIs.",
-          "version": "7",
+          "version": "12",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "346990869"
+                    "395967293"
                   ],
                   "checksum": [
                     {
-                      "_": "0452e1490eabcb1d7bf88625ec91b3278d88dee8",
+                      "_": "1c10a261fd6bbf3af6614acb6f18b766ba5ea97e",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-23_r07.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-23_r12.zip"
                 }
               ]
             }
@@ -4167,23 +4291,23 @@
         },
         {
           "description": "x86_64 System Image System Image x86_64 with Google APIs.",
-          "version": "7",
+          "version": "12",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "471330037"
+                    "529889843"
                   ],
                   "checksum": [
                     {
-                      "_": "d1f7034a2a9e5ed05ae00bff6318cfac01275821",
+                      "_": "01b883a5ff16cd47569de272e0a36e3a1f99a632",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-23_r07.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-23_r12.zip"
                 }
               ]
             }
@@ -4217,23 +4341,23 @@
         },
         {
           "description": "x86 System Image Android SDK Platform 6.0",
-          "version": "3",
+          "version": "8",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "240896796"
+                    "252006214"
                   ],
                   "checksum": [
                     {
-                      "_": "3cb2e8efb575c35a558b091eac7e1bc5843f5f12",
+                      "_": "127b2143b686fead099ef6b58691d9b467f23770",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-23_r03.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-23_r08.zip"
                 }
               ]
             }
@@ -4242,23 +4366,23 @@
         },
         {
           "description": "x86_64 System Image Android SDK Platform 6.0",
-          "version": "3",
+          "version": "8",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "337897181"
+                    "349328952"
                   ],
                   "checksum": [
                     {
-                      "_": "226510856431bc4a73690540a8d7cbad974bedd3",
+                      "_": "8be549a1dc8cb6c0c901426cf2b737d9c6402d93",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-23_r03.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-23_r08.zip"
                 }
               ]
             }
@@ -4323,7 +4447,7 @@
       "description": [
         "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "5.4.0",
+      "version": "6.0.1",
       "archives": [
         {
           "archive": [
@@ -4333,17 +4457,17 @@
                 "os": "any"
               },
               "size": [
-                "1767045"
+                "1798733"
               ],
               "checksum": [
                 {
-                  "_": "23b66faca8b0e08c50711cfb49ed7bfcd7cf677b",
+                  "_": "3b7268858cc6ae97f63e90d1d662b746bbfc5145",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r05.4.zip",
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_1.zip",
               "host-os": [
                 "windows"
               ]
@@ -4353,17 +4477,17 @@
                 "macosx"
               ],
               "size": [
-                "223512"
+                "223844"
               ],
               "checksum": [
                 {
-                  "_": "9a2c7727e7b4ec753379beaa824a3d0edaea9962",
+                  "_": "89c95b2beda89e1a75675528f4184d228188ece2",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r05.4.zip"
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r6_0_1.zip"
             }
           ]
         }
@@ -4374,23 +4498,87 @@
       "description": [
         "Android Support Repository"
       ],
-      "version": "21..",
+      "version": "25..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "142136028"
+                "155990146"
               ],
               "checksum": [
                 {
-                  "_": "acb915c5d2c730bf98303c0cd0122bedb2954cb3",
+                  "_": "c6f912c0996c0a805deb4158e63c3cd615470f78",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/android_m2repository_r21.zip"
+              "url": "http://dl.google.com/android/repository/android_m2repository_r25.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "GPU Debugging tools"
+      ],
+      "version": "1.0.3",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "15824058"
+              ],
+              "checksum": [
+                {
+                  "_": "597eb271349d890566274861eba2770a84ee4c69",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/extras/gapid/gapid_r01_osx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "13220091"
+              ],
+              "checksum": [
+                {
+                  "_": "82c9b3eb1b281f27f58fe55025227148b3deb12e",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/extras/gapid/gapid_r01_windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "12968916"
+              ],
+              "checksum": [
+                {
+                  "_": "7c9ef7544cf0aea030bcc29bd8e12c04fd53e653",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/extras/gapid/gapid_r01_linux.zip",
+              "host-os": [
+                "linux"
+              ]
             }
           ]
         }
@@ -4401,23 +4589,23 @@
       "description": [
         "Google Repository"
       ],
-      "version": "22..",
+      "version": "24..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "59491846"
+                "70735645"
               ],
               "checksum": [
                 {
-                  "_": "4c114ac217f4b2f066d731ce906eeb635ee2a5b4",
+                  "_": "7e9607f15c824e554bb9acde604b2a1b6f9c9dff",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_m2repository_r22.zip"
+              "url": "http://dl.google.com/android/repository/google_m2repository_r24.zip"
             }
           ]
         }
@@ -4509,23 +4697,23 @@
       "description": [
         "Google Play services"
       ],
-      "version": "27..",
+      "version": "29..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "21163425"
+                "21947539"
               ],
               "checksum": [
                 {
-                  "_": "cdb13f826ca82d3c3730cf1df9f3bf58565fd4bb",
+                  "_": "2c6c23f0a0911221d3613e43593180cba4540ce8",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_play_services_8115000_r27.zip"
+              "url": "http://dl.google.com/android/repository/google_play_services_8487000_r29.zip"
             }
           ]
         }
@@ -4610,7 +4798,7 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/googleadmobadssdk/googleadmobadssdkandroid-6.4.1.zip"
+                "https://dl.google.com/googleadmobadssdk/googleadmobadssdkandroid-6.4.1.zip"
               ]
             }
           ]
@@ -4732,57 +4920,57 @@
       "description": [
         "Android Auto Desktop Head Unit emulator"
       ],
-      "version": "1.0.",
+      "version": "1.1.",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "1346136"
+                "1346009"
               ],
               "checksum": [
                 {
-                  "_": "e054563f9efdc2f6089693566bce5b8fba2cd1c6",
+                  "_": "202a6e1b3009a0eb815f8c672d2d5b3717de6169",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/auto/desktop-head-unit-linux_r01.zip",
+              "url": "http://dl.google.com/android/repository/extras/auto/desktop-head-unit-linux_r01.1.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "2691813"
+                "2691901"
               ],
               "checksum": [
                 {
-                  "_": "499bb4520f95e708585947c9fc72efeeb610685f",
+                  "_": "99c4a7172d73673552119347bc24c58b47da177b",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/auto/desktop-head-unit-windows_r01.zip",
+              "url": "http://dl.google.com/android/repository/extras/auto/desktop-head-unit-windows_r01.1.zip",
               "host-os": [
                 "windows"
               ]
             },
             {
               "size": [
-                "2389261"
+                "2375533"
               ],
               "checksum": [
                 {
-                  "_": "64510b97c3c2c6dccab7932a816a20b84d9a5dc3",
+                  "_": "8179cbb3914493ebc5eb65b731cba061582f2e84",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/auto/desktop-head-unit-macosx_r01.zip",
+              "url": "http://dl.google.com/android/repository/extras/auto/desktop-head-unit-macosx_r01.1.zip",
               "host-os": [
                 "macosx"
               ]
@@ -4793,5 +4981,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2015-10-5"
+  "updated": "2016-1-30"
 }
