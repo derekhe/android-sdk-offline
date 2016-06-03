@@ -8732,23 +8732,23 @@
       "description": [
         "Google Repository"
       ],
-      "version": "27..",
+      "version": "28..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "84615512"
+                "91269965"
               ],
               "checksum": [
                 {
-                  "_": "4464fc20784225fc190d172211c1b5cef946e911",
+                  "_": "05ce60de2ddb4bfe30dd939570fee0b063d9b84e",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_m2repository_r27.zip"
+              "url": "http://dl.google.com/android/repository/google_m2repository_r28.zip"
             }
           ]
         }
