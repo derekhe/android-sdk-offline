@@ -6895,24 +6895,90 @@
       "apiLevel": "19",
       "items": [
         {
-          "description": "Addon Android + Google APIs",
-          "version": "20",
+          "description": "Addon Preview of the Glass Development Kit",
+          "version": "11",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "147081"
+                    "72978"
                   ],
                   "checksum": [
                     {
-                      "_": "5b933abe830b2f25b4c0f171d45e9e0651e56311",
+                      "_": "52cadbec4d42ce68a667e7e4ea461ef8b81924ef",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/google_apis-19_r20.zip"
+                  "url": [
+                    "https://dl.google.com/glass/xe22/google-gdk.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    "_",
+                    "a",
+                    "p",
+                    "i",
+                    "s",
+                    "-",
+                    "1",
+                    "9",
+                    "_",
+                    "r",
+                    "2",
+                    "0",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
+                  ],
+                  "$": {
+                    "os": "any"
+                  }
                 }
               ]
             }
