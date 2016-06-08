@@ -3764,6 +3764,31 @@
       "apiLevel": "3",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "3",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "34908058"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "1f92abf3a76be66ae8032257fc7620acbd2b2e3a",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-3-r03.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 1.5_r3",
           "version": "04",
           "archives": [
@@ -4031,6 +4056,31 @@
     {
       "apiLevel": "4",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "42435735"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "9b6e86d8568558de4d606a7debc4f6049608dbd0",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-4_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
         {
           "description": "SDK Platform Android SDK Platform 1.6_r2",
           "version": "03",
@@ -4300,6 +4350,31 @@
       "apiLevel": "5",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "49123776"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "46eaeb56b645ee7ffa24ede8fa17f3df70db0503",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-5_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 2.0, revision 1",
           "version": "01",
           "archives": [
@@ -4567,6 +4642,31 @@
     {
       "apiLevel": "6",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "53382941"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5ff545d96e031e09580a6cf55713015c7d4936b2",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-6_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
         {
           "description": "SDK Platform Android SDK Platform 2.0.1_r1",
           "version": "01",
@@ -4842,6 +4942,31 @@
       "apiLevel": "7",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "53691339"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "2e7f91e0fe34fef7f58aeced973c6ae52361b5ac",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-7_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 2.1_r3",
           "version": "03",
           "archives": [
@@ -4959,6 +5084,31 @@
       "apiLevel": "8",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "59505020"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "3079958e7ec87222cac1e6b27bc471b27bf2c352",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-8_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 2.2_r3",
           "version": "03",
           "archives": [
@@ -5075,6 +5225,31 @@
     {
       "apiLevel": "9",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "63401546"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "78664645a1e9accea4430814f8694291a7f1ea5d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-9_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
         {
           "description": "SDK Platform Android SDK Platform 2.3.1_r2",
           "version": "02",
@@ -5195,6 +5370,31 @@
       "apiLevel": "10",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "65781578"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "cc0711857c881fa7534f90cf8cc09b8fe985484d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-10_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 2.3.3._r2",
           "version": "02",
           "archives": [
@@ -5314,6 +5514,31 @@
       "apiLevel": "11",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "83477179"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5eab5e81addee9f3576d456d205208314b5146a5",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-11_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 3.0, revision 2",
           "version": "02",
           "archives": [
@@ -5430,6 +5655,56 @@
     {
       "apiLevel": "12",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "86099835"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "e9999f4fa978812174dfeceec0721c793a636e5d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-12_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
+          "description": "Addon ",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "78266751"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "92128a12e7e8b0fb5bac59153d7779b717e7b840",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_tv-12_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
         {
           "description": "SDK Platform Android SDK Platform 3.1, revision 3",
           "version": "03",
@@ -5548,6 +5823,56 @@
       "apiLevel": "13",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "88615525"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "3b153edd211c27dc736c893c658418a4f9041417",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-13_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
+          "description": "Addon ",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "87721879"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "b73f7c66011ac8180b44aa4e83b8d78c66ea9a09",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_tv-13_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 3.2, revision 1",
           "version": "01",
           "archives": [
@@ -5664,6 +5989,31 @@
     {
       "apiLevel": "14",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "106533714"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "f8eb4d96ad0492b4c0db2d7e4f1a1a3836664d39",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-14_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
         {
           "description": "SDK Platform Android SDK Platform 4.0",
           "version": "4",
@@ -5806,6 +6156,31 @@
       "apiLevel": "15",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "3",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "106624396"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "d0d2bf26805eb271693570a1aaec33e7dc3f45e9",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-15_r03.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "SDK Platform Android SDK Platform 4.0.3",
           "version": "5",
           "archives": [
@@ -5947,6 +6322,31 @@
       "apiLevel": "16",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "4",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "127341982"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "ee6acf1b01020bfa8a8e24725dbc4478bee5e792",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-16_r04.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "SDK Platform Android SDK Platform 4.1.2",
           "version": "5",
           "archives": [
@@ -6087,6 +6487,31 @@
     {
       "apiLevel": "17",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "4",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "137231243"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "a076be0677f38df8ca5536b44dfb411a0c808c4f",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-17_r04.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
         {
           "description": "SDK Platform Android SDK Platform 4.2.2",
           "version": "3",
@@ -6253,6 +6678,31 @@
     {
       "apiLevel": "18",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "4",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "143195183"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "6109603409debdd40854d4d4a92eaf8481462c8b",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-18_r04.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
         {
           "description": "SDK Platform Android SDK Platform 4.3.1",
           "version": "3",
@@ -6451,9 +6901,6 @@
             {
               "archive": [
                 {
-                  "$": {
-                    "os": "any"
-                  },
                   "size": [
                     "72978"
                   ],
@@ -6466,8 +6913,72 @@
                     }
                   ],
                   "url": [
-                    "https://dl.google.com/glass/xe22/google-gdk.zip"
-                  ]
+                    "https://dl.google.com/glass/xe22/google-gdk.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    "_",
+                    "a",
+                    "p",
+                    "i",
+                    "s",
+                    "-",
+                    "1",
+                    "9",
+                    "_",
+                    "r",
+                    "2",
+                    "0",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
+                  ],
+                  "$": {
+                    "os": "any"
+                  }
                 }
               ]
             }
@@ -6794,6 +7305,31 @@
       "apiLevel": "21",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "179499"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "66a754efb24e9bb07cc51648426443c7586c9d4a",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-21_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "SDK Platform Android SDK Platform 5.0.1",
           "version": "2",
           "archives": [
@@ -6999,6 +7535,31 @@
       "apiLevel": "22",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "179259"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5def0f42160cba8acff51b9c0c7e8be313de84f5",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-22_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "SDK Platform Android SDK Platform 5.1.1",
           "version": "2",
           "archives": [
@@ -7153,6 +7714,31 @@
     {
       "apiLevel": "23",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "179900"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "04c5cc1a7c88967250ebba9561d81e24104167db",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-23_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
         {
           "description": "SDK Platform Android SDK Platform 6.0",
           "version": "1",
@@ -7592,6 +8178,515 @@
               "host-os": [
                 "windows"
               ]
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Android Support Repository"
+      ],
+      "version": "32.0.0",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "228944678"
+              ],
+              "checksum": [
+                {
+                  "_": "3edb7650480cf86af94b478ffc00a94731a9a1b6",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/android_m2repository_r32.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google Web Driver"
+      ],
+      "version": "2..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "4055193"
+              ],
+              "checksum": [
+                {
+                  "_": "13f3a3b2670a5fc04a7342861644be9a01b07e38",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/webdriver_r02.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google Play Licensing Library"
+      ],
+      "version": "1..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "75109"
+              ],
+              "checksum": [
+                {
+                  "_": "355e8dc304a92a5616db235af8ee7bd554356254",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/market_licensing-r02.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google Cloud Messaging for Android Library"
+      ],
+      "version": "3..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "5901400"
+              ],
+              "checksum": [
+                {
+                  "_": "ad066fd0dc7fc99d8aadac09c65a3c2519fbc7bf",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/gcm_r03.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Google Play APK Expansion library"
+      ],
+      "version": "1..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "110201"
+              ],
+              "checksum": [
+                {
+                  "_": "5305399dc1a56814e86b8459ce24871916f78b8c",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/market_apk_expansion-r03.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google Analytics App Tracking SDK"
+      ],
+      "version": "3..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "211432"
+              ],
+              "checksum": [
+                {
+                  "_": "dc14026bf0ce78315cb5dd00552607de0894de83",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/GoogleAnalyticsAndroid_2.0beta5.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Google AdMob Ads SDK"
+      ],
+      "version": "11..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "704512"
+              ],
+              "checksum": [
+                {
+                  "_": "0102859d9575baa0bf4fd5eb422af2ad0fe6cb82",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/GoogleAdMobAdsSdkAndroid-6.4.1.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Google Play services for Froyo"
+      ],
+      "version": "12..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "5265389"
+              ],
+              "checksum": [
+                {
+                  "_": "92558dbc380bba3d55d0ec181167fb05ce7c79d9",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/google_play_services_3265130_r12.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Google Play Billing Library"
+      ],
+      "version": "5..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "436654"
+              ],
+              "checksum": [
+                {
+                  "_": "bd2ac5ce7127070ac3229003eb69cfb806628ac9",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/play_billing_r05.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google USB Driver"
+      ],
+      "version": "11..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "8682859"
+              ],
+              "checksum": [
+                {
+                  "_": "dc8a2ed2fbd7246d4caf9ab10ffe7749dc35d1cc",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/usb_driver_r11-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Android Auto API Simulators"
+      ],
+      "version": "1..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "2167286"
+              ],
+              "checksum": [
+                {
+                  "_": "4fb5344e34e8faab4db18af07dace44c50db26a7",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/simulator_r01.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Android Auto Desktop Head Unit emulator"
+      ],
+      "version": "1.1.",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "1346009"
+              ],
+              "checksum": [
+                {
+                  "_": "202a6e1b3009a0eb815f8c672d2d5b3717de6169",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/desktop-head-unit-linux_r01.1.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "2375533"
+              ],
+              "checksum": [
+                {
+                  "_": "8179cbb3914493ebc5eb65b731cba061582f2e84",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/desktop-head-unit-macosx_r01.1.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "2691901"
+              ],
+              "checksum": [
+                {
+                  "_": "99c4a7172d73673552119347bc24c58b47da177b",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/desktop-head-unit-windows_r01.1.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "GPU Debugging tools"
+      ],
+      "version": "1.0.3",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "12968916"
+              ],
+              "checksum": [
+                {
+                  "_": "7c9ef7544cf0aea030bcc29bd8e12c04fd53e653",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/gapid_r01_linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "15824058"
+              ],
+              "checksum": [
+                {
+                  "_": "597eb271349d890566274861eba2770a84ee4c69",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/gapid_r01_osx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "13220091"
+              ],
+              "checksum": [
+                {
+                  "_": "82c9b3eb1b281f27f58fe55025227148b3deb12e",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/gapid_r01_windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Android Support Library"
+      ],
+      "version": "23.2.1",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "10850402"
+              ],
+              "checksum": [
+                {
+                  "_": "41121bbc412c2fce0be170d589d20cfa3e78e857",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/support_r23.2.1.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Google Play services"
+      ],
+      "version": "30..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "11103010"
+              ],
+              "checksum": [
+                {
+                  "_": "5eb28691853a7815a95f6a67636e176c13ee4a23",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/google_play_services_9080000_r30.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google Repository"
+      ],
+      "version": "28..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "91269965"
+              ],
+              "checksum": [
+                {
+                  "_": "05ce60de2ddb4bfe30dd939570fee0b063d9b84e",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/google_m2repository_r28.zip"
             }
           ]
         }
