@@ -3254,51 +3254,51 @@
           "archive": [
             {
               "size": [
-                "45423978"
+                "48960919"
               ],
               "checksum": [
                 {
-                  "_": "0b03935e78b9df8cba55451154eab8a96234d0f2",
+                  "_": "c6271c4d78a5612ea6c7150688bcd5b7313de8d1",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24-rc4-linux.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r24-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "45520131"
+                "48747930"
               ],
               "checksum": [
                 {
-                  "_": "7d7e402ba7d7a27df257e5628d73fa198aeb926c",
+                  "_": "97fc4ed442f23989cc488d02c1d1de9bdde241de",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24-rc4-macosx.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r24-macosx.zip",
               "host-os": [
                 "macosx"
               ]
             },
             {
               "size": [
-                "45984979"
+                "49535326"
               ],
               "checksum": [
                 {
-                  "_": "f619519659c12bc242a3bec899b5a62aba4263fd",
+                  "_": "dc61b9e5b451a0c3ec42ae2b1ce27c4d3c8da9f7",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24-rc4-windows.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r24-windows.zip",
               "host-os": [
                 "windows"
               ]
@@ -7635,6 +7635,31 @@
           "obsolete": false
         },
         {
+          "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
+          "version": "6",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "493498766"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "ddf2a95f92a49a71247422711a280e999bbbd091",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-22_r06.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "x86 System Image Intel x86 Atom System Image",
           "version": "5",
           "archives": [
@@ -7967,27 +7992,27 @@
       ]
     },
     {
-      "apiLevel": "23N",
+      "apiLevel": "24",
       "items": [
         {
-          "description": "SDK Platform Android SDK Platform N",
-          "version": "3",
+          "description": "SDK Platform Android SDK Platform 24",
+          "version": "1",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "82253144"
+                    "82210272"
                   ],
                   "checksum": [
                     {
-                      "_": "119bf484bffe29bc7c52fd8aa0568b455389cf08",
+                      "_": "b58f5dd3f60ee0fbaa09cce6372157c36c688075",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/platform-N_r03.zip"
+                  "url": "http://dl.google.com/android/repository/platform-24_r01.zip"
                 }
               ]
             }
@@ -7996,23 +8021,23 @@
         },
         {
           "description": "x86 System Image Intel x86 Atom System Image",
-          "version": "3",
+          "version": "4",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "509333888"
+                    "528763237"
                   ],
                   "checksum": [
                     {
-                      "_": "fae78b31253f708a0ca4b98b12a3ef829bef51b7",
+                      "_": "a06d11314e805f1259cefa388c6a4e8b1b47bf29",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-N_r03.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-24_r04.zip"
                 }
               ]
             }
@@ -8021,23 +8046,23 @@
         },
         {
           "description": "x86_64 System Image Intel x86 Atom_64 System Image",
-          "version": "3",
+          "version": "4",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "662170121"
+                    "717753049"
                   ],
                   "checksum": [
                     {
-                      "_": "0986ac692828ce80f9b1e8777c0dd433f526459a",
+                      "_": "b8fc1f5ce6521c2ef02000ebd99a891522fbe255",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-N_r03.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-24_r04.zip"
                 }
               ]
             }
@@ -8049,31 +8074,6 @@
     {
       "apiLevel": "22N",
       "items": [
-        {
-          "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
-          "version": "6",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "493498766"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "ddf2a95f92a49a71247422711a280e999bbbd091",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-22_r06.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
           "version": "7",
@@ -8188,23 +8188,23 @@
       "description": [
         "Android Support Repository"
       ],
-      "version": "32.0.0",
+      "version": "33.0.0",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "228944678"
+                "236360583"
               ],
               "checksum": [
                 {
-                  "_": "3edb7650480cf86af94b478ffc00a94731a9a1b6",
+                  "_": "647bfe10953923268c2dda1dc1ecf51c1d5d5ebb",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/android_m2repository_r32.zip"
+              "url": "http://dl.google.com/android/repository/android_m2repository_r33.zip"
             }
           ]
         }
