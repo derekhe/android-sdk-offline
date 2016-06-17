@@ -8186,25 +8186,62 @@
     },
     {
       "description": [
-        "Android Support Repository"
+        "GPU Debugging tools"
       ],
-      "version": "33.0.0",
+      "version": "3.0.0",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "236360583"
+                "31339652"
               ],
               "checksum": [
                 {
-                  "_": "647bfe10953923268c2dda1dc1ecf51c1d5d5ebb",
+                  "_": "c6b6f35517fd5b754e6d7ce750e98a6a4e4cc8df",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/android_m2repository_r33.zip"
+              "url": "http://dl.google.com/android/repository/gapid_2980123_linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "38277500"
+              ],
+              "checksum": [
+                {
+                  "_": "747a33e5a302e9ccef5c274790d24034f6131a1f",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/gapid_2980123_osx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "31467619"
+              ],
+              "checksum": [
+                {
+                  "_": "f434c899345922fc24171f9411e9fbf6aec5ec39",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/gapid_2980123_windows.zip",
+              "host-os": [
+                "windows"
+              ]
             }
           ]
         }
