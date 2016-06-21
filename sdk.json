@@ -8188,57 +8188,57 @@
       "description": [
         "GPU Debugging tools"
       ],
-      "version": "3.0.0",
+      "version": "3.1.0",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "31339652"
+                "31528127"
               ],
               "checksum": [
                 {
-                  "_": "c6b6f35517fd5b754e6d7ce750e98a6a4e4cc8df",
+                  "_": "a33fe37c87b095171d647385445abe164ae03514",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/gapid_2980123_linux.zip",
+              "url": "http://dl.google.com/android/repository/gapid_2994895_linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "38277500"
+                "31908588"
               ],
               "checksum": [
                 {
-                  "_": "747a33e5a302e9ccef5c274790d24034f6131a1f",
+                  "_": "81dec931c8b0a5fe7c68accd8b3f8c731a9474f3",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/gapid_2980123_osx.zip",
+              "url": "http://dl.google.com/android/repository/gapid_2994895_osx.zip",
               "host-os": [
                 "macosx"
               ]
             },
             {
               "size": [
-                "31467619"
+                "31656334"
               ],
               "checksum": [
                 {
-                  "_": "f434c899345922fc24171f9411e9fbf6aec5ec39",
+                  "_": "ce00f4a7364d7fdd5d25d2429f04c4d50f56be1e",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/gapid_2980123_windows.zip",
+              "url": "http://dl.google.com/android/repository/gapid_2994895_windows.zip",
               "host-os": [
                 "windows"
               ]
