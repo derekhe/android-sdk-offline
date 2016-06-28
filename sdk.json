@@ -8137,7 +8137,7 @@
       "description": [
         "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "6.0.1",
+      "version": "6.0.3",
       "archives": [
         {
           "archive": [
@@ -8147,34 +8147,34 @@
                 "os": "any"
               },
               "size": [
-                "223844"
+                "224496"
               ],
               "checksum": [
                 {
-                  "_": "89c95b2beda89e1a75675528f4184d228188ece2",
+                  "_": "3128fdfe9a25d9918f93ee42f1a60574be702212",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r6_0_1.zip",
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r6_0_3.zip",
               "host-os": [
                 "macosx"
               ]
             },
             {
               "size": [
-                "1798733"
+                "1816482"
               ],
               "checksum": [
                 {
-                  "_": "3b7268858cc6ae97f63e90d1d662b746bbfc5145",
+                  "_": "daa0c2e0c74e772312dad6908fd64d47e66f25a5",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_1.zip",
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_3.zip",
               "host-os": [
                 "windows"
               ]
