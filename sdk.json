@@ -6895,90 +6895,24 @@
       "apiLevel": "19",
       "items": [
         {
-          "description": "Addon Preview of the Glass Development Kit",
-          "version": "11",
+          "description": "Addon Android + Google APIs",
+          "version": "20",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "72978"
+                    "147081"
                   ],
                   "checksum": [
                     {
-                      "_": "52cadbec4d42ce68a667e7e4ea461ef8b81924ef",
+                      "_": "5b933abe830b2f25b4c0f171d45e9e0651e56311",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": [
-                    "https://dl.google.com/glass/xe22/google-gdk.zip",
-                    "t",
-                    "t",
-                    "p",
-                    ":",
-                    "/",
-                    "/",
-                    "d",
-                    "l",
-                    ".",
-                    "g",
-                    "o",
-                    "o",
-                    "g",
-                    "l",
-                    "e",
-                    ".",
-                    "c",
-                    "o",
-                    "m",
-                    "/",
-                    "a",
-                    "n",
-                    "d",
-                    "r",
-                    "o",
-                    "i",
-                    "d",
-                    "/",
-                    "r",
-                    "e",
-                    "p",
-                    "o",
-                    "s",
-                    "i",
-                    "t",
-                    "o",
-                    "r",
-                    "y",
-                    "/",
-                    "g",
-                    "o",
-                    "o",
-                    "g",
-                    "l",
-                    "e",
-                    "_",
-                    "a",
-                    "p",
-                    "i",
-                    "s",
-                    "-",
-                    "1",
-                    "9",
-                    "_",
-                    "r",
-                    "2",
-                    "0",
-                    ".",
-                    "z",
-                    "i",
-                    "p"
-                  ],
-                  "$": {
-                    "os": "any"
-                  }
+                  "url": "http://dl.google.com/android/repository/google_apis-19_r20.zip"
                 }
               ]
             }
@@ -8135,9 +8069,9 @@
   "extras": [
     {
       "description": [
-        "Intel x86 Emulator Accelerator (HAXM installer)"
+        "Android Support Repository"
       ],
-      "version": "6.0.3",
+      "version": "33.0.0",
       "archives": [
         {
           "archive": [
@@ -8147,37 +8081,17 @@
                 "os": "any"
               },
               "size": [
-                "224496"
+                "236360583"
               ],
               "checksum": [
                 {
-                  "_": "3128fdfe9a25d9918f93ee42f1a60574be702212",
+                  "_": "647bfe10953923268c2dda1dc1ecf51c1d5d5ebb",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r6_0_3.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "1816482"
-              ],
-              "checksum": [
-                {
-                  "_": "daa0c2e0c74e772312dad6908fd64d47e66f25a5",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_3.zip",
-              "host-os": [
-                "windows"
-              ]
+              "url": "http://dl.google.com/android/repository/android_m2repository_r33.zip"
             }
           ]
         }
