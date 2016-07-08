@@ -3764,31 +3764,6 @@
       "apiLevel": "3",
       "items": [
         {
-          "description": "Addon Android + Google APIs",
-          "version": "3",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "34908058"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "1f92abf3a76be66ae8032257fc7620acbd2b2e3a",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/google_apis-3-r03.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": true
-        },
-        {
           "description": "SDK Platform Android SDK Platform 1.5_r3",
           "version": "04",
           "archives": [
@@ -6965,12 +6940,11 @@
                     "i",
                     "s",
                     "-",
-                    "1",
-                    "9",
-                    "_",
+                    "3",
+                    "-",
                     "r",
-                    "2",
                     "0",
+                    "3",
                     ".",
                     "z",
                     "i",
@@ -6979,6 +6953,31 @@
                   "$": {
                     "os": "any"
                   }
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "20",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "147081"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5b933abe830b2f25b4c0f171d45e9e0651e56311",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-19_r20.zip"
                 }
               ]
             }
@@ -8186,6 +8185,97 @@
     },
     {
       "description": [
+        "Android Support Library"
+      ],
+      "version": "23.2.1",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "10850402"
+              ],
+              "checksum": [
+                {
+                  "_": "41121bbc412c2fce0be170d589d20cfa3e78e857",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/support_r23.2.1.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "GPU Debugging tools"
+      ],
+      "version": "1.0.3",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "12968916"
+              ],
+              "checksum": [
+                {
+                  "_": "7c9ef7544cf0aea030bcc29bd8e12c04fd53e653",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/gapid_r01_linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "15824058"
+              ],
+              "checksum": [
+                {
+                  "_": "597eb271349d890566274861eba2770a84ee4c69",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/gapid_r01_osx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "13220091"
+              ],
+              "checksum": [
+                {
+                  "_": "82c9b3eb1b281f27f58fe55025227148b3deb12e",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/gapid_r01_windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
         "GPU Debugging tools"
       ],
       "version": "3.1.0",
@@ -8250,25 +8340,25 @@
     },
     {
       "description": [
-        "Google Web Driver"
+        "Google Repository"
       ],
-      "version": "2..",
+      "version": "29..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "4055193"
+                "98644997"
               ],
               "checksum": [
                 {
-                  "_": "13f3a3b2670a5fc04a7342861644be9a01b07e38",
+                  "_": "e7e27b0bf6552ef61eacc04c98209cfb8b01faae",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/webdriver_r02.zip"
+              "url": "http://dl.google.com/android/repository/google_m2repository_r29.zip"
             }
           ]
         }
@@ -8304,33 +8394,6 @@
     },
     {
       "description": [
-        "Google Cloud Messaging for Android Library"
-      ],
-      "version": "3..",
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "5901400"
-              ],
-              "checksum": [
-                {
-                  "_": "ad066fd0dc7fc99d8aadac09c65a3c2519fbc7bf",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/gcm_r03.zip"
-            }
-          ]
-        }
-      ],
-      "obsolete": true
-    },
-    {
-      "description": [
         "Google Play APK Expansion library"
       ],
       "version": "1..",
@@ -8355,60 +8418,6 @@
         }
       ],
       "obsolete": false
-    },
-    {
-      "description": [
-        "Google Analytics App Tracking SDK"
-      ],
-      "version": "3..",
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "211432"
-              ],
-              "checksum": [
-                {
-                  "_": "dc14026bf0ce78315cb5dd00552607de0894de83",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/GoogleAnalyticsAndroid_2.0beta5.zip"
-            }
-          ]
-        }
-      ],
-      "obsolete": true
-    },
-    {
-      "description": [
-        "Google AdMob Ads SDK"
-      ],
-      "version": "11..",
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "704512"
-              ],
-              "checksum": [
-                {
-                  "_": "0102859d9575baa0bf4fd5eb422af2ad0fe6cb82",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/GoogleAdMobAdsSdkAndroid-6.4.1.zip"
-            }
-          ]
-        }
-      ],
-      "obsolete": true
     },
     {
       "description": [
@@ -8439,25 +8448,25 @@
     },
     {
       "description": [
-        "Google Play Billing Library"
+        "Google Play services"
       ],
-      "version": "5..",
+      "version": "31..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "436654"
+                "11746505"
               ],
               "checksum": [
                 {
-                  "_": "bd2ac5ce7127070ac3229003eb69cfb806628ac9",
+                  "_": "3f1b502d0f6361c036cb332b8c15249a1168e08b",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/play_billing_r05.zip"
+              "url": "http://dl.google.com/android/repository/google_play_services_9256000_r31.zip"
             }
           ]
         }
@@ -8493,6 +8502,141 @@
         }
       ],
       "obsolete": false
+    },
+    {
+      "description": [
+        "Google Play Billing Library"
+      ],
+      "version": "5..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "436654"
+              ],
+              "checksum": [
+                {
+                  "_": "bd2ac5ce7127070ac3229003eb69cfb806628ac9",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/play_billing_r05.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google AdMob Ads SDK"
+      ],
+      "version": "11..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "704512"
+              ],
+              "checksum": [
+                {
+                  "_": "0102859d9575baa0bf4fd5eb422af2ad0fe6cb82",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/GoogleAdMobAdsSdkAndroid-6.4.1.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Google Analytics App Tracking SDK"
+      ],
+      "version": "3..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "211432"
+              ],
+              "checksum": [
+                {
+                  "_": "dc14026bf0ce78315cb5dd00552607de0894de83",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/GoogleAnalyticsAndroid_2.0beta5.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Google Web Driver"
+      ],
+      "version": "2..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "4055193"
+              ],
+              "checksum": [
+                {
+                  "_": "13f3a3b2670a5fc04a7342861644be9a01b07e38",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/webdriver_r02.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google Cloud Messaging for Android Library"
+      ],
+      "version": "3..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "5901400"
+              ],
+              "checksum": [
+                {
+                  "_": "ad066fd0dc7fc99d8aadac09c65a3c2519fbc7bf",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/gcm_r03.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
     },
     {
       "description": [
@@ -8579,151 +8723,6 @@
               "host-os": [
                 "windows"
               ]
-            }
-          ]
-        }
-      ],
-      "obsolete": false
-    },
-    {
-      "description": [
-        "GPU Debugging tools"
-      ],
-      "version": "1.0.3",
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "12968916"
-              ],
-              "checksum": [
-                {
-                  "_": "7c9ef7544cf0aea030bcc29bd8e12c04fd53e653",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/gapid_r01_linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "15824058"
-              ],
-              "checksum": [
-                {
-                  "_": "597eb271349d890566274861eba2770a84ee4c69",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/gapid_r01_osx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "13220091"
-              ],
-              "checksum": [
-                {
-                  "_": "82c9b3eb1b281f27f58fe55025227148b3deb12e",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/gapid_r01_windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ],
-      "obsolete": false
-    },
-    {
-      "description": [
-        "Android Support Library"
-      ],
-      "version": "23.2.1",
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "10850402"
-              ],
-              "checksum": [
-                {
-                  "_": "41121bbc412c2fce0be170d589d20cfa3e78e857",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/support_r23.2.1.zip"
-            }
-          ]
-        }
-      ],
-      "obsolete": true
-    },
-    {
-      "description": [
-        "Google Play services"
-      ],
-      "version": "31..",
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "11746505"
-              ],
-              "checksum": [
-                {
-                  "_": "3f1b502d0f6361c036cb332b8c15249a1168e08b",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/google_play_services_9256000_r31.zip"
-            }
-          ]
-        }
-      ],
-      "obsolete": false
-    },
-    {
-      "description": [
-        "Google Repository"
-      ],
-      "version": "29..",
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "98644997"
-              ],
-              "checksum": [
-                {
-                  "_": "e7e27b0bf6552ef61eacc04c98209cfb8b01faae",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/google_m2repository_r29.zip"
             }
           ]
         }
