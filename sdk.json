@@ -3492,6 +3492,68 @@
           ]
         }
       ]
+    },
+    {
+      "description": "Android SDK Tools",
+      "version": "25.2.0",
+      "obsolete": false,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "277445993"
+              ],
+              "checksum": [
+                {
+                  "_": "084ff93feb2f432f532cb00375e582f46b583ff2",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/tools_r25.2-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "195767390"
+              ],
+              "checksum": [
+                {
+                  "_": "e49cc97f6f408fde9181f11ab942dbbea31abce3",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/tools_r25.2-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "301550581"
+              ],
+              "checksum": [
+                {
+                  "_": "cc8bcbd7fb5627ab866cc583b041d0bfc18e4441",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/tools_r25.2-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "apis": [
