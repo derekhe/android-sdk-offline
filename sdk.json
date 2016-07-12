@@ -6864,6 +6864,31 @@
           "obsolete": false
         },
         {
+          "description": "x86 System Image Google APIs Intel x86 Atom System Image",
+          "version": "13",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "310673265"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "90419491bc34409b281ed0f61329d3aa7142b722",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-21_r13.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "armeabi-v7a System Image ARM EABI v7a System Image",
           "version": "3",
           "archives": [
@@ -7124,6 +7149,31 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-22_r06.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86 System Image Google APIs Intel x86 Atom System Image",
+          "version": "7",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "364171478"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5752e307c6649425a33f8393acdfccca71a9a997",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-22_r07.zip"
                 }
               ]
             }
@@ -7553,66 +7603,6 @@
           "obsolete": false
         }
       ]
-    },
-    {
-      "apiLevel": "22N",
-      "items": [
-        {
-          "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "7",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "364171478"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "5752e307c6649425a33f8393acdfccca71a9a997",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-22_r07.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        }
-      ]
-    },
-    {
-      "apiLevel": "21N",
-      "items": [
-        {
-          "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "13",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "310673265"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "90419491bc34409b281ed0f61329d3aa7142b722",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-21_r13.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        }
-      ]
     }
   ],
   "extras": [
@@ -7731,10 +7721,7 @@
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/gapid_r01_osx.zip",
-              "host-os": [
-                "macosx"
-              ]
+              "url": "http://dl.google.com/android/repository/gapid_r01_osx.zip"
             },
             {
               "size": [
@@ -7795,10 +7782,7 @@
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/gapid_2994895_osx.zip",
-              "host-os": [
-                "macosx"
-              ]
+              "url": "http://dl.google.com/android/repository/gapid_2994895_osx.zip"
             },
             {
               "size": [
@@ -7826,23 +7810,23 @@
       "description": [
         "Google Repository"
       ],
-      "version": "29..",
+      "version": "31..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "98644997"
+                "106690833"
               ],
               "checksum": [
                 {
-                  "_": "e7e27b0bf6552ef61eacc04c98209cfb8b01faae",
+                  "_": "20054f56e8e24c5f1aadd8cdf232d5dd54565aee",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_m2repository_r29.zip"
+              "url": "http://dl.google.com/android/repository/google_m2repository_r31.zip"
             }
           ]
         }
