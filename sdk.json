@@ -3816,6 +3816,31 @@
       "apiLevel": "3",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "3",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "34908058"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "1f92abf3a76be66ae8032257fc7620acbd2b2e3a",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-3-r03.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 1.5_r3",
           "version": "04",
           "archives": [
@@ -6454,96 +6479,6 @@
     {
       "apiLevel": "19",
       "items": [
-        {
-          "description": "Addon Preview of the Glass Development Kit",
-          "version": "11",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "72978"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "52cadbec4d42ce68a667e7e4ea461ef8b81924ef",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": [
-                    "https://dl.google.com/glass/xe22/google-gdk.zip",
-                    "t",
-                    "t",
-                    "p",
-                    ":",
-                    "/",
-                    "/",
-                    "d",
-                    "l",
-                    ".",
-                    "g",
-                    "o",
-                    "o",
-                    "g",
-                    "l",
-                    "e",
-                    ".",
-                    "c",
-                    "o",
-                    "m",
-                    "/",
-                    "a",
-                    "n",
-                    "d",
-                    "r",
-                    "o",
-                    "i",
-                    "d",
-                    "/",
-                    "r",
-                    "e",
-                    "p",
-                    "o",
-                    "s",
-                    "i",
-                    "t",
-                    "o",
-                    "r",
-                    "y",
-                    "/",
-                    "g",
-                    "o",
-                    "o",
-                    "g",
-                    "l",
-                    "e",
-                    "_",
-                    "a",
-                    "p",
-                    "i",
-                    "s",
-                    "-",
-                    "3",
-                    "-",
-                    "r",
-                    "0",
-                    "3",
-                    ".",
-                    "z",
-                    "i",
-                    "p"
-                  ],
-                  "$": {
-                    "os": "any"
-                  }
-                }
-              ]
-            }
-          ],
-          "obsolete": true
-        },
         {
           "description": "Addon Android + Google APIs",
           "version": "20",
