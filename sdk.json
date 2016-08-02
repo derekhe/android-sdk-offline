@@ -3557,58 +3557,58 @@
     },
     {
       "description": "Android SDK Tools",
-      "version": "25.2.0",
+      "version": "25.2.1",
       "obsolete": false,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "277445993"
+                "273496223"
               ],
               "checksum": [
                 {
-                  "_": "084ff93feb2f432f532cb00375e582f46b583ff2",
+                  "_": "216c45d4133e1dbfef33dc5fd17185bfd86720a9",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r25.2-linux.zip",
+              "url": "http://dl.google.com/android/repository/tools_r25.2.1-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "195767390"
+                "195856954"
               ],
               "checksum": [
                 {
-                  "_": "e49cc97f6f408fde9181f11ab942dbbea31abce3",
+                  "_": "743d093ed22c99c6ad0748cdce17ccd29308d45c",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r25.2-macosx.zip",
+              "url": "http://dl.google.com/android/repository/tools_r25.2.1-macosx.zip",
               "host-os": [
                 "macosx"
               ]
             },
             {
               "size": [
-                "301550581"
+                "301646442"
               ],
               "checksum": [
                 {
-                  "_": "cc8bcbd7fb5627ab866cc583b041d0bfc18e4441",
+                  "_": "4dd1ef4e395f983a85c719ca55e3705d767b4eee",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r25.2-windows.zip",
+              "url": "http://dl.google.com/android/repository/tools_r25.2.1-windows.zip",
               "host-os": [
                 "windows"
               ]
