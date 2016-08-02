@@ -5552,31 +5552,6 @@
           "obsolete": true
         },
         {
-          "description": "armeabi-v7a System Image ARM EABI v7a System Image",
-          "version": "2",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "99621822"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "d8991b0c06b18d7d6ed4169d67460ee1add6661b",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_armv7a-14_r02.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
           "description": "Sources for Android SDK",
           "version": "1",
           "archives": [
@@ -5736,31 +5711,6 @@
                   "url": [
                     "https://dl-ssl.google.com/android/repository/samples-15_r02.zip"
                   ]
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "armeabi-v7a System Image ARM EABI v7a System Image",
-          "version": "3",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "96240395"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "0a47f586e172b1cf3db2ada857a70c2bdec24ef8",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_armv7a-15_r03.zip"
                 }
               ]
             }
@@ -5984,31 +5934,6 @@
           "obsolete": false
         },
         {
-          "description": "armeabi-v7a System Image ARM EABI v7a System Image",
-          "version": "4",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "112608076"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "39c093ea755098f0ee79f607be7df9e54ba4943f",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_armv7a-16_r04.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
           "description": "mips System Image MIPS System Image",
           "version": "1",
           "archives": [
@@ -6225,31 +6150,6 @@
           "obsolete": false
         },
         {
-          "description": "armeabi-v7a System Image ARM EABI v7a System Image",
-          "version": "3",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "118663847"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "97cfad22b51c8475e228b207dd36dbef1c18fa38",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_armv7a-17_r03.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
           "description": "mips System Image MIPS System Image",
           "version": "1",
           "archives": [
@@ -6459,31 +6359,6 @@
                   "url": [
                     "https://dl-ssl.google.com/android/repository/samples-18_r01.zip"
                   ]
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "armeabi-v7a System Image ARM EABI v7a System Image",
-          "version": "3",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "125503391"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "2d7d51f4d2742744766511e5d6b491bd49161c51",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_armv7a-18_r03.zip"
                 }
               ]
             }
@@ -6770,24 +6645,49 @@
           "obsolete": false
         },
         {
-          "description": "armeabi-v7a System Image ARM EABI v7a System Image",
-          "version": "3",
+          "description": "x86 System Image Google APIs Intel x86 Atom System Image",
+          "version": "23",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "159399028"
+                    "259567436"
                   ],
                   "checksum": [
                     {
-                      "_": "5daf7718e3ab03d9bd8792b492dd305f386ef12f",
+                      "_": "a00bfdae27acbc39f20e5e83c377503c50654fc1",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_armv7a-19_r03.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-19_r23.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "armeabi-v7a System Image Google APIs ARM EABI v7a System Image",
+          "version": "23",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "222729105"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5173a5b1b04249c1f4654a0018619ca16b689f24",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_armeabi-v7a-19_r23.zip"
                 }
               ]
             }
@@ -7138,24 +7038,74 @@
           "obsolete": false
         },
         {
-          "description": "armeabi-v7a System Image ARM EABI v7a System Image",
-          "version": "3",
+          "description": "x86 System Image Google APIs Intel x86 Atom System Image",
+          "version": "15",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "186521381"
+                    "314149898"
                   ],
                   "checksum": [
                     {
-                      "_": "0b2e21421d29f48211b5289ca4addfa7f4c7ae5a",
+                      "_": "c5c930208e074c70524f93b9ccd0aa9006c9000c",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_arm-21_r03.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-21_r15.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
+          "version": "15",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "444437445"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "cdd145fc295bfdd04918eb8067b25338bff00535",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-21_r15.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "armeabi-v7a System Image Google APIs ARM EABI v7a System Image",
+          "version": "15",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "282110425"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "f9fae5fc40c5e75b73722f0d422f3f1c7b78e34d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_armeabi-v7a-21_r15.zip"
                 }
               ]
             }
@@ -7355,24 +7305,74 @@
           "obsolete": false
         },
         {
-          "description": "armeabi-v7a System Image ARM EABI v7a System Image",
-          "version": "1",
+          "description": "x86 System Image Google APIs Intel x86 Atom System Image",
+          "version": "9",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "193687339"
+                    "367645056"
                   ],
                   "checksum": [
                     {
-                      "_": "2aa6a887ee75dcf3ac34627853d561997792fcb8",
+                      "_": "4f80a1605b1da3c43a2a9c24d580d46ac930a36d",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_arm-22_r01.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-22_r09.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "armeabi-v7a System Image Google APIs ARM EABI v7a System Image",
+          "version": "9",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "339201414"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "ecc36dd9a3ce4974751310db442250430afc2188",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_armeabi-v7a-22_r09.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
+          "version": "9",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "499697812"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "73a40fe0e3bcc17d7a393c82da2af1ff1929d9c9",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-22_r09.zip"
                 }
               ]
             }
@@ -7572,24 +7572,74 @@
           "obsolete": false
         },
         {
-          "description": "armeabi-v7a System Image ARM EABI v7a System Image",
-          "version": "3",
+          "description": "x86 System Image Google APIs Intel x86 Atom System Image",
+          "version": "16",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "226879660"
+                    "421466793"
                   ],
                   "checksum": [
                     {
-                      "_": "7bb8768ec4333500192fd9627d4234f505fa98dc",
+                      "_": "fcfc56626756b245a563496211b32bc3c22d3ff1",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_arm-23_r03.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86-23_r16.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
+          "version": "16",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "559412531"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "f9e3cafe7fd0b691df14e3b132a9197ebf90982d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-23_r16.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "armeabi-v7a System Image Google APIs ARM EABI v7a System Image",
+          "version": "16",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "394224411"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "c9eb258f39b402e2b856d3027d516621bb98c802",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_armeabi-v7a-23_r16.zip"
                 }
               ]
             }
@@ -7676,56 +7726,6 @@
     {
       "apiLevel": "24",
       "items": [
-        {
-          "description": "armeabi-v7a System Image ARM EABI v7a System Image",
-          "version": "5",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "497498007"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "2eb8fb86f7312614a2a0b033d669d67206a618ff",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_armeabi-v7a-24_r05.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "arm64-v8a System Image ARM 64 v8a System Image",
-          "version": "5",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "681777689"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "5eceb8fb05def11275410575004281521dff9910",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_arm64-v8a-24_r05.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
         {
           "description": "x86 System Image Intel x86 Atom System Image",
           "version": "5",
