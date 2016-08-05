@@ -2,231 +2,6 @@
   "tools": [],
   "apis": [
     {
-      "apiLevel": "10",
-      "items": [
-        {
-          "description": "x86 System Image Intel x86 Atom System Image",
-          "version": "3",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "66997702"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "6b8539eaca9685d2d3289bf8e6d21d366d791326",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-10_r03.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        }
-      ]
-    },
-    {
-      "apiLevel": "15",
-      "items": [
-        {
-          "description": "mips System Image MIPS System Image",
-          "version": "1",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "117503178"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "a753bb4a6783124dad726c500ce9aec9d2c1b2d9",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_mips-15_r01.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "x86 System Image Intel x86 Atom System Image",
-          "version": "2",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "109019058"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "56b8d4b3d0f6a8876bc78d654da186f3b7b7c44f",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-15_r02.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        }
-      ]
-    },
-    {
-      "apiLevel": "16",
-      "items": [
-        {
-          "description": "mips System Image MIPS System Image",
-          "version": "1",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "122482530"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "67943c54fb3943943ffeb05fdd39c0b753681f6e",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_mips-16_r04.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "x86 System Image Intel x86 Atom System Image",
-          "version": "2",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "135252264"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "36c2a2e394bcb3290583ce09815eae7711d0b2c2",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-16_r02.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        }
-      ]
-    },
-    {
-      "apiLevel": "17",
-      "items": [
-        {
-          "description": "mips System Image MIPS System Image",
-          "version": "1",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "131781761"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "f0c6e153bd584c29e51b5c9723cfbf30f996a05d",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_mips-17_r01.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "x86 System Image Intel x86 Atom System Image",
-          "version": "2",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "136075512"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "bd8c7c5411431af7e051cbe961be430fc31e773d",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-17_r02.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        }
-      ]
-    },
-    {
-      "apiLevel": "18",
-      "items": [
-        {
-          "description": "x86 System Image Intel x86 Atom System Image",
-          "version": "2",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "143899902"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "ab3de121a44fca43ac3aa83f7d68cc47fc643ee8",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-18_r02.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        }
-      ]
-    },
-    {
       "apiLevel": "19",
       "items": [
         {
@@ -273,31 +48,6 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_armeabi-v7a-19_r23.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "x86 System Image Intel x86 Atom System Image",
-          "version": "5",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "183946064"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "c9298a8eafceed3b8fa11071ba63a3d18e17fd8e",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-19_r05.zip"
                 }
               ]
             }
@@ -383,56 +133,6 @@
             }
           ],
           "obsolete": false
-        },
-        {
-          "description": "x86 System Image Intel x86 Atom System Image",
-          "version": "4",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "206323409"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "3b78ad294aa1cdefa4be663d4af6c80d920ec49e",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-21_r04.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
-          "version": "4",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "290590059"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "eb14ba9c14615d5e5a21c854be29aa903d9bb63d",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-21_r04.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
         }
       ]
     },
@@ -508,56 +208,6 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/sys-img/google_apis/sysimg_x86_64-22_r09.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "x86 System Image Intel x86 Atom System Image",
-          "version": "5",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "212301282"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "909e0ad91ed43381597e82f65ec93d41f049dd53",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-22_r05.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
-          "version": "5",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "297851141"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "8a04ff4fb30f70414e6ec7b3b06285f316e93d08",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-22_r05.zip"
                 }
               ]
             }
@@ -643,115 +293,58 @@
             }
           ],
           "obsolete": false
-        },
-        {
-          "description": "x86 System Image Intel x86 Atom System Image",
-          "version": "9",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "252059065"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "0ce9229974818179833899dce93f228a895ec6a2",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-23_r09.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
-          "version": "9",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "349443901"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "571f5078a3d337a9144e2af13bd23ca46845a979",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-23_r09.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        }
-      ]
-    },
-    {
-      "apiLevel": "24",
-      "items": [
-        {
-          "description": "x86 System Image Intel x86 Atom System Image",
-          "version": "5",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "535224957"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "ce6441c4cadaecd28b364c59b36c31ef0904dae0",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86-24_r05.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
-          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
-          "version": "5",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "727226879"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "e1869b32b1dcb2f4d4d18c912166b3e2bee8a841",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-24_r05.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
         }
       ]
     }
   ],
-  "extras": [],
+  "extras": [
+    {
+      "description": [
+        "Intel x86 Emulator Accelerator (HAXM installer)"
+      ],
+      "version": "6.0.3",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "224496"
+              ],
+              "checksum": [
+                {
+                  "_": "3128fdfe9a25d9918f93ee42f1a60574be702212",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r6_0_3.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "1816482"
+              ],
+              "checksum": [
+                {
+                  "_": "daa0c2e0c74e772312dad6908fd64d47e66f25a5",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_3.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    }
+  ],
   "updated": "2016-8-4"
 }
