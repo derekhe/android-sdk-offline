@@ -20,7 +20,75 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r17-windows.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r17-windows.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "4",
+                ".",
+                "0",
+                ".",
+                "2",
+                "-",
+                "l",
+                "i",
+                "n",
+                "u",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "windows"
@@ -39,7 +107,76 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r17-linux.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r17-linux.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "4",
+                ".",
+                "0",
+                ".",
+                "2",
+                "-",
+                "m",
+                "a",
+                "c",
+                "o",
+                "s",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "linux"
@@ -58,7 +195,77 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r17-macosx.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r17-macosx.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "4",
+                ".",
+                "0",
+                ".",
+                "2",
+                "-",
+                "w",
+                "i",
+                "n",
+                "d",
+                "o",
+                "w",
+                "s",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "macosx"
@@ -88,7 +295,75 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r18.0.1-windows.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.0.1-windows.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "4",
+                ".",
+                "0",
+                ".",
+                "1",
+                "-",
+                "l",
+                "i",
+                "n",
+                "u",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "windows"
@@ -107,7 +382,76 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r18.0.1-linux.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.0.1-linux.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "4",
+                ".",
+                "0",
+                ".",
+                "1",
+                "-",
+                "m",
+                "a",
+                "c",
+                "o",
+                "s",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "linux"
@@ -126,7 +470,77 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r18.0.1-macosx.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.0.1-macosx.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "4",
+                ".",
+                "0",
+                ".",
+                "1",
+                "-",
+                "w",
+                "i",
+                "n",
+                "d",
+                "o",
+                "w",
+                "s",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "macosx"
@@ -156,7 +570,71 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r18.1-windows.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1-windows.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "4",
+                "-",
+                "l",
+                "i",
+                "n",
+                "u",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "windows"
@@ -175,7 +653,72 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r18.1-linux.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1-linux.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "4",
+                "-",
+                "m",
+                "a",
+                "c",
+                "o",
+                "s",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "linux"
@@ -194,7 +737,73 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r18.1-macosx.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1-macosx.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "4",
+                "-",
+                "w",
+                "i",
+                "n",
+                "d",
+                "o",
+                "w",
+                "s",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "macosx"
@@ -224,7 +833,75 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r18.1.1-windows.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1.1-windows.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                ".",
+                "0",
+                ".",
+                "2",
+                "-",
+                "l",
+                "i",
+                "n",
+                "u",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "windows"
@@ -243,7 +920,76 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r18.1.1-linux.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1.1-linux.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                ".",
+                "0",
+                ".",
+                "2",
+                "-",
+                "m",
+                "a",
+                "c",
+                "o",
+                "s",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "linux"
@@ -262,7 +1008,77 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r18.1.1-macosx.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1.1-macosx.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                ".",
+                "0",
+                ".",
+                "2",
+                "-",
+                "w",
+                "i",
+                "n",
+                "d",
+                "o",
+                "w",
+                "s",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "macosx"
@@ -292,7 +1108,75 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19-windows.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19-windows.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                ".",
+                "0",
+                ".",
+                "3",
+                "-",
+                "l",
+                "i",
+                "n",
+                "u",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "windows"
@@ -311,7 +1195,76 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19-linux.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19-linux.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                ".",
+                "0",
+                ".",
+                "3",
+                "-",
+                "m",
+                "a",
+                "c",
+                "o",
+                "s",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "linux"
@@ -330,7 +1283,77 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19-macosx.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19-macosx.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                ".",
+                "0",
+                ".",
+                "3",
+                "-",
+                "w",
+                "i",
+                "n",
+                "d",
+                "o",
+                "w",
+                "s",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "macosx"
@@ -360,7 +1383,75 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.1-windows.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.1-windows.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                ".",
+                "0",
+                ".",
+                "1",
+                "-",
+                "l",
+                "i",
+                "n",
+                "u",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "windows"
@@ -379,7 +1470,76 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.1-linux.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.1-linux.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                ".",
+                "0",
+                ".",
+                "1",
+                "-",
+                "m",
+                "a",
+                "c",
+                "o",
+                "s",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "linux"
@@ -398,7 +1558,77 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.1-macosx.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.1-macosx.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                ".",
+                "0",
+                ".",
+                "1",
+                "-",
+                "w",
+                "i",
+                "n",
+                "d",
+                "o",
+                "w",
+                "s",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "macosx"
@@ -428,7 +1658,71 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.2-windows.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.2-windows.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                "-",
+                "l",
+                "i",
+                "n",
+                "u",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "windows"
@@ -447,7 +1741,72 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.2-linux.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.2-linux.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                "-",
+                "m",
+                "a",
+                "c",
+                "o",
+                "s",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "linux"
@@ -466,7 +1825,73 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.2-macosx.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.2-macosx.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "3",
+                "-",
+                "w",
+                "i",
+                "n",
+                "d",
+                "o",
+                "w",
+                "s",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "macosx"
@@ -496,7 +1921,75 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.3-windows.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.3-windows.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "2",
+                ".",
+                "0",
+                ".",
+                "1",
+                "-",
+                "l",
+                "i",
+                "n",
+                "u",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "windows"
@@ -515,7 +2008,76 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.3-linux.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.3-linux.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "2",
+                ".",
+                "0",
+                ".",
+                "1",
+                "-",
+                "m",
+                "a",
+                "c",
+                "o",
+                "s",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "linux"
@@ -534,7 +2096,77 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.3-macosx.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.3-macosx.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "2",
+                ".",
+                "0",
+                ".",
+                "1",
+                "-",
+                "w",
+                "i",
+                "n",
+                "d",
+                "o",
+                "w",
+                "s",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "macosx"
@@ -547,7 +2179,7 @@
     {
       "description": "Android SDK Build-tools",
       "version": "19.1.0",
-      "obsolete": false,
+      "obsolete": true,
       "archives": [
         {
           "archive": [
@@ -564,7 +2196,71 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.1-windows.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.1-windows.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "2",
+                "-",
+                "l",
+                "i",
+                "n",
+                "u",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "windows"
@@ -583,7 +2279,72 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.1-linux.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.1-linux.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "2",
+                "-",
+                "m",
+                "a",
+                "c",
+                "o",
+                "s",
+                "x",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "linux"
@@ -602,7 +2363,73 @@
                 }
               ],
               "url": [
-                "https://dl-ssl.google.com/android/repository/build-tools_r19.1-macosx.zip"
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.1-macosx.zip",
+                "t",
+                "t",
+                "p",
+                ":",
+                "/",
+                "/",
+                "d",
+                "l",
+                ".",
+                "g",
+                "o",
+                "o",
+                "g",
+                "l",
+                "e",
+                ".",
+                "c",
+                "o",
+                "m",
+                "/",
+                "a",
+                "n",
+                "d",
+                "r",
+                "o",
+                "i",
+                "d",
+                "/",
+                "r",
+                "e",
+                "p",
+                "o",
+                "s",
+                "i",
+                "t",
+                "o",
+                "r",
+                "y",
+                "/",
+                "b",
+                "u",
+                "i",
+                "l",
+                "d",
+                "-",
+                "t",
+                "o",
+                "o",
+                "l",
+                "s",
+                "_",
+                "r",
+                "2",
+                "2",
+                "-",
+                "w",
+                "i",
+                "n",
+                "d",
+                "o",
+                "w",
+                "s",
+                ".",
+                "z",
+                "i",
+                "p"
               ],
               "host-os": [
                 "macosx"
@@ -1111,7 +2938,7 @@
     {
       "description": "Android SDK Build-tools",
       "version": "22.0.1",
-      "obsolete": false,
+      "obsolete": true,
       "archives": [
         {
           "archive": [
@@ -1235,7 +3062,7 @@
     {
       "description": "Android SDK Build-tools",
       "version": "23.0.1",
-      "obsolete": false,
+      "obsolete": true,
       "archives": [
         {
           "archive": [
@@ -1288,6 +3115,316 @@
               "url": "http://dl.google.com/android/repository/build-tools_r23.0.1-macosx.zip",
               "host-os": [
                 "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "19.0.0",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "21339943"
+              ],
+              "checksum": [
+                {
+                  "_": "55c1a6cf632e7d346f0002b275ec41fd3137fd83",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r19-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "21441270"
+              ],
+              "checksum": [
+                {
+                  "_": "86ec1c12db1bc446b7bcaefc5cc14eb361044e90",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r19-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "20611447"
+              ],
+              "checksum": [
+                {
+                  "_": "6edf505c20f5ece9c48fa0aff9a90488f9654d52",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r19-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "18.1.1",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "20229760"
+              ],
+              "checksum": [
+                {
+                  "_": "68c9acbfc0cec2d51b19efaed39831a17055d998",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r18.1.1-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "20452157"
+              ],
+              "checksum": [
+                {
+                  "_": "a9d9d37f6ddf859e57abc78802a77aaa166e48d4",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r18.1.1-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "19660000"
+              ],
+              "checksum": [
+                {
+                  "_": "c4605066e2f851387ea70bc1442b1968bd7b4a15",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r18.1.1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "18.1.0",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "20229298"
+              ],
+              "checksum": [
+                {
+                  "_": "f314a0599e51397f0886fe888b50dd98f2f050d8",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r18.1-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "20451524"
+              ],
+              "checksum": [
+                {
+                  "_": "16ddb299b8b43063e5bb3387ec17147c5053dfd8",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r18.1-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "19659547"
+              ],
+              "checksum": [
+                {
+                  "_": "3a9810fc8559ab03c09378f07531e8cae2f1db30",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r18.1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "18.0.1",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "16627330"
+              ],
+              "checksum": [
+                {
+                  "_": "f11618492b0d2270c332325d45d752d3656a9640",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r18.0.1-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "16633121"
+              ],
+              "checksum": [
+                {
+                  "_": "d84f5692fb44d60fc53e5b2507cebf9f24626902",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r18.0.1-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "15413527"
+              ],
+              "checksum": [
+                {
+                  "_": "a6c2afd0b6289d589351956d2f5212b37014ca7d",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r18.0.1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "17.0.0",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "11696007"
+              ],
+              "checksum": [
+                {
+                  "_": "2c2872bc3806aabf16a12e3959c2183ddc866e6d",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r17-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "12208114"
+              ],
+              "checksum": [
+                {
+                  "_": "602ee709be9dbb8f179b1e4075148a57f9419930",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r17-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "11004914"
+              ],
+              "checksum": [
+                {
+                  "_": "899897d327b0bad492d3a40d3db4d96119c15bc0",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r17-windows.zip",
+              "host-os": [
+                "windows"
               ]
             }
           ]
@@ -1504,7 +3641,65 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-1.1_r1-windows.zip"
+                    "https://dl-ssl.google.com/android/repository/android-1.1_r1-windows.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "p",
+                    "l",
+                    "a",
+                    "t",
+                    "f",
+                    "o",
+                    "r",
+                    "m",
+                    "-",
+                    "2",
+                    "4",
+                    "_",
+                    "r",
+                    "0",
+                    "2",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ],
                   "host-os": [
                     "windows"
@@ -1552,6 +3747,68 @@
             }
           ],
           "obsolete": true
+        },
+        {
+          "description": "SDK Platform Android SDK Platform 2",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "45476658"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "c054d25c9b4c6251fa49c2f9c54336998679d3fe",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-1.1_r1-linux.zip",
+                  "host-os": [
+                    "linux"
+                  ]
+                },
+                {
+                  "size": [
+                    "45584305"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "e21dbcff45b7356657449ebb3c7e941be2bb5ebe",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-1.1_r1-macosx.zip",
+                  "host-os": [
+                    "macosx"
+                  ]
+                },
+                {
+                  "size": [
+                    "46828615"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "a4060f29ed39fc929c302836d488998c53c3002e",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-1.1_r1-windows.zip",
+                  "host-os": [
+                    "windows"
+                  ]
+                }
+              ]
+            }
+          ],
+          "obsolete": true
         }
       ]
     },
@@ -1577,7 +3834,65 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-1.5_r04-windows.zip"
+                    "https://dl-ssl.google.com/android/repository/android-1.5_r04-windows.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "p",
+                    "l",
+                    "a",
+                    "t",
+                    "f",
+                    "o",
+                    "r",
+                    "m",
+                    "-",
+                    "2",
+                    "3",
+                    "_",
+                    "r",
+                    "0",
+                    "3",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ],
                   "host-os": [
                     "windows"
@@ -1632,6 +3947,31 @@
       "apiLevel": "4",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "42435735"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "9b6e86d8568558de4d606a7debc4f6049608dbd0",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-4_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 1.6_r2",
           "version": "03",
           "archives": [
@@ -1650,7 +3990,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-1.6_r03-linux.zip"
+                    "https://dl-ssl.google.com/android/repository/android-1.6_r03-linux.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "-",
+                    "2",
+                    "2",
+                    "_",
+                    "r",
+                    "0",
+                    "2",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ],
                   "host-os": [
                     "linux"
@@ -1705,6 +4102,31 @@
       "apiLevel": "5",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "49123776"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "46eaeb56b645ee7ffa24ede8fa17f3df70db0503",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-5_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 2.0, revision 1",
           "version": "01",
           "archives": [
@@ -1723,7 +4145,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-2.0_r01-linux.zip"
+                    "https://dl-ssl.google.com/android/repository/android-2.0_r01-linux.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "-",
+                    "2",
+                    "1",
+                    "_",
+                    "r",
+                    "0",
+                    "2",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ],
                   "host-os": [
                     "linux"
@@ -1778,6 +4257,31 @@
       "apiLevel": "6",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "53382941"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5ff545d96e031e09580a6cf55713015c7d4936b2",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-6_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 2.0.1_r1",
           "version": "01",
           "archives": [
@@ -1796,7 +4300,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-2.0.1_r01-linux.zip"
+                    "https://dl-ssl.google.com/android/repository/android-2.0.1_r01-linux.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "-",
+                    "2",
+                    "0",
+                    "_",
+                    "r",
+                    "0",
+                    "2",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ],
                   "host-os": [
                     "linux"
@@ -1851,6 +4412,31 @@
       "apiLevel": "7",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "53691339"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "2e7f91e0fe34fef7f58aeced973c6ae52361b5ac",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-7_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 2.1_r3",
           "version": "03",
           "archives": [
@@ -1869,7 +4455,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-2.1_r03-linux.zip"
+                    "https://dl-ssl.google.com/android/repository/android-2.1_r03-linux.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "-",
+                    "1",
+                    "9",
+                    "_",
+                    "r",
+                    "0",
+                    "4",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -1910,6 +4553,31 @@
       "apiLevel": "8",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "59505020"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "3079958e7ec87222cac1e6b27bc471b27bf2c352",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-8_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 2.2_r3",
           "version": "03",
           "archives": [
@@ -1928,7 +4596,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-2.2_r03-linux.zip"
+                    "https://dl-ssl.google.com/android/repository/android-2.2_r03-linux.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "-",
+                    "1",
+                    "8",
+                    "_",
+                    "r",
+                    "0",
+                    "3",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -1969,6 +4694,31 @@
       "apiLevel": "9",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "63401546"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "78664645a1e9accea4430814f8694291a7f1ea5d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-9_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 2.3.1_r2",
           "version": "02",
           "archives": [
@@ -1987,7 +4737,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-2.3.1_r02-linux.zip"
+                    "https://dl-ssl.google.com/android/repository/android-2.3.1_r02-linux.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "-",
+                    "1",
+                    "7",
+                    "_",
+                    "r",
+                    "0",
+                    "3",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -2028,6 +4835,31 @@
       "apiLevel": "10",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "65781578"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "cc0711857c881fa7534f90cf8cc09b8fe985484d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-10_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 2.3.3._r2",
           "version": "02",
           "archives": [
@@ -2046,7 +4878,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-2.3.3_r02-linux.zip"
+                    "https://dl-ssl.google.com/android/repository/android-2.3.3_r02-linux.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "-",
+                    "1",
+                    "6",
+                    "_",
+                    "r",
+                    "0",
+                    "5",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -2137,6 +5026,31 @@
       "apiLevel": "11",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "83477179"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5eab5e81addee9f3576d456d205208314b5146a5",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-11_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 3.0, revision 2",
           "version": "02",
           "archives": [
@@ -2155,7 +5069,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-3.0_r02-linux.zip"
+                    "https://dl-ssl.google.com/android/repository/android-3.0_r02-linux.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "-",
+                    "1",
+                    "5",
+                    "_",
+                    "r",
+                    "0",
+                    "5",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -2196,6 +5167,56 @@
       "apiLevel": "12",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "86099835"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "e9999f4fa978812174dfeceec0721c793a636e5d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-12_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
+          "description": "Addon ",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "78266751"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "92128a12e7e8b0fb5bac59153d7779b717e7b840",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_tv-12_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 3.1, revision 3",
           "version": "03",
           "archives": [
@@ -2214,7 +5235,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-3.1_r03-linux.zip"
+                    "https://dl-ssl.google.com/android/repository/android-3.1_r03-linux.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "-",
+                    "1",
+                    "4",
+                    "_",
+                    "r",
+                    "0",
+                    "4",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -2255,6 +5333,56 @@
       "apiLevel": "13",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "88615525"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "3b153edd211c27dc736c893c658418a4f9041417",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-13_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
+          "description": "Addon ",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "87721879"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "b73f7c66011ac8180b44aa4e83b8d78c66ea9a09",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_tv-13_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "SDK Platform Android SDK Platform 3.2, revision 1",
           "version": "01",
           "archives": [
@@ -2273,7 +5401,65 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/android-3.2_r01-linux.zip"
+                    "https://dl-ssl.google.com/android/repository/android-3.2_r01-linux.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "-",
+                    "3",
+                    ".",
+                    "2",
+                    "_",
+                    "r",
+                    "0",
+                    "1",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -2313,6 +5499,31 @@
     {
       "apiLevel": "14",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "106533714"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "f8eb4d96ad0492b4c0db2d7e4f1a1a3836664d39",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-14_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
         {
           "description": "SDK Platform Android SDK Platform 4.0",
           "version": "4",
@@ -2384,8 +5595,90 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/sources-14_r01.zip"
+                    "https://dl-ssl.google.com/android/repository/sources-14_r01.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "s",
+                    "o",
+                    "u",
+                    "r",
+                    "c",
+                    "e",
+                    "s",
+                    "-",
+                    "2",
+                    "4",
+                    "_",
+                    "r",
+                    "0",
+                    "1",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
+          "description": "Sources for Android SDK",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "16152383"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "eaf4ed7dcac46e68516a1b4aa5b0d9e5a39a7555",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sources-14_r01.zip"
                 }
               ]
             }
@@ -2397,6 +5690,31 @@
     {
       "apiLevel": "15",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "3",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "106624396"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "d0d2bf26805eb271693570a1aaec33e7dc3f45e9",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-15_r03.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
         {
           "description": "SDK Platform Android SDK Platform 4.0.3",
           "version": "5",
@@ -2518,7 +5836,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/sources-15_r02.zip"
+                    "https://dl-ssl.google.com/android/repository/sources-15_r02.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "s",
+                    "o",
+                    "u",
+                    "r",
+                    "c",
+                    "e",
+                    "s",
+                    "-",
+                    "2",
+                    "3",
+                    "_",
+                    "r",
+                    "0",
+                    "1",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -2531,6 +5906,31 @@
     {
       "apiLevel": "16",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "4",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "127341982"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "ee6acf1b01020bfa8a8e24725dbc4478bee5e792",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-16_r04.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
         {
           "description": "SDK Platform Android SDK Platform 4.1.2",
           "version": "5",
@@ -2652,7 +6052,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/sources-16_r02.zip"
+                    "https://dl-ssl.google.com/android/repository/sources-16_r02.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "s",
+                    "o",
+                    "u",
+                    "r",
+                    "c",
+                    "e",
+                    "s",
+                    "-",
+                    "2",
+                    "2",
+                    "_",
+                    "r",
+                    "0",
+                    "1",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -2665,6 +6122,31 @@
     {
       "apiLevel": "17",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "4",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "137231243"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "a076be0677f38df8ca5536b44dfb411a0c808c4f",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-17_r04.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
         {
           "description": "SDK Platform Android SDK Platform 4.2.2",
           "version": "3",
@@ -2786,7 +6268,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/sources-17_r01.zip"
+                    "https://dl-ssl.google.com/android/repository/sources-17_r01.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "s",
+                    "o",
+                    "u",
+                    "r",
+                    "c",
+                    "e",
+                    "s",
+                    "-",
+                    "2",
+                    "1",
+                    "_",
+                    "r",
+                    "0",
+                    "1",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -2799,6 +6338,31 @@
     {
       "apiLevel": "18",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "4",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "143195183"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "6109603409debdd40854d4d4a92eaf8481462c8b",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-18_r04.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
         {
           "description": "SDK Platform Android SDK Platform 4.3.1",
           "version": "3",
@@ -2920,7 +6484,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/sources-18_r01.zip"
+                    "https://dl-ssl.google.com/android/repository/sources-18_r01.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "s",
+                    "o",
+                    "u",
+                    "r",
+                    "c",
+                    "e",
+                    "s",
+                    "-",
+                    "2",
+                    "0",
+                    "_",
+                    "r",
+                    "0",
+                    "1",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -2940,9 +6561,6 @@
             {
               "archive": [
                 {
-                  "$": {
-                    "os": "any"
-                  },
                   "size": [
                     "72978"
                   ],
@@ -2955,8 +6573,96 @@
                     }
                   ],
                   "url": [
-                    "https://dl.google.com/glass/xe22/google-gdk.zip"
-                  ]
+                    "https://dl.google.com/glass/xe22/google-gdk.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    "_",
+                    "a",
+                    "p",
+                    "i",
+                    "s",
+                    "-",
+                    "3",
+                    "-",
+                    "r",
+                    "0",
+                    "3",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
+                  ],
+                  "$": {
+                    "os": "any"
+                  }
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "20",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "147081"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5b933abe830b2f25b4c0f171d45e9e0651e56311",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-19_r20.zip"
                 }
               ]
             }
@@ -3082,7 +6788,64 @@
                     }
                   ],
                   "url": [
-                    "https://dl-ssl.google.com/android/repository/sources-19_r02.zip"
+                    "https://dl-ssl.google.com/android/repository/sources-19_r02.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "s",
+                    "o",
+                    "u",
+                    "r",
+                    "c",
+                    "e",
+                    "s",
+                    "-",
+                    "1",
+                    "9",
+                    "_",
+                    "r",
+                    "0",
+                    "2",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
                   ]
                 }
               ]
@@ -3113,12 +6876,49 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-20_r02.zip"
+                  "url": "http://dl.google.com/android/repository/android-20_r02.zip",
+                  "host-os": [
+                    "linux"
+                  ]
+                },
+                {
+                  "size": [
+                    "79035527"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "c3096f80d75a6fc8cb38ef8a18aec920e53d42c0",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-2.0.1_r01-macosx.zip",
+                  "host-os": [
+                    "macosx"
+                  ]
+                },
+                {
+                  "size": [
+                    "80385601"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "255781ebe4509d9707d0e77edda2815e2bc216e6",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-2.0.1_r01-windows.zip",
+                  "host-os": [
+                    "windows"
+                  ]
                 }
               ]
             }
           ],
-          "obsolete": false
+          "obsolete": true
         },
         {
           "description": "Samples for SDK",
@@ -3176,6 +6976,31 @@
       "apiLevel": "21",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "179499"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "66a754efb24e9bb07cc51648426443c7586c9d4a",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-21_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "SDK Platform Android SDK Platform 5.0.1",
           "version": "2",
           "archives": [
@@ -3193,12 +7018,49 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-21_r02.zip"
+                  "url": "http://dl.google.com/android/repository/android-21_r02.zip",
+                  "host-os": [
+                    "linux"
+                  ]
+                },
+                {
+                  "size": [
+                    "74956356"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "2a866d0870dbba18e0503cd41e5fae988a21b314",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-2.0_r01-macosx.zip",
+                  "host-os": [
+                    "macosx"
+                  ]
+                },
+                {
+                  "size": [
+                    "76288040"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "aeb623217ff88b87216d6eb7dbc846ed53f68f57",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-2.0_r01-windows.zip",
+                  "host-os": [
+                    "windows"
+                  ]
                 }
               ]
             }
           ],
-          "obsolete": false
+          "obsolete": true
         },
         {
           "description": "Samples for SDK",
@@ -3331,6 +7193,31 @@
       "apiLevel": "22",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "179259"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5def0f42160cba8acff51b9c0c7e8be313de84f5",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-22_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "SDK Platform Android SDK Platform 5.1.1",
           "version": "2",
           "archives": [
@@ -3348,12 +7235,49 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-22_r02.zip"
+                  "url": "http://dl.google.com/android/repository/android-22_r02.zip",
+                  "host-os": [
+                    "linux"
+                  ]
+                },
+                {
+                  "size": [
+                    "62418496"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "bdafad44f5df9f127979bdb21a1fdd87ee3cd625",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-1.6_r03-macosx.zip",
+                  "host-os": [
+                    "macosx"
+                  ]
+                },
+                {
+                  "size": [
+                    "64654625"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "ce0b5e4ffaf12ca4fd07c2da71a8a1ab4a03dc22",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-1.6_r03-windows.zip",
+                  "host-os": [
+                    "windows"
+                  ]
                 }
               ]
             }
           ],
-          "obsolete": false
+          "obsolete": true
         },
         {
           "description": "Samples for SDK",
@@ -3456,6 +7380,31 @@
           "obsolete": false
         },
         {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "5",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "297851141"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "8a04ff4fb30f70414e6ec7b3b06285f316e93d08",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-22_r05.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "Sources for Android SDK",
           "version": "1",
           "archives": [
@@ -3486,6 +7435,31 @@
       "apiLevel": "23",
       "items": [
         {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "179900"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "04c5cc1a7c88967250ebba9561d81e24104167db",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-23_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "SDK Platform Android SDK Platform 6.0",
           "version": "1",
           "archives": [
@@ -3503,12 +7477,49 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-23_r01.zip"
+                  "url": "http://dl.google.com/android/repository/android-23_r01.zip",
+                  "host-os": [
+                    "linux"
+                  ]
+                },
+                {
+                  "size": [
+                    "52440607"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "d3a67c2369afa48b6c3c7624de5031c262018d1e",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-1.5_r04-macosx.zip",
+                  "host-os": [
+                    "macosx"
+                  ]
+                },
+                {
+                  "size": [
+                    "54624370"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5bb106d2e40d481edd337b0833093843e15fe49a",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/android-1.5_r04-windows.zip",
+                  "host-os": [
+                    "windows"
+                  ]
                 }
               ]
             }
           ],
-          "obsolete": false
+          "obsolete": true
         },
         {
           "description": "Samples for SDK",
@@ -3611,6 +7622,31 @@
           "obsolete": false
         },
         {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "9",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "349443901"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "571f5078a3d337a9144e2af13bd23ca46845a979",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-23_r09.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "Sources for Android SDK",
           "version": "1",
           "archives": [
@@ -3640,6 +7676,31 @@
     {
       "apiLevel": "24",
       "items": [
+        {
+          "description": "Addon Android + Google APIs",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "154865"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "31361c2868f27343ee917fbd259c1463821b6145",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/google_apis-24_r1.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
           "version": "7",
@@ -3739,6 +7800,31 @@
             }
           ],
           "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "7",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "407148033"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "a379932395ced0a8f572b39c396d86e08827a9ba",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-24_r07.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
         }
       ]
     }
@@ -3786,6 +7872,424 @@
                 }
               ],
               "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_3.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Android Support Library"
+      ],
+      "version": "23.2.1",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "10850402"
+              ],
+              "checksum": [
+                {
+                  "_": "41121bbc412c2fce0be170d589d20cfa3e78e857",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/support_r23.2.1.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Google Repository"
+      ],
+      "version": "32..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "113922721"
+              ],
+              "checksum": [
+                {
+                  "_": "ae24bde9c8f732f4d13b72e70802be8c97dcfddf",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/google_m2repository_r32.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google Play Licensing Library"
+      ],
+      "version": "1..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "75109"
+              ],
+              "checksum": [
+                {
+                  "_": "355e8dc304a92a5616db235af8ee7bd554356254",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/market_licensing-r02.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google Play APK Expansion library"
+      ],
+      "version": "1..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "110201"
+              ],
+              "checksum": [
+                {
+                  "_": "5305399dc1a56814e86b8459ce24871916f78b8c",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/market_apk_expansion-r03.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google Play services for Froyo"
+      ],
+      "version": "12..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "5265389"
+              ],
+              "checksum": [
+                {
+                  "_": "92558dbc380bba3d55d0ec181167fb05ce7c79d9",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/google_play_services_3265130_r12.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Google Play services"
+      ],
+      "version": "32..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "11820632"
+              ],
+              "checksum": [
+                {
+                  "_": "bf0e7c1848371c7e6dd7a01e237dbd916e5cb04f",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/google_play_services_945200_r32.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google USB Driver"
+      ],
+      "version": "11..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "8682859"
+              ],
+              "checksum": [
+                {
+                  "_": "dc8a2ed2fbd7246d4caf9ab10ffe7749dc35d1cc",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/usb_driver_r11-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google Play Billing Library"
+      ],
+      "version": "5..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "436654"
+              ],
+              "checksum": [
+                {
+                  "_": "bd2ac5ce7127070ac3229003eb69cfb806628ac9",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/play_billing_r05.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google AdMob Ads SDK"
+      ],
+      "version": "11..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "704512"
+              ],
+              "checksum": [
+                {
+                  "_": "0102859d9575baa0bf4fd5eb422af2ad0fe6cb82",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/GoogleAdMobAdsSdkAndroid-6.4.1.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Google Analytics App Tracking SDK"
+      ],
+      "version": "3..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "211432"
+              ],
+              "checksum": [
+                {
+                  "_": "dc14026bf0ce78315cb5dd00552607de0894de83",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/GoogleAnalyticsAndroid_2.0beta5.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Google Web Driver"
+      ],
+      "version": "2..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "4055193"
+              ],
+              "checksum": [
+                {
+                  "_": "13f3a3b2670a5fc04a7342861644be9a01b07e38",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/webdriver_r02.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Google Cloud Messaging for Android Library"
+      ],
+      "version": "3..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "5901400"
+              ],
+              "checksum": [
+                {
+                  "_": "ad066fd0dc7fc99d8aadac09c65a3c2519fbc7bf",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/gcm_r03.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": true
+    },
+    {
+      "description": [
+        "Android Auto API Simulators"
+      ],
+      "version": "1..",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "2167286"
+              ],
+              "checksum": [
+                {
+                  "_": "4fb5344e34e8faab4db18af07dace44c50db26a7",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/simulator_r01.zip"
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Android Auto Desktop Head Unit emulator"
+      ],
+      "version": "1.1.",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "1346009"
+              ],
+              "checksum": [
+                {
+                  "_": "202a6e1b3009a0eb815f8c672d2d5b3717de6169",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/desktop-head-unit-linux_r01.1.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "2375533"
+              ],
+              "checksum": [
+                {
+                  "_": "8179cbb3914493ebc5eb65b731cba061582f2e84",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/desktop-head-unit-macosx_r01.1.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "2691901"
+              ],
+              "checksum": [
+                {
+                  "_": "99c4a7172d73673552119347bc24c58b47da177b",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/desktop-head-unit-windows_r01.1.zip",
               "host-os": [
                 "windows"
               ]
