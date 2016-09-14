@@ -6820,31 +6820,6 @@
           "obsolete": false
         },
         {
-          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
-          "version": "5",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "297851141"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "8a04ff4fb30f70414e6ec7b3b06285f316e93d08",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-22_r05.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
           "description": "Sources for Android SDK",
           "version": "1",
           "archives": [
@@ -7037,31 +7012,6 @@
           "obsolete": false
         },
         {
-          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
-          "version": "9",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "349443901"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "571f5078a3d337a9144e2af13bd23ca46845a979",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-23_r09.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
           "description": "Sources for Android SDK",
           "version": "1",
           "archives": [
@@ -7190,31 +7140,6 @@
             }
           ],
           "obsolete": false
-        },
-        {
-          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
-          "version": "7",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "407148033"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "a379932395ced0a8f572b39c396d86e08827a9ba",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-24_r07.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
         }
       ]
     }
@@ -7222,9 +7147,9 @@
   "extras": [
     {
       "description": [
-        "Android Support Library"
+        "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "19.1.0",
+      "version": "6.0.3",
       "archives": [
         {
           "archive": [
@@ -7234,17 +7159,37 @@
                 "os": "any"
               },
               "size": [
-                "5138974"
+                "224496"
               ],
               "checksum": [
                 {
-                  "_": "9d881bfc3137f2e416c94eb7509af94ea007e074",
+                  "_": "3128fdfe9a25d9918f93ee42f1a60574be702212",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/support_r19.1.zip"
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r6_0_3.zip",
+              "host-os": [
+                "macosx"
+              ]
+            },
+            {
+              "size": [
+                "1816482"
+              ],
+              "checksum": [
+                {
+                  "_": "daa0c2e0c74e772312dad6908fd64d47e66f25a5",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_3.zip",
+              "host-os": [
+                "windows"
+              ]
             }
           ]
         }
