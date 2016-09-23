@@ -7858,23 +7858,6 @@
               "host-os": [
                 "macosx"
               ]
-            },
-            {
-              "size": [
-                "1816482"
-              ],
-              "checksum": [
-                {
-                  "_": "daa0c2e0c74e772312dad6908fd64d47e66f25a5",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_3.zip",
-              "host-os": [
-                "windows"
-              ]
             }
           ]
         }
@@ -7883,25 +7866,28 @@
     },
     {
       "description": [
-        "Android Support Library"
+        "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "23.2.1",
+      "version": "6.0.4",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "10850402"
+                "2603703"
               ],
               "checksum": [
                 {
-                  "_": "41121bbc412c2fce0be170d589d20cfa3e78e857",
+                  "_": "5c7027cea073df7716a7314e196872a93b215472",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/support_r23.2.1.zip"
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_4.zip",
+              "host-os": [
+                "windows"
+              ]
             }
           ]
         }
