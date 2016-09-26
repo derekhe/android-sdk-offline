@@ -6130,6 +6130,36 @@
       "apiLevel": "19",
       "items": [
         {
+          "description": "Addon Preview of the Glass Development Kit",
+          "version": "11",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "$": {
+                    "os": "any"
+                  },
+                  "size": [
+                    "72978"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "52cadbec4d42ce68a667e7e4ea461ef8b81924ef",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl.google.com/glass/xe22/google-gdk.zip"
+                  ]
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "SDK Platform Android SDK Platform 4.4.2",
           "version": "4",
           "archives": [
@@ -7192,9 +7222,9 @@
   "extras": [
     {
       "description": [
-        "Android Support Library"
+        "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "19.1.0",
+      "version": "6.0.3",
       "archives": [
         {
           "archive": [
@@ -7204,17 +7234,50 @@
                 "os": "any"
               },
               "size": [
-                "5138974"
+                "224496"
               ],
               "checksum": [
                 {
-                  "_": "9d881bfc3137f2e416c94eb7509af94ea007e074",
+                  "_": "3128fdfe9a25d9918f93ee42f1a60574be702212",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/support_r19.1.zip"
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r6_0_3.zip",
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ],
+      "obsolete": false
+    },
+    {
+      "description": [
+        "Intel x86 Emulator Accelerator (HAXM installer)"
+      ],
+      "version": "6.0.4",
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "2603703"
+              ],
+              "checksum": [
+                {
+                  "_": "5c7027cea073df7716a7314e196872a93b215472",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_4.zip",
+              "host-os": [
+                "windows"
+              ]
             }
           ]
         }
