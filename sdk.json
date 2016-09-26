@@ -6130,36 +6130,6 @@
       "apiLevel": "19",
       "items": [
         {
-          "description": "Addon Preview of the Glass Development Kit",
-          "version": "11",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "$": {
-                    "os": "any"
-                  },
-                  "size": [
-                    "72978"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "52cadbec4d42ce68a667e7e4ea461ef8b81924ef",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": [
-                    "https://dl.google.com/glass/xe22/google-gdk.zip"
-                  ]
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
           "description": "SDK Platform Android SDK Platform 4.4.2",
           "version": "4",
           "archives": [
