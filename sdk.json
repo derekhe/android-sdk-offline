@@ -4431,9 +4431,9 @@
   "extras": [
     {
       "description": [
-        "Android Support Repository"
+        "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "38.0.0",
+      "version": "6.0.3",
       "archives": [
         {
           "archive": [
@@ -4443,17 +4443,20 @@
                 "os": "any"
               },
               "size": [
-                "289154788"
+                "224496"
               ],
               "checksum": [
                 {
-                  "_": "2ad48ed61d6fc8d7d9351ce62873be60dac5187b",
+                  "_": "3128fdfe9a25d9918f93ee42f1a60574be702212",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/android_m2repository_r38.zip"
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r6_0_3.zip",
+              "host-os": [
+                "macosx"
+              ]
             }
           ]
         }
@@ -4462,25 +4465,28 @@
     },
     {
       "description": [
-        "Android Support Library"
+        "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "23.2.1",
+      "version": "6.0.4",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "10850402"
+                "2603703"
               ],
               "checksum": [
                 {
-                  "_": "41121bbc412c2fce0be170d589d20cfa3e78e857",
+                  "_": "5c7027cea073df7716a7314e196872a93b215472",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/support_r23.2.1.zip"
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_4.zip",
+              "host-os": [
+                "windows"
+              ]
             }
           ]
         }
