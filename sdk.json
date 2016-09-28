@@ -7972,23 +7972,23 @@
       "description": [
         "Google Repository"
       ],
-      "version": "35..",
+      "version": "36..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "129262984"
+                "129836903"
               ],
               "checksum": [
                 {
-                  "_": "209d1f3b4c5db966044436b793fb8fbd77a7eaf1",
+                  "_": "fa55e43b0175167da7f8cbedea35331cd448cf9b",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_m2repository_r35.zip"
+              "url": "http://dl.google.com/android/repository/google_m2repository_r36.zip"
             }
           ]
         }
