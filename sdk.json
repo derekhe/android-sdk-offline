@@ -3890,31 +3890,6 @@
       "apiLevel": "3",
       "items": [
         {
-          "description": "Addon Android + Google APIs",
-          "version": "3",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "34908058"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "1f92abf3a76be66ae8032257fc7620acbd2b2e3a",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/google_apis-3-r03.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": true
-        },
-        {
           "description": "SDK Platform Android SDK Platform 1.5_r3",
           "version": "04",
           "archives": [
@@ -6654,6 +6629,96 @@
       "apiLevel": "19",
       "items": [
         {
+          "description": "Addon Preview of the Glass Development Kit",
+          "version": "11",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "72978"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "52cadbec4d42ce68a667e7e4ea461ef8b81924ef",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl.google.com/glass/xe22/google-gdk.zip",
+                    "t",
+                    "t",
+                    "p",
+                    ":",
+                    "/",
+                    "/",
+                    "d",
+                    "l",
+                    ".",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    ".",
+                    "c",
+                    "o",
+                    "m",
+                    "/",
+                    "a",
+                    "n",
+                    "d",
+                    "r",
+                    "o",
+                    "i",
+                    "d",
+                    "/",
+                    "r",
+                    "e",
+                    "p",
+                    "o",
+                    "s",
+                    "i",
+                    "t",
+                    "o",
+                    "r",
+                    "y",
+                    "/",
+                    "g",
+                    "o",
+                    "o",
+                    "g",
+                    "l",
+                    "e",
+                    "_",
+                    "a",
+                    "p",
+                    "i",
+                    "s",
+                    "-",
+                    "3",
+                    "-",
+                    "r",
+                    "0",
+                    "3",
+                    ".",
+                    "z",
+                    "i",
+                    "p"
+                  ],
+                  "$": {
+                    "os": "any"
+                  }
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
           "description": "Addon Android + Google APIs",
           "version": "20",
           "archives": [
@@ -7841,25 +7906,32 @@
   "extras": [
     {
       "description": [
-        "Android Support Repository"
+        "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "38.0.0",
+      "version": "6.0.3",
       "archives": [
         {
           "archive": [
             {
+              "$": {
+                "arch": "any",
+                "os": "any"
+              },
               "size": [
-                "289154788"
+                "224496"
               ],
               "checksum": [
                 {
-                  "_": "2ad48ed61d6fc8d7d9351ce62873be60dac5187b",
+                  "_": "3128fdfe9a25d9918f93ee42f1a60574be702212",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/android_m2repository_r38.zip"
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r6_0_3.zip",
+              "host-os": [
+                "macosx"
+              ]
             }
           ]
         }
@@ -7868,25 +7940,28 @@
     },
     {
       "description": [
-        "Android Support Library"
+        "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "23.2.1",
+      "version": "6.0.4",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "10850402"
+                "2603703"
               ],
               "checksum": [
                 {
-                  "_": "41121bbc412c2fce0be170d589d20cfa3e78e857",
+                  "_": "5c7027cea073df7716a7314e196872a93b215472",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/support_r23.2.1.zip"
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_4.zip",
+              "host-os": [
+                "windows"
+              ]
             }
           ]
         }
