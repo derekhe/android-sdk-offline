@@ -8102,23 +8102,23 @@
       "description": [
         "Google Repository"
       ],
-      "version": "36..",
+      "version": "38..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "129836903"
+                "137717829"
               ],
               "checksum": [
                 {
-                  "_": "fa55e43b0175167da7f8cbedea35331cd448cf9b",
+                  "_": "6320401708c1be9b77acde31919cae7b5e29b753",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_m2repository_r36.zip"
+              "url": "http://dl.google.com/android/repository/google_m2repository_gms_v7_rc28_wear_2a3.zip"
             }
           ]
         }
@@ -8210,23 +8210,23 @@
       "description": [
         "Google Play services"
       ],
-      "version": "33..",
+      "version": "37..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "11972271"
+                "12078824"
               ],
               "checksum": [
                 {
-                  "_": "9f38cfdcdf9e25a77d75e4b58e6c35adcf953963",
+                  "_": "20b7d0b69c166161bf9aa95df1f58404a8733171",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_play_services_9683000_r33.zip"
+              "url": "http://dl.google.com/android/repository/google_play_services_v7_rc28.zip"
             }
           ]
         }
