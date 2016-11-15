@@ -7312,6 +7312,31 @@
           "obsolete": false
         },
         {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "4",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "290590059"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "eb14ba9c14615d5e5a21c854be29aa903d9bb63d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-21_r04.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "Sources for Android SDK",
           "version": "1",
           "archives": [
@@ -7522,6 +7547,31 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-22_r11.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "5",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "297851141"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "8a04ff4fb30f70414e6ec7b3b06285f316e93d08",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-22_r05.zip"
                 }
               ]
             }
@@ -7746,6 +7796,31 @@
           "obsolete": false
         },
         {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "9",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "349443901"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "571f5078a3d337a9144e2af13bd23ca46845a979",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-23_r09.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
           "description": "Sources for Android SDK",
           "version": "1",
           "archives": [
@@ -7894,6 +7969,61 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/sys-img/google_apis/arm64-v8a-24_r09.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "7",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "407148033"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "a379932395ced0a8f572b39c396d86e08827a9ba",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-24_r07.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        }
+      ]
+    },
+    {
+      "apiLevel": "25",
+      "items": [
+        {
+          "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "908925597"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "41159537591165f7e9b4f18864de304154883080",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-25_r02.zip"
                 }
               ]
             }
