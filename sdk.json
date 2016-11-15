@@ -2,556 +2,66 @@
   "tools": [
     {
       "description": "Android SDK Build-tools",
-      "version": "25.0.0",
-      "obsolete": false,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "49872921"
-              ],
-              "checksum": [
-                {
-                  "_": "f2bbda60403e75cabd0f238598c3b4dfca56ea44",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r25-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "49659466"
-              ],
-              "checksum": [
-                {
-                  "_": "273c5c29a65cbed00e44f3aa470bbd7dce556606",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r25-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "50451378"
-              ],
-              "checksum": [
-                {
-                  "_": "f9258f2308ff8b62cfc4513d40cb961612d07b6a",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r25-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "24.0.3",
-      "obsolete": false,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "49779151"
-              ],
-              "checksum": [
-                {
-                  "_": "9e8cc49d66e03fa1a8ecc1ac3e58f1324f5da304",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24.0.3-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "49568967"
-              ],
-              "checksum": [
-                {
-                  "_": "a01c15f1b105c34595681075e1895d58b3fff48c",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24.0.3-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "50354788"
-              ],
-              "checksum": [
-                {
-                  "_": "8b960d693fd4163caeb8dc5f5f5f80b10987089c",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24.0.3-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "24.0.2",
-      "obsolete": false,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "48936295"
-              ],
-              "checksum": [
-                {
-                  "_": "f199a7a788c3fefbed102eea34d6007737b803cf",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24.0.2-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "48726190"
-              ],
-              "checksum": [
-                {
-                  "_": "8bb8fc575477491d5957de743089df412de55cda",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24.0.2-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "49512513"
-              ],
-              "checksum": [
-                {
-                  "_": "09586a1f1c39bcfa7db5205c9a07837247deb67e",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24.0.2-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "24.0.1",
-      "obsolete": false,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "48936286"
-              ],
-              "checksum": [
-                {
-                  "_": "84f18c392919a074fcbb9b1d967984e6b2fef8b4",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24.0.1-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "48726085"
-              ],
-              "checksum": [
-                {
-                  "_": "5c6457fcdfa07724fb086d8ff4e8316fc0742848",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24.0.1-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "49511883"
-              ],
-              "checksum": [
-                {
-                  "_": "ac4a7cea42c3ef74d7fbf1b992fad311c550034e",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24.0.1-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "24.0.0",
-      "obsolete": false,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "48960919"
-              ],
-              "checksum": [
-                {
-                  "_": "c6271c4d78a5612ea6c7150688bcd5b7313de8d1",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "48747930"
-              ],
-              "checksum": [
-                {
-                  "_": "97fc4ed442f23989cc488d02c1d1de9bdde241de",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "49535326"
-              ],
-              "checksum": [
-                {
-                  "_": "dc61b9e5b451a0c3ec42ae2b1ce27c4d3c8da9f7",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r24-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "23.0.2",
-      "obsolete": false,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "39071201"
-              ],
-              "checksum": [
-                {
-                  "_": "8a9f2b37f6fcf7a9fa784dc21aeaeb41bbb9f2c3",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23.0.2-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "38060914"
-              ],
-              "checksum": [
-                {
-                  "_": "482c4cbceef8ff58aefd92d8155a38610158fdaf",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23.0.2-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "38217626"
-              ],
-              "checksum": [
-                {
-                  "_": "fc3a92c744d3ba0a16ccb5d2b41eea5974ce0a96",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23.0.2-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "23.0.3",
-      "obsolete": false,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "40733174"
-              ],
-              "checksum": [
-                {
-                  "_": "368f2600feac7e9b511b82f53d1f2240ae4a91a3",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23.0.3-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "39679533"
-              ],
-              "checksum": [
-                {
-                  "_": "fbc98cd303fd15a31d472de6c03bd707829f00b0",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23.0.3-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "39869945"
-              ],
-              "checksum": [
-                {
-                  "_": "c6d8266c6a3243c8f1e41b786c0e3cee4c781263",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23.0.3-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "23.0.1",
-      "obsolete": false,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "39069295"
-              ],
-              "checksum": [
-                {
-                  "_": "b6ba7c399d5fa487d95289d8832e4ad943aed556",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23.0.1-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "38059328"
-              ],
-              "checksum": [
-                {
-                  "_": "d96ec1522721e9a179ae2c591c99f75d31d39718",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23.0.1-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "38558889"
-              ],
-              "checksum": [
-                {
-                  "_": "cc1d37231d228f7a6f130e1f8d8c940052f0f8ab",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23.0.1-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "23.0.0",
+      "version": "17.0.0",
       "obsolete": true,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "39080519"
+                "11004914"
               ],
               "checksum": [
                 {
-                  "_": "c1d6209212b01469f80fa804e0c1d39a06bc9060",
+                  "_": "899897d327b0bad492d3a40d3db4d96119c15bc0",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23-linux.zip",
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r17-windows.zip"
+              ],
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "11696007"
+              ],
+              "checksum": [
+                {
+                  "_": "2c2872bc3806aabf16a12e3959c2183ddc866e6d",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r17-linux.zip"
+              ],
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "38070540"
+                "12208114"
               ],
               "checksum": [
                 {
-                  "_": "90ba6e716f7703a236cd44b2e71c5ff430855a03",
+                  "_": "602ee709be9dbb8f179b1e4075148a57f9419930",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23-macosx.zip",
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r17-macosx.zip"
+              ],
               "host-os": [
                 "macosx"
-              ]
-            },
-            {
-              "size": [
-                "38570715"
-              ],
-              "checksum": [
-                {
-                  "_": "3874948f35f2f8946597679cc6e9151449f23b5d",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r23-windows.zip",
-              "host-os": [
-                "windows"
               ]
             }
           ]
@@ -560,494 +70,542 @@
     },
     {
       "description": "Android SDK Build-tools",
-      "version": "22.0.1",
+      "version": "18.0.1",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "15413527"
+              ],
+              "checksum": [
+                {
+                  "_": "a6c2afd0b6289d589351956d2f5212b37014ca7d",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.0.1-windows.zip"
+              ],
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "16627330"
+              ],
+              "checksum": [
+                {
+                  "_": "f11618492b0d2270c332325d45d752d3656a9640",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.0.1-linux.zip"
+              ],
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "16633121"
+              ],
+              "checksum": [
+                {
+                  "_": "d84f5692fb44d60fc53e5b2507cebf9f24626902",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.0.1-macosx.zip"
+              ],
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "18.1.0",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "19659547"
+              ],
+              "checksum": [
+                {
+                  "_": "3a9810fc8559ab03c09378f07531e8cae2f1db30",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1-windows.zip"
+              ],
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "20229298"
+              ],
+              "checksum": [
+                {
+                  "_": "f314a0599e51397f0886fe888b50dd98f2f050d8",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1-linux.zip"
+              ],
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "20451524"
+              ],
+              "checksum": [
+                {
+                  "_": "16ddb299b8b43063e5bb3387ec17147c5053dfd8",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1-macosx.zip"
+              ],
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "18.1.1",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "19660000"
+              ],
+              "checksum": [
+                {
+                  "_": "c4605066e2f851387ea70bc1442b1968bd7b4a15",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1.1-windows.zip"
+              ],
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "20229760"
+              ],
+              "checksum": [
+                {
+                  "_": "68c9acbfc0cec2d51b19efaed39831a17055d998",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1.1-linux.zip"
+              ],
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "20452157"
+              ],
+              "checksum": [
+                {
+                  "_": "a9d9d37f6ddf859e57abc78802a77aaa166e48d4",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r18.1.1-macosx.zip"
+              ],
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "19.0.0",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "20611447"
+              ],
+              "checksum": [
+                {
+                  "_": "6edf505c20f5ece9c48fa0aff9a90488f9654d52",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19-windows.zip"
+              ],
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "21339943"
+              ],
+              "checksum": [
+                {
+                  "_": "55c1a6cf632e7d346f0002b275ec41fd3137fd83",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19-linux.zip"
+              ],
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "21441270"
+              ],
+              "checksum": [
+                {
+                  "_": "86ec1c12db1bc446b7bcaefc5cc14eb361044e90",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19-macosx.zip"
+              ],
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "19.0.1",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "20500648"
+              ],
+              "checksum": [
+                {
+                  "_": "5ef422bac5b28f4ced108319ed4a6bc7050a6234",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.1-windows.zip"
+              ],
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "21229048"
+              ],
+              "checksum": [
+                {
+                  "_": "18d2312dc4368858914213087f4e61445aca4517",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.1-linux.zip"
+              ],
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "21450597"
+              ],
+              "checksum": [
+                {
+                  "_": "efaf50fb19a3edb8d03efbff76f89a249ad2920b",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.1-macosx.zip"
+              ],
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "19.0.2",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "20621117"
+              ],
+              "checksum": [
+                {
+                  "_": "af664672d0d709c9ae30937b1062317d3ade7f95",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.2-windows.zip"
+              ],
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "21352552"
+              ],
+              "checksum": [
+                {
+                  "_": "a03a6bdea0091aea32e1b35b90a7294c9f04e3dd",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.2-linux.zip"
+              ],
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "21453726"
+              ],
+              "checksum": [
+                {
+                  "_": "145bc43065d45f756d99d87329d899052b9a9288",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.2-macosx.zip"
+              ],
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "19.0.3",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "20730715"
+              ],
+              "checksum": [
+                {
+                  "_": "cb46b433b67a0a6910ff00db84be8b527ea3102f",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.3-windows.zip"
+              ],
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "21462150"
+              ],
+              "checksum": [
+                {
+                  "_": "c2d6055478e9d2d4fba476ee85f99181ddd1160c",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.3-linux.zip"
+              ],
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "21563992"
+              ],
+              "checksum": [
+                {
+                  "_": "651cf8754373b2d52e7f6aab2c52eabffe4e9ea4",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.0.3-macosx.zip"
+              ],
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "19.1.0",
       "obsolete": false,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "33104577"
+                "20812533"
               ],
               "checksum": [
                 {
-                  "_": "da8b9c5c3ede39298e6cf0283c000c2ee9029646",
+                  "_": "13b367fbdbff8132cb4356f716e8dc8a8df745c5",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r22.0.1-linux.zip",
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.1-windows.zip"
+              ],
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "21490972"
+              ],
+              "checksum": [
+                {
+                  "_": "1ff20ac15fa47a75d00346ec12f180d531b3ca89",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.1-linux.zip"
+              ],
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "33646102"
+                "21590160"
               ],
               "checksum": [
                 {
-                  "_": "53dad7f608e01d53b17176ba11165acbfccc5bbf",
+                  "_": "0d11aae3417de1efb4b9a0e0a7855904a61bcec1",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r22.0.1-macosx.zip",
+              "url": [
+                "https://dl-ssl.google.com/android/repository/build-tools_r19.1-macosx.zip"
+              ],
               "host-os": [
                 "macosx"
-              ]
-            },
-            {
-              "size": [
-                "33254137"
-              ],
-              "checksum": [
-                {
-                  "_": "61d8cbe069d9e0a57872a83e5e5abe164b7d52cf",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r22.0.1-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "22.0.0",
-      "obsolete": true,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "33104280"
-              ],
-              "checksum": [
-                {
-                  "_": "a8a1619dd090e44fac957bce6842e62abf87965b",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r22-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "33646090"
-              ],
-              "checksum": [
-                {
-                  "_": "af95429b24088d704bc5db9bd606e34ac1b82c0d",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r22-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "33254114"
-              ],
-              "checksum": [
-                {
-                  "_": "08fcca41e81b172bd9f570963b90d3a84929e043",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r22-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "21.1.2",
-      "obsolete": false,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "32637678"
-              ],
-              "checksum": [
-                {
-                  "_": "5e35259843bf2926113a38368b08458735479658",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.1.2-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "33152878"
-              ],
-              "checksum": [
-                {
-                  "_": "e7c906b4ba0eea93b32ba36c610dbd6b204bff48",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.1.2-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "32792587"
-              ],
-              "checksum": [
-                {
-                  "_": "1d944759c47f60e634d2b8a1f3a4259be2f8d652",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.1.2-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "21.1.1",
-      "obsolete": true,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "32642454"
-              ],
-              "checksum": [
-                {
-                  "_": "1c712ee3a1ba5a8b0548f9c32f17d4a0ddfd727d",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.1.1-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "33157676"
-              ],
-              "checksum": [
-                {
-                  "_": "836a146eab0504aa9387a5132e986fe7c7381571",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.1.1-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "32797356"
-              ],
-              "checksum": [
-                {
-                  "_": "53fc4201237f899d5cd92f0b76ad41fb89da188b",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.1.1-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "21.1.0",
-      "obsolete": true,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "32642820"
-              ],
-              "checksum": [
-                {
-                  "_": "b7455e543784d52a8925f960bc880493ed1478cb",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.1-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "33158159"
-              ],
-              "checksum": [
-                {
-                  "_": "df619356c2359aa5eacdd48699d15b335d9bd246",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.1-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "32797810"
-              ],
-              "checksum": [
-                {
-                  "_": "c79d63ac6b713a1e326ad4dae43f2ee76708a2f4",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.1-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "21.0.2",
-      "obsolete": true,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "22153122"
-              ],
-              "checksum": [
-                {
-                  "_": "e1236ab8897b62b57414adcf04c132567b2612a5",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.0.2-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "22668597"
-              ],
-              "checksum": [
-                {
-                  "_": "f17471c154058f3734729ef3cc363399b1cd3de1",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.0.2-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "22306371"
-              ],
-              "checksum": [
-                {
-                  "_": "37496141b23cbe633167927b7abe6e22d9f1a1c1",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.0.2-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "21.0.1",
-      "obsolete": true,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "22153013"
-              ],
-              "checksum": [
-                {
-                  "_": "e573069eea3e5255e7a65bedeb767f4fd0a5f49a",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.0.1-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "22668616"
-              ],
-              "checksum": [
-                {
-                  "_": "b60c8f9b810c980abafa04896706f3911be1ade7",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.0.1-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "22306243"
-              ],
-              "checksum": [
-                {
-                  "_": "d68e7e6fd7a48c8759aa41d713c9d4f0e4c1c1df",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21.0.1-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "21.0.0",
-      "obsolete": true,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "22153145"
-              ],
-              "checksum": [
-                {
-                  "_": "4933328fdeecbd554a29528f254f4993468e1cf4",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "22668456"
-              ],
-              "checksum": [
-                {
-                  "_": "9bef7989b51436bd4e5114d8a0330359f077cbfa",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "22306371"
-              ],
-              "checksum": [
-                {
-                  "_": "5bc8fd399bc0135a9bc91eec78ddc5af4f54bf32",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r21-windows.zip",
-              "host-os": [
-                "windows"
               ]
             }
           ]
@@ -1061,6 +619,23 @@
       "archives": [
         {
           "archive": [
+            {
+              "size": [
+                "20828006"
+              ],
+              "checksum": [
+                {
+                  "_": "cf20720e452b642d5eb59dabe05c0c729b36ec75",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r20-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
             {
               "size": [
                 "21445463"
@@ -1094,22 +669,67 @@
               "host-os": [
                 "macosx"
               ]
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "21.0.0",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
             {
               "size": [
-                "20828006"
+                "22306371"
               ],
               "checksum": [
                 {
-                  "_": "cf20720e452b642d5eb59dabe05c0c729b36ec75",
+                  "_": "5bc8fd399bc0135a9bc91eec78ddc5af4f54bf32",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r20-windows.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r21-windows.zip",
               "host-os": [
                 "windows"
+              ]
+            },
+            {
+              "size": [
+                "22153145"
+              ],
+              "checksum": [
+                {
+                  "_": "4933328fdeecbd554a29528f254f4993468e1cf4",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "22668456"
+              ],
+              "checksum": [
+                {
+                  "_": "9bef7989b51436bd4e5114d8a0330359f077cbfa",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21-macosx.zip",
+              "host-os": [
+                "macosx"
               ]
             }
           ]
@@ -1118,60 +738,308 @@
     },
     {
       "description": "Android SDK Build-tools",
-      "version": "19.1.0",
+      "version": "21.0.1",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "22306243"
+              ],
+              "checksum": [
+                {
+                  "_": "d68e7e6fd7a48c8759aa41d713c9d4f0e4c1c1df",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.0.1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "22153013"
+              ],
+              "checksum": [
+                {
+                  "_": "e573069eea3e5255e7a65bedeb767f4fd0a5f49a",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.0.1-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "22668616"
+              ],
+              "checksum": [
+                {
+                  "_": "b60c8f9b810c980abafa04896706f3911be1ade7",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.0.1-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "21.0.2",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "22306371"
+              ],
+              "checksum": [
+                {
+                  "_": "37496141b23cbe633167927b7abe6e22d9f1a1c1",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.0.2-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "22153122"
+              ],
+              "checksum": [
+                {
+                  "_": "e1236ab8897b62b57414adcf04c132567b2612a5",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.0.2-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "22668597"
+              ],
+              "checksum": [
+                {
+                  "_": "f17471c154058f3734729ef3cc363399b1cd3de1",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.0.2-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "21.1.0",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "32797810"
+              ],
+              "checksum": [
+                {
+                  "_": "c79d63ac6b713a1e326ad4dae43f2ee76708a2f4",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "32642820"
+              ],
+              "checksum": [
+                {
+                  "_": "b7455e543784d52a8925f960bc880493ed1478cb",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.1-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "33158159"
+              ],
+              "checksum": [
+                {
+                  "_": "df619356c2359aa5eacdd48699d15b335d9bd246",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.1-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "21.1.1",
+      "obsolete": true,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "32797356"
+              ],
+              "checksum": [
+                {
+                  "_": "53fc4201237f899d5cd92f0b76ad41fb89da188b",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.1.1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "32642454"
+              ],
+              "checksum": [
+                {
+                  "_": "1c712ee3a1ba5a8b0548f9c32f17d4a0ddfd727d",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.1.1-linux.zip",
+              "host-os": [
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "33157676"
+              ],
+              "checksum": [
+                {
+                  "_": "836a146eab0504aa9387a5132e986fe7c7381571",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.1.1-macosx.zip",
+              "host-os": [
+                "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Build-tools",
+      "version": "21.1.2",
       "obsolete": false,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "21490972"
+                "32792587"
               ],
               "checksum": [
                 {
-                  "_": "1ff20ac15fa47a75d00346ec12f180d531b3ca89",
+                  "_": "1d944759c47f60e634d2b8a1f3a4259be2f8d652",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.1-linux.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r21.1.2-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "32637678"
+              ],
+              "checksum": [
+                {
+                  "_": "5e35259843bf2926113a38368b08458735479658",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r21.1.2-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "21590160"
+                "33152878"
               ],
               "checksum": [
                 {
-                  "_": "0d11aae3417de1efb4b9a0e0a7855904a61bcec1",
+                  "_": "e7c906b4ba0eea93b32ba36c610dbd6b204bff48",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.1-macosx.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r21.1.2-macosx.zip",
               "host-os": [
                 "macosx"
-              ]
-            },
-            {
-              "size": [
-                "20812533"
-              ],
-              "checksum": [
-                {
-                  "_": "13b367fbdbff8132cb4356f716e8dc8a8df745c5",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.1-windows.zip",
-              "host-os": [
-                "windows"
               ]
             }
           ]
@@ -1180,60 +1048,60 @@
     },
     {
       "description": "Android SDK Build-tools",
-      "version": "19.0.3",
+      "version": "22.0.0",
       "obsolete": true,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "21462150"
+                "33254114"
               ],
               "checksum": [
                 {
-                  "_": "c2d6055478e9d2d4fba476ee85f99181ddd1160c",
+                  "_": "08fcca41e81b172bd9f570963b90d3a84929e043",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.0.3-linux.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r22-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "33104280"
+              ],
+              "checksum": [
+                {
+                  "_": "a8a1619dd090e44fac957bce6842e62abf87965b",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r22-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "21563992"
+                "33646090"
               ],
               "checksum": [
                 {
-                  "_": "651cf8754373b2d52e7f6aab2c52eabffe4e9ea4",
+                  "_": "af95429b24088d704bc5db9bd606e34ac1b82c0d",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.0.3-macosx.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r22-macosx.zip",
               "host-os": [
                 "macosx"
-              ]
-            },
-            {
-              "size": [
-                "20730715"
-              ],
-              "checksum": [
-                {
-                  "_": "cb46b433b67a0a6910ff00db84be8b527ea3102f",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.0.3-windows.zip",
-              "host-os": [
-                "windows"
               ]
             }
           ]
@@ -1242,60 +1110,60 @@
     },
     {
       "description": "Android SDK Build-tools",
-      "version": "19.0.2",
-      "obsolete": true,
+      "version": "22.0.1",
+      "obsolete": false,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "21352552"
+                "33254137"
               ],
               "checksum": [
                 {
-                  "_": "a03a6bdea0091aea32e1b35b90a7294c9f04e3dd",
+                  "_": "61d8cbe069d9e0a57872a83e5e5abe164b7d52cf",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.0.2-linux.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r22.0.1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "33104577"
+              ],
+              "checksum": [
+                {
+                  "_": "da8b9c5c3ede39298e6cf0283c000c2ee9029646",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r22.0.1-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "21453726"
+                "33646102"
               ],
               "checksum": [
                 {
-                  "_": "145bc43065d45f756d99d87329d899052b9a9288",
+                  "_": "53dad7f608e01d53b17176ba11165acbfccc5bbf",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.0.2-macosx.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r22.0.1-macosx.zip",
               "host-os": [
                 "macosx"
-              ]
-            },
-            {
-              "size": [
-                "20621117"
-              ],
-              "checksum": [
-                {
-                  "_": "af664672d0d709c9ae30937b1062317d3ade7f95",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.0.2-windows.zip",
-              "host-os": [
-                "windows"
               ]
             }
           ]
@@ -1304,60 +1172,60 @@
     },
     {
       "description": "Android SDK Build-tools",
-      "version": "19.0.1",
+      "version": "23.0.0",
       "obsolete": true,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "21229048"
+                "38570715"
               ],
               "checksum": [
                 {
-                  "_": "18d2312dc4368858914213087f4e61445aca4517",
+                  "_": "3874948f35f2f8946597679cc6e9151449f23b5d",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.0.1-linux.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r23-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "39080519"
+              ],
+              "checksum": [
+                {
+                  "_": "c1d6209212b01469f80fa804e0c1d39a06bc9060",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r23-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "21450597"
+                "38070540"
               ],
               "checksum": [
                 {
-                  "_": "efaf50fb19a3edb8d03efbff76f89a249ad2920b",
+                  "_": "90ba6e716f7703a236cd44b2e71c5ff430855a03",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.0.1-macosx.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r23-macosx.zip",
               "host-os": [
                 "macosx"
-              ]
-            },
-            {
-              "size": [
-                "20500648"
-              ],
-              "checksum": [
-                {
-                  "_": "5ef422bac5b28f4ced108319ed4a6bc7050a6234",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19.0.1-windows.zip",
-              "host-os": [
-                "windows"
               ]
             }
           ]
@@ -1366,308 +1234,60 @@
     },
     {
       "description": "Android SDK Build-tools",
-      "version": "19.0.0",
-      "obsolete": true,
+      "version": "23.0.1",
+      "obsolete": false,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "21339943"
+                "38558889"
               ],
               "checksum": [
                 {
-                  "_": "55c1a6cf632e7d346f0002b275ec41fd3137fd83",
+                  "_": "cc1d37231d228f7a6f130e1f8d8c940052f0f8ab",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19-linux.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r23.0.1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "39069295"
+              ],
+              "checksum": [
+                {
+                  "_": "b6ba7c399d5fa487d95289d8832e4ad943aed556",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/build-tools_r23.0.1-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "21441270"
+                "38059328"
               ],
               "checksum": [
                 {
-                  "_": "86ec1c12db1bc446b7bcaefc5cc14eb361044e90",
+                  "_": "d96ec1522721e9a179ae2c591c99f75d31d39718",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19-macosx.zip",
+              "url": "http://dl.google.com/android/repository/build-tools_r23.0.1-macosx.zip",
               "host-os": [
                 "macosx"
-              ]
-            },
-            {
-              "size": [
-                "20611447"
-              ],
-              "checksum": [
-                {
-                  "_": "6edf505c20f5ece9c48fa0aff9a90488f9654d52",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r19-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "18.1.1",
-      "obsolete": true,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "20229760"
-              ],
-              "checksum": [
-                {
-                  "_": "68c9acbfc0cec2d51b19efaed39831a17055d998",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r18.1.1-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "20452157"
-              ],
-              "checksum": [
-                {
-                  "_": "a9d9d37f6ddf859e57abc78802a77aaa166e48d4",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r18.1.1-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "19660000"
-              ],
-              "checksum": [
-                {
-                  "_": "c4605066e2f851387ea70bc1442b1968bd7b4a15",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r18.1.1-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "18.1.0",
-      "obsolete": true,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "20229298"
-              ],
-              "checksum": [
-                {
-                  "_": "f314a0599e51397f0886fe888b50dd98f2f050d8",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r18.1-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "20451524"
-              ],
-              "checksum": [
-                {
-                  "_": "16ddb299b8b43063e5bb3387ec17147c5053dfd8",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r18.1-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "19659547"
-              ],
-              "checksum": [
-                {
-                  "_": "3a9810fc8559ab03c09378f07531e8cae2f1db30",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r18.1-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "18.0.1",
-      "obsolete": true,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "16627330"
-              ],
-              "checksum": [
-                {
-                  "_": "f11618492b0d2270c332325d45d752d3656a9640",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r18.0.1-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "16633121"
-              ],
-              "checksum": [
-                {
-                  "_": "d84f5692fb44d60fc53e5b2507cebf9f24626902",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r18.0.1-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "15413527"
-              ],
-              "checksum": [
-                {
-                  "_": "a6c2afd0b6289d589351956d2f5212b37014ca7d",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r18.0.1-windows.zip",
-              "host-os": [
-                "windows"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": "Android SDK Build-tools",
-      "version": "17.0.0",
-      "obsolete": true,
-      "archives": [
-        {
-          "archive": [
-            {
-              "size": [
-                "11696007"
-              ],
-              "checksum": [
-                {
-                  "_": "2c2872bc3806aabf16a12e3959c2183ddc866e6d",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r17-linux.zip",
-              "host-os": [
-                "linux"
-              ]
-            },
-            {
-              "size": [
-                "12208114"
-              ],
-              "checksum": [
-                {
-                  "_": "602ee709be9dbb8f179b1e4075148a57f9419930",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r17-macosx.zip",
-              "host-os": [
-                "macosx"
-              ]
-            },
-            {
-              "size": [
-                "11004914"
-              ],
-              "checksum": [
-                {
-                  "_": "899897d327b0bad492d3a40d3db4d96119c15bc0",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/build-tools_r17-windows.zip",
-              "host-os": [
-                "windows"
               ]
             }
           ]
@@ -1676,60 +1296,122 @@
     },
     {
       "description": "Android SDK Platform-tools",
-      "version": "25.0.0",
+      "version": "23.0.1",
       "obsolete": false,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "3916014"
+                "2402978"
               ],
               "checksum": [
                 {
-                  "_": "84be2ce1d3c50c13a8b4fe332d644e81d0d35f6f",
+                  "_": "8f32d5f724618ad58e71909cc963ae006d0867b0",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r25-linux.zip",
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.0.1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "2520021"
+              ],
+              "checksum": [
+                {
+                  "_": "94dcc5072b3d0d74cc69e4101958b6c2e227e738",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.0.1-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "3732749"
+                "2489850"
               ],
               "checksum": [
                 {
-                  "_": "2d46665574db4c4a61df51c4520b20d46336541d",
+                  "_": "c461d66f3ca9fbae8ea0fa1a49c203b3b6fd653f",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r25-macosx.zip",
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.0.1-macosx.zip",
               "host-os": [
                 "macosx"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Android SDK Platform-tools",
+      "version": "23.1.0",
+      "obsolete": false,
+      "archives": [
+        {
+          "archive": [
+            {
+              "size": [
+                "2594786"
+              ],
+              "checksum": [
+                {
+                  "_": "0467934bfbbb8bd72959f7365e1a3ce2683b68f6",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.1_rc1-windows.zip",
+              "host-os": [
+                "windows"
               ]
             },
             {
               "size": [
-                "3573490"
+                "2873688"
               ],
               "checksum": [
                 {
-                  "_": "db6911b099374319500e0de9503b0a4ec20d0576",
+                  "_": "b04d1dbdfd734b0263fb04182e76ff565447f498",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/platform-tools_r25-windows.zip",
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.1_rc1-linux.zip",
               "host-os": [
-                "windows"
+                "linux"
+              ]
+            },
+            {
+              "size": [
+                "2752137"
+              ],
+              "checksum": [
+                {
+                  "_": "c92d9fdfdf79e04a69412492d6480d4f937d1bcc",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/platform-tools_r23.1_rc1-macosx.zip",
+              "host-os": [
+                "macosx"
               ]
             }
           ]
@@ -1738,60 +1420,60 @@
     },
     {
       "description": "Android SDK Tools",
-      "version": "25.2.2",
+      "version": "24.4.1",
       "obsolete": false,
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "273491448"
+                "199426345"
               ],
               "checksum": [
                 {
-                  "_": "99257925a3d8b46fee948a7520d7b7e3e3e1890e",
+                  "_": "4b16f8f109e49a11a36949fe781dc804d38a1a68",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r25.2.2-linux.zip",
+              "url": "http://dl.google.com/android/repository/tools_r24.4.1-windows.zip",
+              "host-os": [
+                "windows"
+              ]
+            },
+            {
+              "size": [
+                "326745882"
+              ],
+              "checksum": [
+                {
+                  "_": "7e00ea3715f2cf666296ce22058764ec7ecb3b7e",
+                  "$": {
+                    "type": "sha1"
+                  }
+                }
+              ],
+              "url": "http://dl.google.com/android/repository/tools_r24.4.1-linux.zip",
               "host-os": [
                 "linux"
               ]
             },
             {
               "size": [
-                "195856788"
+                "102711295"
               ],
               "checksum": [
                 {
-                  "_": "bbaa3929696ce523ea62b58cc8032d7964a154c5",
+                  "_": "90db74e1827846b0e946a26d22a4314f8cfa3701",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/tools_r25.2.2-macosx.zip",
+              "url": "http://dl.google.com/android/repository/tools_r24.4.1-macosx.zip",
               "host-os": [
                 "macosx"
-              ]
-            },
-            {
-              "size": [
-                "301642481"
-              ],
-              "checksum": [
-                {
-                  "_": "ef898dff805c4b9e39f6e77fd9ec397fb1b1f809",
-                  "$": {
-                    "type": "sha1"
-                  }
-                }
-              ],
-              "url": "http://dl.google.com/android/repository/tools_r25.2.2-windows.zip",
-              "host-os": [
-                "windows"
               ]
             }
           ]
@@ -1804,26 +1486,28 @@
       "apiLevel": "2",
       "items": [
         {
-          "description": "SDK Platform Android SDK Platform 2",
+          "description": "SDK Platform Android SDK Platform 1.1_r1",
           "version": "1",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "45476658"
+                    "46828615"
                   ],
                   "checksum": [
                     {
-                      "_": "c054d25c9b4c6251fa49c2f9c54336998679d3fe",
+                      "_": "a4060f29ed39fc929c302836d488998c53c3002e",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-1.1_r1-linux.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-1.1_r1-windows.zip"
+                  ],
                   "host-os": [
-                    "linux"
+                    "windows"
                   ]
                 },
                 {
@@ -1838,26 +1522,30 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-1.1_r1-macosx.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-1.1_r1-macosx.zip"
+                  ],
                   "host-os": [
                     "macosx"
                   ]
                 },
                 {
                   "size": [
-                    "46828615"
+                    "45476658"
                   ],
                   "checksum": [
                     {
-                      "_": "a4060f29ed39fc929c302836d488998c53c3002e",
+                      "_": "c054d25c9b4c6251fa49c2f9c54336998679d3fe",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-1.1_r1-windows.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-1.1_r1-linux.zip"
+                  ],
                   "host-os": [
-                    "windows"
+                    "linux"
                   ]
                 }
               ]
@@ -1871,26 +1559,53 @@
       "apiLevel": "3",
       "items": [
         {
-          "description": "SDK Platform Android SDK Platform 3",
-          "version": "4",
+          "description": "Addon Android + Google APIs",
+          "version": "3",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "53348669"
+                    "34908058"
                   ],
                   "checksum": [
                     {
-                      "_": "5c134b7df5f4b8bd5b61ba93bdaebada8fa3468c",
+                      "_": "1f92abf3a76be66ae8032257fc7620acbd2b2e3a",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-1.5_r04-linux.zip",
+                  "url": "http://dl.google.com/android/repository/google_apis-3-r03.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": true
+        },
+        {
+          "description": "SDK Platform Android SDK Platform 1.5_r3",
+          "version": "04",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "54624370"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "5bb106d2e40d481edd337b0833093843e15fe49a",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-1.5_r04-windows.zip"
+                  ],
                   "host-os": [
-                    "linux"
+                    "windows"
                   ]
                 },
                 {
@@ -1905,26 +1620,30 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-1.5_r04-macosx.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-1.5_r04-macosx.zip"
+                  ],
                   "host-os": [
                     "macosx"
                   ]
                 },
                 {
                   "size": [
-                    "54624370"
+                    "53348669"
                   ],
                   "checksum": [
                     {
-                      "_": "5bb106d2e40d481edd337b0833093843e15fe49a",
+                      "_": "5c134b7df5f4b8bd5b61ba93bdaebada8fa3468c",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-1.5_r04-windows.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-1.5_r04-linux.zip"
+                  ],
                   "host-os": [
-                    "windows"
+                    "linux"
                   ]
                 }
               ]
@@ -1963,8 +1682,8 @@
           "obsolete": true
         },
         {
-          "description": "SDK Platform Android SDK Platform 4",
-          "version": "3",
+          "description": "SDK Platform Android SDK Platform 1.6_r2",
+          "version": "03",
           "archives": [
             {
               "archive": [
@@ -1980,7 +1699,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-1.6_r03-linux.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-1.6_r03-linux.zip"
+                  ],
                   "host-os": [
                     "linux"
                   ]
@@ -1997,7 +1718,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-1.6_r03-macosx.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-1.6_r03-macosx.zip"
+                  ],
                   "host-os": [
                     "macosx"
                   ]
@@ -2014,7 +1737,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-1.6_r03-windows.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-1.6_r03-windows.zip"
+                  ],
                   "host-os": [
                     "windows"
                   ]
@@ -2055,8 +1780,8 @@
           "obsolete": true
         },
         {
-          "description": "SDK Platform Android SDK Platform 5",
-          "version": "1",
+          "description": "SDK Platform Android SDK Platform 2.0, revision 1",
+          "version": "01",
           "archives": [
             {
               "archive": [
@@ -2072,7 +1797,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-2.0_r01-linux.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-2.0_r01-linux.zip"
+                  ],
                   "host-os": [
                     "linux"
                   ]
@@ -2089,7 +1816,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-2.0_r01-macosx.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-2.0_r01-macosx.zip"
+                  ],
                   "host-os": [
                     "macosx"
                   ]
@@ -2106,7 +1835,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-2.0_r01-windows.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-2.0_r01-windows.zip"
+                  ],
                   "host-os": [
                     "windows"
                   ]
@@ -2147,8 +1878,8 @@
           "obsolete": true
         },
         {
-          "description": "SDK Platform Android SDK Platform 6",
-          "version": "1",
+          "description": "SDK Platform Android SDK Platform 2.0.1_r1",
+          "version": "01",
           "archives": [
             {
               "archive": [
@@ -2164,7 +1895,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-2.0.1_r01-linux.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-2.0.1_r01-linux.zip"
+                  ],
                   "host-os": [
                     "linux"
                   ]
@@ -2181,7 +1914,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-2.0.1_r01-macosx.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-2.0.1_r01-macosx.zip"
+                  ],
                   "host-os": [
                     "macosx"
                   ]
@@ -2198,7 +1933,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-2.0.1_r01-windows.zip",
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-2.0.1_r01-windows.zip"
+                  ],
                   "host-os": [
                     "windows"
                   ]
@@ -2239,8 +1976,8 @@
           "obsolete": true
         },
         {
-          "description": "SDK Platform Android SDK Platform 7",
-          "version": "3",
+          "description": "SDK Platform Android SDK Platform 2.1_r3",
+          "version": "03",
           "archives": [
             {
               "archive": [
@@ -2256,12 +1993,41 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-2.1_r03.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-2.1_r03-linux.zip"
+                  ]
                 }
               ]
             }
           ],
-          "obsolete": false
+          "obsolete": true
+        },
+        {
+          "description": "Samples for SDK Android SDK Samples for Android API 7, revision 1",
+          "version": "01",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "7677831"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "51e4907f60f248ede5c58b54ce7b6ae0b473e0ca",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-2.1_r01-linux.zip"
+                  ]
+                }
+              ]
+            }
+          ],
+          "obsolete": true
         }
       ]
     },
@@ -2294,8 +2060,8 @@
           "obsolete": true
         },
         {
-          "description": "SDK Platform Android SDK Platform 8",
-          "version": "3",
+          "description": "SDK Platform Android SDK Platform 2.2_r3",
+          "version": "03",
           "archives": [
             {
               "archive": [
@@ -2311,7 +2077,36 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-2.2_r03.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-2.2_r03-linux.zip"
+                  ]
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "Samples for SDK Android SDK Samples for Android API 8, revision 1",
+          "version": "01",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "7969716"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "d16d8bf2dd84cedf73b98b948d66461c8f19d6fb",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-2.2_r01-linux.zip"
+                  ]
                 }
               ]
             }
@@ -2349,8 +2144,8 @@
           "obsolete": true
         },
         {
-          "description": "SDK Platform Android SDK Platform 9",
-          "version": "2",
+          "description": "SDK Platform Android SDK Platform 2.3.1_r2",
+          "version": "02",
           "archives": [
             {
               "archive": [
@@ -2366,12 +2161,41 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-2.3.1_r02.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-2.3.1_r02-linux.zip"
+                  ]
                 }
               ]
             }
           ],
-          "obsolete": false
+          "obsolete": true
+        },
+        {
+          "description": "Samples for SDK Android SDK Samples for Android API 9, revision 1",
+          "version": "01",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "8516326"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "36f7dd6c8b5dbb50b3cf3e3ac5209f3fe55db2aa",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-2.3_r01-linux.zip"
+                  ]
+                }
+              ]
+            }
+          ],
+          "obsolete": true
         }
       ]
     },
@@ -2404,8 +2228,8 @@
           "obsolete": true
         },
         {
-          "description": "SDK Platform Android SDK Platform 10",
-          "version": "2",
+          "description": "SDK Platform Android SDK Platform 2.3.3._r2",
+          "version": "02",
           "archives": [
             {
               "archive": [
@@ -2421,7 +2245,36 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-2.3.3_r02.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-2.3.3_r02-linux.zip"
+                  ]
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "Samples for SDK Android SDK Samples for Android API 10, revision 1",
+          "version": "01",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "8539583"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "93b0c3f3bdf5b07f1f115100b4954f0665297a0d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-2.3.3_r01-linux.zip"
+                  ]
                 }
               ]
             }
@@ -2509,8 +2362,8 @@
           "obsolete": true
         },
         {
-          "description": "SDK Platform Android SDK Platform 11",
-          "version": "2",
+          "description": "SDK Platform Android SDK Platform 3.0, revision 2",
+          "version": "02",
           "archives": [
             {
               "archive": [
@@ -2526,12 +2379,41 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-3.0_r02.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-3.0_r02-linux.zip"
+                  ]
                 }
               ]
             }
           ],
-          "obsolete": false
+          "obsolete": true
+        },
+        {
+          "description": "Samples for SDK Android SDK Samples for Android API 11, revision 1",
+          "version": "01",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "11976920"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "3749ace584631270268d65bb1d0ad61b0d691682",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-3.0_r01-linux.zip"
+                  ]
+                }
+              ]
+            }
+          ],
+          "obsolete": true
         }
       ]
     },
@@ -2589,8 +2471,8 @@
           "obsolete": true
         },
         {
-          "description": "SDK Platform Android SDK Platform 12",
-          "version": "3",
+          "description": "SDK Platform Android SDK Platform 3.1, revision 3",
+          "version": "03",
           "archives": [
             {
               "archive": [
@@ -2606,12 +2488,41 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-3.1_r03.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-3.1_r03-linux.zip"
+                  ]
                 }
               ]
             }
           ],
-          "obsolete": false
+          "obsolete": true
+        },
+        {
+          "description": "Samples for SDK Android SDK Samples for Android API 12, revision 1",
+          "version": "01",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "12150514"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "df0ace37cbca73373fe94080f94c71557cac73a7",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-3.1_r01-linux.zip"
+                  ]
+                }
+              ]
+            }
+          ],
+          "obsolete": true
         }
       ]
     },
@@ -2669,8 +2580,8 @@
           "obsolete": true
         },
         {
-          "description": "SDK Platform Android SDK Platform 13",
-          "version": "1",
+          "description": "SDK Platform Android SDK Platform 3.2, revision 1",
+          "version": "01",
           "archives": [
             {
               "archive": [
@@ -2686,12 +2597,41 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/android-3.2_r01.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/android-3.2_r01-linux.zip"
+                  ]
                 }
               ]
             }
           ],
-          "obsolete": false
+          "obsolete": true
+        },
+        {
+          "description": "Samples for SDK Android SDK Samples for Android API 13, revision 1",
+          "version": "01",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "12193502"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "078bcf1abc1cb8921f3fa482c252963a782bed60",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-3.2_r01-linux.zip"
+                  ]
+                }
+              ]
+            }
+          ],
+          "obsolete": true
         }
       ]
     },
@@ -2724,7 +2664,7 @@
           "obsolete": true
         },
         {
-          "description": "SDK Platform Android SDK Platform 14",
+          "description": "SDK Platform Android SDK Platform 4.0",
           "version": "4",
           "archives": [
             {
@@ -2746,7 +2686,34 @@
               ]
             }
           ],
-          "obsolete": false
+          "obsolete": true
+        },
+        {
+          "description": "Samples for SDK",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "16253619"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "1312c22ab0b650e26835cc3945d4ff8cea183416",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-14_r02.zip"
+                  ]
+                }
+              ]
+            }
+          ],
+          "obsolete": true
         },
         {
           "description": "Sources for Android SDK",
@@ -2766,7 +2733,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sources-14_r01.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/sources-14_r01.zip"
+                  ]
                 }
               ]
             }
@@ -2804,7 +2773,7 @@
           "obsolete": false
         },
         {
-          "description": "SDK Platform Android SDK Platform 15",
+          "description": "SDK Platform Android SDK Platform 4.0.3",
           "version": "5",
           "archives": [
             {
@@ -2822,6 +2791,33 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/android-15_r05.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "Samples for SDK",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "16366656"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "042f368c5b09eca4d278264e6dbf9c12c5f73d1f",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-15_r02.zip"
+                  ]
                 }
               ]
             }
@@ -2896,7 +2892,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sources-15_r02.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/sources-15_r02.zip"
+                  ]
                 }
               ]
             }
@@ -2934,7 +2932,7 @@
           "obsolete": false
         },
         {
-          "description": "SDK Platform Android SDK Platform 16",
+          "description": "SDK Platform Android SDK Platform 4.1.2",
           "version": "5",
           "archives": [
             {
@@ -2952,6 +2950,33 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/android-16_r05.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "Samples for SDK",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "14729945"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "dce3a2d41db50a381ef47ee8bddbe928520e685e",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-16_r01.zip"
+                  ]
                 }
               ]
             }
@@ -3026,7 +3051,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sources-16_r02.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/sources-16_r02.zip"
+                  ]
                 }
               ]
             }
@@ -3064,7 +3091,7 @@
           "obsolete": false
         },
         {
-          "description": "SDK Platform Android SDK Platform 17",
+          "description": "SDK Platform Android SDK Platform 4.2.2",
           "version": "3",
           "archives": [
             {
@@ -3082,6 +3109,33 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/android-17_r03.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "Samples for SDK",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "14840030"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "12d58cb26503610fc05bd7618c434cc6f983bc41",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-17_r01.zip"
+                  ]
                 }
               ]
             }
@@ -3156,7 +3210,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sources-17_r01.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/sources-17_r01.zip"
+                  ]
                 }
               ]
             }
@@ -3194,7 +3250,7 @@
           "obsolete": false
         },
         {
-          "description": "SDK Platform Android SDK Platform 18",
+          "description": "SDK Platform Android SDK Platform 4.3.1",
           "version": "3",
           "archives": [
             {
@@ -3212,6 +3268,33 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/android-18_r03.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "Samples for SDK",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "19897793"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "73e879ce46c04a6e63ad1a9107018b4782945007",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/samples-18_r01.zip"
+                  ]
                 }
               ]
             }
@@ -3286,7 +3369,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sources-18_r01.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/sources-18_r01.zip"
+                  ]
                 }
               ]
             }
@@ -3298,96 +3383,6 @@
     {
       "apiLevel": "19",
       "items": [
-        {
-          "description": "Addon Preview of the Glass Development Kit",
-          "version": "11",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "72978"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "52cadbec4d42ce68a667e7e4ea461ef8b81924ef",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": [
-                    "https://dl.google.com/glass/xe22/google-gdk.zip",
-                    "t",
-                    "t",
-                    "p",
-                    ":",
-                    "/",
-                    "/",
-                    "d",
-                    "l",
-                    ".",
-                    "g",
-                    "o",
-                    "o",
-                    "g",
-                    "l",
-                    "e",
-                    ".",
-                    "c",
-                    "o",
-                    "m",
-                    "/",
-                    "a",
-                    "n",
-                    "d",
-                    "r",
-                    "o",
-                    "i",
-                    "d",
-                    "/",
-                    "r",
-                    "e",
-                    "p",
-                    "o",
-                    "s",
-                    "i",
-                    "t",
-                    "o",
-                    "r",
-                    "y",
-                    "/",
-                    "g",
-                    "o",
-                    "o",
-                    "g",
-                    "l",
-                    "e",
-                    "_",
-                    "a",
-                    "p",
-                    "i",
-                    "s",
-                    "-",
-                    "3",
-                    "-",
-                    "r",
-                    "0",
-                    "3",
-                    ".",
-                    "z",
-                    "i",
-                    "p"
-                  ],
-                  "$": {
-                    "os": "any"
-                  }
-                }
-              ]
-            }
-          ],
-          "obsolete": true
-        },
         {
           "description": "Addon Android + Google APIs",
           "version": "20",
@@ -3414,7 +3409,7 @@
           "obsolete": false
         },
         {
-          "description": "SDK Platform Android SDK Platform 19",
+          "description": "SDK Platform Android SDK Platform 4.4.2",
           "version": "4",
           "archives": [
             {
@@ -3432,6 +3427,31 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/android-19_r04.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "Samples for SDK",
+          "version": "6",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "31900752"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "19593662771934b0b1e3be56ed18d13e6489bcd4",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/samples-19_r06.zip"
                 }
               ]
             }
@@ -3506,7 +3526,9 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sources-19_r02.zip"
+                  "url": [
+                    "https://dl-ssl.google.com/android/repository/sources-19_r02.zip"
+                  ]
                 }
               ]
             }
@@ -3519,7 +3541,7 @@
       "apiLevel": "20",
       "items": [
         {
-          "description": "SDK Platform Android SDK Platform 20",
+          "description": "SDK Platform Android SDK Platform 4.4W.2",
           "version": "2",
           "archives": [
             {
@@ -3537,6 +3559,31 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/android-20_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "Samples for SDK",
+          "version": "3",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "50796850"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "8b1290b0b707827808392e8178094a68dfb51a14",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/samples-20_r03.zip"
                 }
               ]
             }
@@ -3599,7 +3646,7 @@
           "obsolete": false
         },
         {
-          "description": "SDK Platform Android SDK Platform 21",
+          "description": "SDK Platform Android SDK Platform 5.0.1",
           "version": "2",
           "archives": [
             {
@@ -3617,6 +3664,31 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/android-21_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "Samples for SDK",
+          "version": "4",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "95971939"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "3a08d37e97f567f5f629a06a9012f89b05c5ad8a",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/samples-21_r04.zip"
                 }
               ]
             }
@@ -3779,7 +3851,7 @@
           "obsolete": false
         },
         {
-          "description": "SDK Platform Android SDK Platform 22",
+          "description": "SDK Platform Android SDK Platform 5.1.1",
           "version": "2",
           "archives": [
             {
@@ -3797,6 +3869,31 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/android-22_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "Samples for SDK",
+          "version": "6",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "124512215"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "1f6f4a81a8f19a9b9c9bf4adb64a91330a861c7f",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/samples-22_r06.zip"
                 }
               ]
             }
@@ -3959,24 +4056,49 @@
           "obsolete": false
         },
         {
-          "description": "SDK Platform Android SDK Platform 23",
-          "version": "3",
+          "description": "SDK Platform Android SDK Platform 6.0",
+          "version": "1",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "70433421"
+                    "70408061"
                   ],
                   "checksum": [
                     {
-                      "_": "027fede3de6aa1649115bbd0bffff30ccd51c9a0",
+                      "_": "cbccca8d3127e894845556ce999b28281de541bd",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/platform-23_r03.zip"
+                  "url": "http://dl.google.com/android/repository/android-23_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "Samples for SDK",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "127582326"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "94d2857476987cfb7b18c8be61755c21b0a6e599",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/samples-23_r02.zip"
                 }
               ]
             }
@@ -4139,31 +4261,6 @@
           "obsolete": false
         },
         {
-          "description": "SDK Platform Android SDK Platform 24",
-          "version": "2",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "82648154"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "8912da3d4bfe7a9f28f0e5ce92d3a8dc96342aee",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/platform-24_r02.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
-        {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
           "version": "9",
           "archives": [
@@ -4287,62 +4384,12 @@
             }
           ],
           "obsolete": false
-        },
-        {
-          "description": "Sources for Android SDK",
-          "version": "1",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "30270410"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "6b96115830a83d654479f32ce4b724ca9011148b",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/sources-24_r01.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
         }
       ]
     },
     {
       "apiLevel": "25",
       "items": [
-        {
-          "description": "SDK Platform Android SDK Platform 25",
-          "version": "1",
-          "archives": [
-            {
-              "archive": [
-                {
-                  "size": [
-                    "85435989"
-                  ],
-                  "checksum": [
-                    {
-                      "_": "5a7ec10d7ddd3b2729384b5d40d7cbcfe968d34f",
-                      "$": {
-                        "type": "sha1"
-                      }
-                    }
-                  ],
-                  "url": "http://dl.google.com/android/repository/platform-25_r01.zip"
-                }
-              ]
-            }
-          ],
-          "obsolete": false
-        },
         {
           "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
           "version": "2",
