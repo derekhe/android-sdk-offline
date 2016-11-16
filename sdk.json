@@ -6644,7 +6644,10 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-18_r05.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-18_r05.zip",
+                  "host-os": [
+                    "windows"
+                  ]
                 }
               ]
             }
@@ -7319,17 +7322,17 @@
               "archive": [
                 {
                   "size": [
-                    "290590059"
+                    "290608820"
                   ],
                   "checksum": [
                     {
-                      "_": "eb14ba9c14615d5e5a21c854be29aa903d9bb63d",
+                      "_": "9b2d64a69a72fa596c386899a742a404308f2c92",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-21_r04.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-21_r04.zip"
                 }
               ]
             }
@@ -7561,17 +7564,17 @@
               "archive": [
                 {
                   "size": [
-                    "297851141"
+                    "297850561"
                   ],
                   "checksum": [
                     {
-                      "_": "8a04ff4fb30f70414e6ec7b3b06285f316e93d08",
+                      "_": "99d1d6c77e92284b4210640edf6c81eceb28520d",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-22_r05.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-22_r05.zip"
                 }
               ]
             }
@@ -7803,17 +7806,17 @@
               "archive": [
                 {
                   "size": [
-                    "349443901"
+                    "363794271"
                   ],
                   "checksum": [
                     {
-                      "_": "571f5078a3d337a9144e2af13bd23ca46845a979",
+                      "_": "84cc076eacec043c8e88382c6ab391b0cd5c0695",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/sysimg_x86_64-23_r09.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-23_r09.zip"
                 }
               ]
             }
@@ -8005,6 +8008,31 @@
     {
       "apiLevel": "25",
       "items": [
+        {
+          "description": "x86 System Image Google APIs Intel x86 Atom System Image",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "699152669"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "76133b22fcd64539f84db4a37eadfb5e066c1e1d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86-25_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
         {
           "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
           "version": "2",
