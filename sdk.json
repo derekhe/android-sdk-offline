@@ -8100,23 +8100,23 @@
       "description": [
         "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "6.0.4",
+      "version": "6.0.5",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "2603703"
+                "2626294"
               ],
               "checksum": [
                 {
-                  "_": "5c7027cea073df7716a7314e196872a93b215472",
+                  "_": "77df087e699411e290294da22bd1058b7f341104",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_4.zip",
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_0_5.zip",
               "host-os": [
                 "windows"
               ]
@@ -8130,23 +8130,23 @@
       "description": [
         "Google Repository"
       ],
-      "version": "38..",
+      "version": "39..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "137717829"
+                "144991922"
               ],
               "checksum": [
                 {
-                  "_": "6320401708c1be9b77acde31919cae7b5e29b753",
+                  "_": "12d2355caafea06987c8323fa53c3ecc61477a35",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_m2repository_gms_v7_rc28_wear_2a3.zip"
+              "url": "http://dl.google.com/android/repository/google_m2repository_gms_v8_rc41_wear_2a3.zip"
             }
           ]
         }
@@ -8238,23 +8238,23 @@
       "description": [
         "Google Play services"
       ],
-      "version": "37..",
+      "version": "38..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "12078824"
+                "12351978"
               ],
               "checksum": [
                 {
-                  "_": "20b7d0b69c166161bf9aa95df1f58404a8733171",
+                  "_": "7a50dec81ba9c9b51d7778c19ca05002498209e8",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_play_services_v7_rc28.zip"
+              "url": "http://dl.google.com/android/repository/google_play_services_v8_rc41.zip"
             }
           ]
         }
