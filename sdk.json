@@ -8204,23 +8204,23 @@
       "description": [
         "Google Repository"
       ],
-      "version": "39..",
+      "version": "40..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "144991922"
+                "152633821"
               ],
               "checksum": [
                 {
-                  "_": "12d2355caafea06987c8323fa53c3ecc61477a35",
+                  "_": "0f599f7f35fba49b9277ef9e1394c5c82d8bd369",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_m2repository_gms_v8_rc41_wear_2a3.zip"
+              "url": "http://dl.google.com/android/repository/google_m2repository_gms_v8_rc42_wear_2a3.zip"
             }
           ]
         }
