@@ -8372,23 +8372,23 @@
       "description": [
         "Google Play services"
       ],
-      "version": "38..",
+      "version": "39..",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "12351978"
+                "12520770"
               ],
               "checksum": [
                 {
-                  "_": "7a50dec81ba9c9b51d7778c19ca05002498209e8",
+                  "_": "de649e709c132230228e2a7ae2c1c711b38bd9a9",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/google_play_services_v8_rc41.zip"
+              "url": "http://dl.google.com/android/repository/google_play_services_v9_rc41.zip"
             }
           ]
         }
