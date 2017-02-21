@@ -267,7 +267,10 @@
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-18_r05.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-18_r05.zip",
+                  "host-os": [
+                    "windows"
+                  ]
                 }
               ]
             }
@@ -408,6 +411,31 @@
             }
           ],
           "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "4",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "290608820"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "9b2d64a69a72fa596c386899a742a404308f2c92",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-21_r04.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
         }
       ]
     },
@@ -488,6 +516,31 @@
             }
           ],
           "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "5",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "297850561"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "99d1d6c77e92284b4210640edf6c81eceb28520d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-22_r05.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
         }
       ]
     },
@@ -563,6 +616,31 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-23_r19.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "9",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "363794271"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "84cc076eacec043c8e88382c6ab391b0cd5c0695",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-23_r09.zip"
                 }
               ]
             }
@@ -668,6 +746,86 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/sys-img/google_apis/arm64-v8a-24_r10.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "7",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "407148033"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "a379932395ced0a8f572b39c396d86e08827a9ba",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-24_r07.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        }
+      ]
+    },
+    {
+      "apiLevel": "25",
+      "items": [
+        {
+          "description": "x86 System Image Google APIs Intel x86 Atom System Image",
+          "version": "3",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "703131759"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "7dd19cfee4e43a1f60e0f5f058404d92d9544b33",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86-25_r03.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
+          "version": "3",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "912938750"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "4593ee04811df21c339f3374fc5917843db06f8d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-25_r03.zip"
                 }
               ]
             }
