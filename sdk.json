@@ -679,4 +679,152 @@
   ],
   "extras": [],
   "updated": "2017-2-21"
+}": "3454546b4eed2d6c3dd06d47757d6da9f4176033",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/armeabi-v7a-24_r07.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "arm64-v8a System Image ARM 64 v8a System Image",
+          "version": "7",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "384556503"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "e8ab2e49e4efe4b064232b33b5eeaded61437d7f",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/arm64-v8a-24_r07.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86 System Image Intel x86 Atom System Image",
+          "version": "7",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "302213276"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "566fdee283a907854bfa3c174265bc31f396eabd",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86-24_r07.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "7",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "407148033"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "a379932395ced0a8f572b39c396d86e08827a9ba",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-24_r07.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        }
+      ]
+    },
+    {
+      "apiLevel": "25",
+      "items": [
+        {
+          "description": "x86 System Image Google APIs Intel x86 Atom System Image",
+          "version": "3",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "703131759"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "7dd19cfee4e43a1f60e0f5f058404d92d9544b33",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86-25_r03.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
+          "version": "3",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "912938750"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "4593ee04811df21c339f3374fc5917843db06f8d",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-25_r03.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        }
+      ]
+    }
+  ],
+  "extras": [],
+  "updated": "2017-2-21"
 }
