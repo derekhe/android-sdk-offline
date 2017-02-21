@@ -1,6 +1,117 @@
 {
   "tools": [],
-  "apis": [],
+  "apis": [
+    {
+      "apiLevel": "23",
+      "items": [
+        {
+          "description": "armeabi-v7a System Image Android Wear ARM EABI v7a System Image",
+          "version": "6",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "253642503"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "0df5d34b1cdaaaa3805a2f06bb889901eabe2e71",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android-wear/armeabi-v7a-23_r06.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86 System Image Android Wear Intel x86 Atom System Image",
+          "version": "6",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "263767761"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "3b15c123f3f71459d5b60c1714d49c5d90a5525e",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android-wear/x86-23_r06.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        }
+      ]
+    },
+    {
+      "apiLevel": "25",
+      "items": [
+        {
+          "description": "armeabi-v7a System Image Android Wear ARM EABI v7a System Image",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "381070621"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "0c3d89d7d14256acced7feacd90d9736938b3637",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android-wear/armeabi-v7a-25_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86 System Image Android Wear Intel x86 Atom System Image",
+          "version": "2",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "400960241"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "180a71bfbdc71c61c72587f4af985d252d07fbfb",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android-wear/x86-25_r02.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        }
+      ]
+    }
+  ],
   "extras": [],
   "updated": "2017-2-20"
 }
