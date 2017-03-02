@@ -8040,24 +8040,24 @@
           "obsolete": false
         },
         {
-          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
-          "version": "7",
+          "description": "arm64-v8a System Image Google APIs ARM 64 v8a System Image",
+          "version": "11",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "407148033"
+                    "945277624"
                   ],
                   "checksum": [
                     {
-                      "_": "a379932395ced0a8f572b39c396d86e08827a9ba",
+                      "_": "8d50a8a5d27190c7fbf4cd13c549911c706a5d07",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-24_r07.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/arm64-v8a-24_r11.zip"
                 }
               ]
             }
@@ -8602,5 +8602,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2017-3-1"
+  "updated": "2017-3-2"
 }
