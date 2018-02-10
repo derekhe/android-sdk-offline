@@ -9041,23 +9041,23 @@
       "items": [
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "2",
+          "version": "3",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "790936412"
+                    "773295177"
                   ],
                   "checksum": [
                     {
-                      "_": "1b4557f27fe0220e9e54e5c4eadfec5abd194cf3",
+                      "_": "fb8ac969fa022d5f8c684b72b9241adc9366e3f1",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-27_r02.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-27_r03.zip"
                 }
               ]
             }
@@ -9497,5 +9497,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2018-2-10"
+  "updated": "2018-2-11"
 }
