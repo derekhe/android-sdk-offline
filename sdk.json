@@ -7875,23 +7875,23 @@
         },
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "33",
+          "version": "34",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "285367321"
+                    "286957933"
                   ],
                   "checksum": [
                     {
-                      "_": "d2b79ecac95301302c1b95b56b27ce77a0a559b3",
+                      "_": "95989e5f834b3ff215137e15f5f81d297a59f069",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-19_r33.zip",
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-19_r34.zip",
                   "host-os": [
                     "windows"
                   ]
@@ -8147,23 +8147,23 @@
         },
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "25",
+          "version": "26",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "331309669"
+                    "338166849"
                   ],
                   "checksum": [
                     {
-                      "_": "78a3f541612e6cf949b902593b2728b7f64d5f77",
+                      "_": "ea0b1713fc0a391874dd403e65b9735b65e4050a",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-21_r25.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-21_r26.zip"
                 }
               ]
             }
@@ -8172,23 +8172,23 @@
         },
         {
           "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
-          "version": "25",
+          "version": "26",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "472945679"
+                    "482005659"
                   ],
                   "checksum": [
                     {
-                      "_": "3a44d5e174c18f1b24c8db796416877b3f9d17ab",
+                      "_": "d054401d0bb5c02bf0cd2b19f4a18517501e8d77",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-21_r25.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-21_r26.zip"
                 }
               ]
             }
@@ -8197,23 +8197,23 @@
         },
         {
           "description": "armeabi-v7a System Image Google APIs ARM EABI v7a System Image",
-          "version": "25",
+          "version": "26",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "300647860"
+                    "307310015"
                   ],
                   "checksum": [
                     {
-                      "_": "7e24aaebcbad813b5f03a2da6463d84f71b9a50c",
+                      "_": "5661077fccb30ef460437b1bf258200e8bdd577c",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-21_r25.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-21_r26.zip"
                 }
               ]
             }
@@ -8327,23 +8327,23 @@
         },
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "19",
+          "version": "20",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "392075510"
+                    "400515197"
                   ],
                   "checksum": [
                     {
-                      "_": "fc964c909adb8615b02ef3a63c545a4cdea28ef6",
+                      "_": "66c55429713e98bc965c7672d3ec37aebdb5fec7",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-22_r19.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-22_r20.zip"
                 }
               ]
             }
@@ -8352,23 +8352,23 @@
         },
         {
           "description": "armeabi-v7a System Image Google APIs ARM EABI v7a System Image",
-          "version": "19",
+          "version": "20",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "365600470"
+                    "374093136"
                   ],
                   "checksum": [
                     {
-                      "_": "a5002c695380b9ae3bee3c33d18e38a48e8aeecc",
+                      "_": "3f6a6b24a9df72bea79564823929b1468bfcd60a",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-22_r19.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-22_r20.zip"
                 }
               ]
             }
@@ -8377,23 +8377,23 @@
         },
         {
           "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
-          "version": "19",
+          "version": "20",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "535621405"
+                    "546286874"
                   ],
                   "checksum": [
                     {
-                      "_": "415e4fb37c68bc8a2bcfc0337f2fd31ef10befa0",
+                      "_": "c3d2d84a912550b31457454cf73323070d274c1c",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-22_r19.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-22_r20.zip"
                 }
               ]
             }
@@ -8532,23 +8532,23 @@
         },
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "26",
+          "version": "27",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "471254684"
+                    "480565738"
                   ],
                   "checksum": [
                     {
-                      "_": "2b65941874839287225b5b4852b291516bd895f4",
+                      "_": "4ac5b05fa5b51a76f097caf3eb927b94fcab0101",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-23_r26.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-23_r27.zip"
                 }
               ]
             }
@@ -8557,23 +8557,23 @@
         },
         {
           "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
-          "version": "26",
+          "version": "27",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "621733686"
+                    "633248601"
                   ],
                   "checksum": [
                     {
-                      "_": "e0735207145147b2b1fcb5ce2218c06777495122",
+                      "_": "afcfc03c1f041a20b179ca01840be7290f1ed383",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-23_r26.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-23_r27.zip"
                 }
               ]
             }
@@ -8582,23 +8582,23 @@
         },
         {
           "description": "armeabi-v7a System Image Google APIs ARM EABI v7a System Image",
-          "version": "26",
+          "version": "27",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "439479387"
+                    "448671357"
                   ],
                   "checksum": [
                     {
-                      "_": "c9a1ba001a7b023efbbc1fd394f1c6ef82eb4c8c",
+                      "_": "b365b84342e913024bfd797a3ea1283c1094fc07",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-23_r26.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-23_r27.zip"
                 }
               ]
             }
@@ -8662,23 +8662,23 @@
         },
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "20",
+          "version": "21",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "825462517"
+                    "829943155"
                   ],
                   "checksum": [
                     {
-                      "_": "c86cadee4e835eef8246bede3269133d06f34571",
+                      "_": "4e7800bce384a8b60f8b2cf33459119c27404b6d",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-24_r20.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-24_r21.zip"
                 }
               ]
             }
@@ -8687,23 +8687,23 @@
         },
         {
           "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
-          "version": "20",
+          "version": "21",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "1025227666"
+                    "1032680451"
                   ],
                   "checksum": [
                     {
-                      "_": "317f9879615792ade9dcc951bb6a0017a106b8d6",
+                      "_": "4a58c4ae3219594764b5b0e9c989dcab6d72bc6a",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-24_r20.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-24_r21.zip"
                 }
               ]
             }
@@ -8712,23 +8712,23 @@
         },
         {
           "description": "armeabi-v7a System Image Google APIs ARM EABI v7a System Image",
-          "version": "20",
+          "version": "21",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "740493517"
+                    "744818131"
                   ],
                   "checksum": [
                     {
-                      "_": "cfa1e9ce2d6d31bec80393fde038d0ad007d439b",
+                      "_": "bf39edbf055df87fa01b8b66b9f002b6460d7653",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-24_r20.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-24_r21.zip"
                 }
               ]
             }
@@ -8737,23 +8737,23 @@
         },
         {
           "description": "arm64-v8a System Image Google APIs ARM 64 v8a System Image",
-          "version": "20",
+          "version": "21",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "972615490"
+                    "979866694"
                   ],
                   "checksum": [
                     {
-                      "_": "20b1079fdc3c1d6446c16011781cdf8dab821b2c",
+                      "_": "556c663ce734b14eff00c2b12737366a35edb862",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/arm64-v8a-24_r20.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/arm64-v8a-24_r21.zip"
                 }
               ]
             }
@@ -8767,23 +8767,23 @@
       "items": [
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "11",
+          "version": "12",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "958000650"
+                    "965523187"
                   ],
                   "checksum": [
                     {
-                      "_": "d2ecf010d0b82505f1f0c1a39c01af5d6d205efb",
+                      "_": "0566913d354ffb7a8fc539cc36ce2eb0ed2e2050",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-25_r11.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-25_r12.zip"
                 }
               ]
             }
@@ -8792,23 +8792,23 @@
         },
         {
           "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
-          "version": "11",
+          "version": "12",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "1211702270"
+                    "1222772566"
                   ],
                   "checksum": [
                     {
-                      "_": "add945a9e84f4f6ba9a4b7c93d8044cb8badd1ed",
+                      "_": "d2b387d3022dd6a981cade7be57269cc7c53d202",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-25_r11.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-25_r12.zip"
                 }
               ]
             }
@@ -8817,23 +8817,23 @@
         },
         {
           "description": "armeabi-v7a System Image Google APIs ARM EABI v7a System Image",
-          "version": "11",
+          "version": "12",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "902397233"
+                    "909701230"
                   ],
                   "checksum": [
                     {
-                      "_": "4085a30b904a6026bd0ce8754677521a1b4cbabf",
+                      "_": "4f012c03bd919bfa18c15c9139b5a4f77d2ff015",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-25_r11.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-25_r12.zip"
                 }
               ]
             }
@@ -8842,23 +8842,23 @@
         },
         {
           "description": "arm64-v8a System Image Google APIs ARM 64 v8a System Image",
-          "version": "11",
+          "version": "12",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "1033658230"
+                    "1044489582"
                   ],
                   "checksum": [
                     {
-                      "_": "6cec5d7b2533069c149e4548184ce83c4ad1f786",
+                      "_": "59e2d51a09f13fb5f9da88b9bc27da56a68feb07",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/arm64-v8a-25_r11.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/arm64-v8a-25_r12.zip"
                 }
               ]
             }
@@ -8872,23 +8872,23 @@
       "items": [
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "8",
+          "version": "9",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "782257682"
+                    "785069006"
                   ],
                   "checksum": [
                     {
-                      "_": "31d168e175d3ad44c6ff7736a4c10b70c1ee5ab2",
+                      "_": "8cdc4defc95c1d5946f8bc1c2558a8254bceeb68",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-26_r08.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-26_r09.zip"
                 }
               ]
             }
@@ -8897,23 +8897,23 @@
         },
         {
           "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
-          "version": "8",
+          "version": "9",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "955884088"
+                    "959735008"
                   ],
                   "checksum": [
                     {
-                      "_": "96aecae48ef6614d7c7516295a3dd6dc09b6bee2",
+                      "_": "753261b73577c52d23650422b51c32e787c2f171",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-26_r08.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-26_r09.zip"
                 }
               ]
             }
@@ -8927,23 +8927,23 @@
       "items": [
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "4",
+          "version": "5",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "777038727"
+                    "777878650"
                   ],
                   "checksum": [
                     {
-                      "_": "0771704f8c12ef86d02278659694ba543354b097",
+                      "_": "1ea7ae43c8a1a32cbaea0ab3edac7add6146da12",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-27_r04.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-27_r05.zip"
                 }
               ]
             }
@@ -9117,23 +9117,23 @@
       "items": [
         {
           "description": "armeabi-v7a System Image Google APIs ARM EABI v7a System Image",
-          "version": "33",
+          "version": "34",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "240983322"
+                    "242615501"
                   ],
                   "checksum": [
                     {
-                      "_": "6fe3378f4fa0dabdb070c68ba4a06aba525b1600",
+                      "_": "cdcf62fae17f4cc380622b06c69f1a4da4e06c71",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-19_r33.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/armeabi-v7a-19_r34.zip"
                 }
               ]
             }
@@ -9603,5 +9603,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2018-3-29"
+  "updated": "2018-3-30"
 }
