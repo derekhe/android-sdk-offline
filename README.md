@@ -29,4 +29,4 @@ open your browser and navigate to localhost:8080
 
 Hope this tool can help you
 ======================
-<a href='https://pledgie.com/campaigns/30995'><img alt='Click here to lend your support to: Donate my github projects and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/30995.png?skin_name=chrome' border='0' ></a>
+This tool is automatically updated everyday on my linode server. I suggest you to serve your server on linode. I can give a 5 starts for my 3+ years of experience of using linode. Please help me reigster a linode account to support this tool keeping update. [Please Register Here](https://www.linode.com/?r=48aca8b9e959c5e0064ed57512724ca84586ca6e)
