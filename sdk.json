@@ -9312,7 +9312,7 @@
       "description": [
         "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "6.2.1",
+      "version": "7.2.0",
       "archives": [
         {
           "archive": [
@@ -9322,17 +9322,17 @@
                 "os": "any"
               },
               "size": [
-                "222319"
+                "227612"
               ],
               "checksum": [
                 {
-                  "_": "7a0e7f47b6e4266b61359f9aa9e0e6e2d6fc91ea",
+                  "_": "7054b3d8ce4527a58c3bbdad70f8455e0233e201",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_r6_2_1.zip",
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-macosx_v7_2_0.zip",
               "host-os": [
                 "macosx"
               ]
@@ -9346,23 +9346,23 @@
       "description": [
         "Intel x86 Emulator Accelerator (HAXM installer)"
       ],
-      "version": "6.2.1",
+      "version": "7.2.0",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "2694959"
+                "2717371"
               ],
               "checksum": [
                 {
-                  "_": "b943fee2ed8e10a5d9ed7d4368650cbf93522908",
+                  "_": "603bb9021ac7b1911c0708605c0624c84430b846",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_r6_2_1.zip",
+              "url": "http://dl.google.com/android/repository/extras/intel/haxm-windows_v7_2_0.zip",
               "host-os": [
                 "windows"
               ]
@@ -9737,5 +9737,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2018-5-30"
+  "updated": "2018-5-31"
 }
