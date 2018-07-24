@@ -29,4 +29,4 @@ open your browser and navigate to localhost:8080
 
 Hope this tool can help you
 ======================
-This tool is automatically updated everyday on my linode server. I suggest you to serve your server on linode. I can give a 5 starts for my 3+ years of experience of using linode. Please help me reigster a linode account to support this tool keeping update. [Please Register Here](https://www.linode.com/?r=48aca8b9e959c5e0064ed57512724ca84586ca6e)
+This tool is automatically updated everyday on my digitalocean server. I suggest you to serve your server on digitalocean. I can give a 5 starts for my 3+ years of experience of using digitalocean. Please help me reigster a digitalocean account to support this tool keeping update. [Please Register Here](https://m.do.co/c/4bc532e3ef94)
