@@ -9343,6 +9343,31 @@
             }
           ],
           "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "474178332"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "432f149c048bffce7f9de526ec65b336daf7a0a3",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-26_r01.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
         }
       ]
     },
@@ -9368,6 +9393,31 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-27_r06.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "1",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "491675204"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "2878261011a59ca3de29dc5b457a495fdb268d60",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-27_r01.zip"
                 }
               ]
             }
@@ -9423,6 +9473,31 @@
                     }
                   ],
                   "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-28_r05.zip"
+                }
+              ]
+            }
+          ],
+          "obsolete": false
+        },
+        {
+          "description": "x86_64 System Image Intel x86 Atom_64 System Image",
+          "version": "4",
+          "archives": [
+            {
+              "archive": [
+                {
+                  "size": [
+                    "564792723"
+                  ],
+                  "checksum": [
+                    {
+                      "_": "d47a85c8f4e9fd57df97814ad8884eeb0f3a0ef0",
+                      "$": {
+                        "type": "sha1"
+                      }
+                    }
+                  ],
+                  "url": "http://dl.google.com/android/repository/sys-img/android/x86_64-28_r04.zip"
                 }
               ]
             }
@@ -9892,5 +9967,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2018-8-18"
+  "updated": "2018-8-19"
 }
