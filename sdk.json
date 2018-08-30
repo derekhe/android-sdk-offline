@@ -9941,25 +9941,25 @@
     },
     {
       "description": [
-        "Instant Apps Development SDK"
+        "Google Play Instant Development SDK"
       ],
-      "version": "1.3.0",
+      "version": "1.4.0",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "22561735"
+                "32485472"
               ],
               "checksum": [
                 {
-                  "_": "83da81493dc7e95e0200b7da53f0bd66c8f143e2",
+                  "_": "8137a2a17ba78ff16221aaafb9b25ec268a25b48",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/aiasdk-1.3.0-1525823131.zip"
+              "url": "http://dl.google.com/android/repository/iasdk-1.4.0-1535411267.zip"
             }
           ]
         }
@@ -9967,5 +9967,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2018-8-30"
+  "updated": "2018-8-31"
 }
