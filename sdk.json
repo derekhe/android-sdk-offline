@@ -7803,23 +7803,23 @@
         },
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "5",
+          "version": "6",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "194550080"
+                    "194816808"
                   ],
                   "checksum": [
                     {
-                      "_": "d89591526b66d7c475056b755dd20348bd6e5d75",
+                      "_": "7864c34faf0402b8923d8c6e609a5339f74cc8d6",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-17_r05.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-17_r06.zip"
                 }
               ]
             }
@@ -10017,23 +10017,23 @@
       "description": [
         "Google Play Instant Development SDK"
       ],
-      "version": "1.4.0",
+      "version": "1.5.0",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "32485472"
+                "33351418"
               ],
               "checksum": [
                 {
-                  "_": "8137a2a17ba78ff16221aaafb9b25ec268a25b48",
+                  "_": "6c282b9c686e819fe7f5ac8f2249d2479acb63b4",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/iasdk-1.4.0-1535411267.zip"
+              "url": "http://dl.google.com/android/repository/iasdk-1.5.0-1538000167.zip"
             }
           ]
         }
@@ -10041,5 +10041,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2018-9-28"
+  "updated": "2018-9-29"
 }
