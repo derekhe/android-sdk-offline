@@ -10017,23 +10017,23 @@
       "description": [
         "Google Play Instant Development SDK"
       ],
-      "version": "1.5.0",
+      "version": "1.6.0",
       "archives": [
         {
           "archive": [
             {
               "size": [
-                "33351418"
+                "36423636"
               ],
               "checksum": [
                 {
-                  "_": "6c282b9c686e819fe7f5ac8f2249d2479acb63b4",
+                  "_": "0bb546a846815f5b5ccd2ed00549c9912d1d48cb",
                   "$": {
                     "type": "sha1"
                   }
                 }
               ],
-              "url": "http://dl.google.com/android/repository/iasdk-1.5.0-1538000167.zip"
+              "url": "http://dl.google.com/android/repository/iasdk-1.6.0-1540933685.zip"
             }
           ]
         }
@@ -10041,5 +10041,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2018-11-6"
+  "updated": "2018-11-7"
 }
