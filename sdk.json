@@ -9530,23 +9530,23 @@
       "items": [
         {
           "description": "x86 System Image Google APIs Intel x86 Atom System Image",
-          "version": "7",
+          "version": "8",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "924242692"
+                    "925551467"
                   ],
                   "checksum": [
                     {
-                      "_": "fe5d58355545ae82b0e6a55adc1d41573ac7dec1",
+                      "_": "41e3b854d7987a3d8b7500631dae1f1d32d3db4e",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-28_r07.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86-28_r08.zip"
                 }
               ]
             }
@@ -9555,23 +9555,23 @@
         },
         {
           "description": "x86_64 System Image Google APIs Intel x86 Atom_64 System Image",
-          "version": "7",
+          "version": "8",
           "archives": [
             {
               "archive": [
                 {
                   "size": [
-                    "1075464085"
+                    "1077839305"
                   ],
                   "checksum": [
                     {
-                      "_": "068468683a56725326f741f75b6913ee1e7955ff",
+                      "_": "d8901fdfab7410a4c2fa492dd3ce528e4dbcdfd6",
                       "$": {
                         "type": "sha1"
                       }
                     }
                   ],
-                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-28_r07.zip"
+                  "url": "http://dl.google.com/android/repository/sys-img/google_apis/x86_64-28_r08.zip"
                 }
               ]
             }
@@ -10036,5 +10036,5 @@
       "obsolete": false
     }
   ],
-  "updated": "2019-2-14"
+  "updated": "2019-2-15"
 }
